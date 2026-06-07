@@ -172,6 +172,13 @@ Análise de Circuitos Digitais:
   Interpretação de estados possíveis
   Circuitos biestáveis básicos
 
+ Identificação de Problemas em Diagramas:
+  Conexões incorretas
+  Inversões indevidas
+  Portas mal conectadas
+  Saídas indefinidas
+  Ambiguidades de desenho
+
 
 
 
