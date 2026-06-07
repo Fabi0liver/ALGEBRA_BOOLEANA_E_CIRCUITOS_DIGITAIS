@@ -234,6 +234,36 @@ Síntese e Elaboração de Diagramas Lógicos:
   Comparação estrutural
 
 
+Técnicas Avançadas de Análise e Síntese:
+
+ Análise Hierárquica de Circuitos:
+  Divisão em blocos
+  Subcircuitos
+  Entradas e saídas intermediárias
+  Simplificação da análise
+
+ Rastreamento de Sinais:
+  Caminho lógico completo
+  Dependências entre sinais
+  Propagação das alterações
+  Análise de influência das entradas
+
+ Verificação e Validação de Circuitos:
+Conferência da expressão
+Conferência da tabela da verdade
+Conferência do diagrama
+Testes de consistência
+33. Exercícios Integrados
+Expressão → Tabela da Verdade
+Circuito → Expressão
+Circuito → Tabela da Verdade
+Expressão → Circuito
+Circuito → Expressão → Tabela
+Expressão → Circuito → Tabela
+Identificação de erros em diagramas
+Comparação de circuitos equivalentes
+
+
 
 
 
