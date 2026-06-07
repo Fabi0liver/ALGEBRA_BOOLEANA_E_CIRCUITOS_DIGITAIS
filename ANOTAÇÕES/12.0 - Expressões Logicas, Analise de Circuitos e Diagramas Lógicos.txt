@@ -118,6 +118,21 @@ Análise de Circuitos Digitais:
   Reconhecimento das portas
   Interpretação dos caminhos de sinal
 
+ Convenções de Diagramas:
+  Fios de conexão
+  Cruzamentos com conexão
+  Cruzamentos sem conexão
+  Ramificações de sinais
+  Entradas compartilhadas
+  Organização visual do circuito
+
+ Análise em Cascata:
+  Análise da esquerda para a direita
+  Identificação de blocos intermediários
+  Determinação de saídas parciais
+  Construção gradual da expressão lógica
+  Obtenção da saída final
+
 
 
 
