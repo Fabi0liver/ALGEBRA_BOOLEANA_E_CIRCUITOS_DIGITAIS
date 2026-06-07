@@ -103,6 +103,22 @@ Expressões Lógicas:
   Entradas irrelevantes
 
 
+Análise de Circuitos Digitais:
+
+ Introdução à Análise de Circuitos:
+  Conceito de circuito digital
+  Fluxo de sinais
+  Entradas, saídas e estados internos
+  Objetivos da análise de circuitos
+
+ Leitura de Diagramas Lógicos:
+  Interpretação visual
+  Identificação das entradas
+  Identificação das saídas
+  Reconhecimento das portas
+  Interpretação dos caminhos de sinal
+
+
 
 
 
