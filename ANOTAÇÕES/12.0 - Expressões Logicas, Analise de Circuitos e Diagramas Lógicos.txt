@@ -249,19 +249,34 @@ Técnicas Avançadas de Análise e Síntese:
   Análise de influência das entradas
 
  Verificação e Validação de Circuitos:
-Conferência da expressão
-Conferência da tabela da verdade
-Conferência do diagrama
-Testes de consistência
-33. Exercícios Integrados
-Expressão → Tabela da Verdade
-Circuito → Expressão
-Circuito → Tabela da Verdade
-Expressão → Circuito
-Circuito → Expressão → Tabela
-Expressão → Circuito → Tabela
-Identificação de erros em diagramas
-Comparação de circuitos equivalentes
+  Conferência da expressão
+  Conferência da tabela da verdade
+  Conferência do diagrama
+  Testes de consistência
+
+ Exercícios Integrados:
+  Expressão → Tabela da Verdade
+  Circuito → Expressão
+  Circuito → Tabela da Verdade
+  Expressão → Circuito
+  Circuito → Expressão → Tabela
+  Expressão → Circuito → Tabela
+  Identificação de erros em diagramas
+  Comparação de circuitos equivalentes
+
+
+Conclusão Geral: 
+ Ao concluir esse estudo, você deverá ser capaz de:
+  Ler qualquer expressão lógica e determinar sua saída.
+  Construir tabelas da verdade de forma eficiente.
+  Extrair expressões a partir de circuitos.
+  Obter tabelas da verdade diretamente de diagramas.
+  Analisar circuitos combinacionais e sequenciais.
+  Identificar realimentações e elementos de memória.
+  Converter expressões em diagramas lógicos corretamente.
+  Projetar circuitos respeitando limitações reais de hardware.
+  Validar circuitos utilizando múltiplos métodos de análise.
+  Desenvolver uma visão completa da relação entre expressão lógica, circuito e comportamento funcional.
 
 
 
