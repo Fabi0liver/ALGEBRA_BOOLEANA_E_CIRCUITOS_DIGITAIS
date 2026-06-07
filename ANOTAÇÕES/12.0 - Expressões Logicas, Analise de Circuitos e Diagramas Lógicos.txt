@@ -35,8 +35,40 @@ Representações de uma Função Lógica:
  Conversão entre representações
 
 
+Convenções e Notações Utilizadas:
+ Notação algébrica
+ Notação com símbolos lógicos
+ Notação com barra de negação
+ Notação com apóstrofo
+ Notação com complemento
+ Leitura correta de expressões complexas
 
 
+
+Expressões Lógicas:
+
+ Estrutura das Expressões Lógicas:
+  Variáveis lógicas
+  Constantes lógicas
+  Operadores lógicos
+  Formação de expressões compostas
+  Hierarquia de operações
+
+ Regras de Precedência:
+  Parênteses
+  Colchetes
+  Negação
+  AND
+  OR
+  Precedência em expressões complexas
+  Casos ambíguos
+
+ Avaliação de Expressões Lógicas:
+  Substituição direta de valores
+  Resolução passo a passo
+  Avaliação de expressões simples
+  Avaliação de expressões compostas
+  Validação dos resultados
 
 
 
