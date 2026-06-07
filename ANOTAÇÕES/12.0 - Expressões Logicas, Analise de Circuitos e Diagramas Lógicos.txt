@@ -70,7 +70,21 @@ Expressões Lógicas:
   Avaliação de expressões compostas
   Validação dos resultados
 
+ Análise por Propriedades da Álgebra Booleana:
+  Elemento neutro
+  Elemento dominante
+  Complementação
+  Idempotência
+  Absorção
+  Simplificação mental
+  Identificação de termos irrelevantes
 
+ Construção de Tabelas da Verdade:
+  Organização das variáveis
+  Sequência binária das entradas
+  Cálculo de colunas intermediárias
+  Obtenção da saída final
+  Verificação de consistência
 
 
 
