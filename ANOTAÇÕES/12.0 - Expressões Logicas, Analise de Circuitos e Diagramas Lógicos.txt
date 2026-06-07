@@ -18,6 +18,24 @@ lógicas, o próximo passo é desenvolver a capacidade de:
 
 
 
+O que é Análise Lógica:
+ Conceito de análise lógica
+ Objetivos da análise lógica
+ Relação entre expressão, circuito e tabela da verdade
+ Fluxo geral de análise digital
+ Interpretação funcional de circuitos
+
+
+Representações de uma Função Lógica:
+ Expressão lógica
+ Tabela da verdade
+ Diagrama lógico
+ Forma verbal da função
+ Equivalência entre representações
+ Conversão entre representações
+
+
+
 
 
 
