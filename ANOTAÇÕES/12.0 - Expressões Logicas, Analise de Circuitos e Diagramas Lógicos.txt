@@ -86,6 +86,22 @@ Expressões Lógicas:
   Obtenção da saída final
   Verificação de consistência
 
+ Técnicas de Otimização de Tabelas:
+  Curto-circuito lógico
+  Eliminação de cálculos desnecessários
+  Reconhecimento de padrões
+  Uso de termos dominantes
+  Análise por blocos
+  Estratégias para 4 ou mais variáveis
+
+ Identificação de Comportamentos Lógicos:
+  Saídas constantes
+  Dependência parcial das entradas
+  Condições de ativação
+  Condições de bloqueio
+  Entradas críticas
+  Entradas irrelevantes
+
 
 
 
