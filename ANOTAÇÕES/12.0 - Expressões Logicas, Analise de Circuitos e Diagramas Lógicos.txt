@@ -133,6 +133,18 @@ Análise de Circuitos Digitais:
   Construção gradual da expressão lógica
   Obtenção da saída final
 
+ Obtenção da Expressão Lógica a Partir do Circuito:
+  Tradução de cada porta
+  Construção da expressão global
+  Uso de variáveis intermediárias
+  Simplificação da expressão obtida
+
+ Obtenção da Tabela da Verdade a Partir do Circuito:
+  Criação das colunas intermediárias
+  Avaliação dos blocos internos
+  Determinação da saída final
+  Verificação dos resultados
+
 
 
 
