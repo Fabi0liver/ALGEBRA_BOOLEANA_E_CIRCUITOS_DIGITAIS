@@ -157,6 +157,21 @@ Análise de Circuitos Digitais:
   Análise de blocos combinacionais
   Verificação funcional
 
+ Análise de Circuitos Sequenciais:
+  Conceito de estado
+  Dependência do histórico
+  Realimentação (feedback)
+  Identificação de elementos de memória
+  Análise básica de comportamento temporal
+  Diferença entre análise combinacional e sequencial
+
+ Análise de Circuitos com Realimentação:
+  Caminhos de feedback
+  Efeitos da realimentação
+  Estabilidade lógica
+  Interpretação de estados possíveis
+  Circuitos biestáveis básicos
+
 
 
 
