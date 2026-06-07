@@ -194,6 +194,18 @@ Síntese e Elaboração de Diagramas Lógicos:
   Construção por níveis
   Organização do fluxo de sinais
 
+ Desenho de Diagramas Lógicos:
+  Organização visual
+  Entradas à esquerda
+  Saídas à direita
+  Clareza gráfica
+  Padronização
+
+ Uso de Inversores e Variáveis Negadas:
+  Portas NOT
+  Aplicação de negações
+  Posicionamento correto
+  Leitura de sinais invertidos
 
 
 
