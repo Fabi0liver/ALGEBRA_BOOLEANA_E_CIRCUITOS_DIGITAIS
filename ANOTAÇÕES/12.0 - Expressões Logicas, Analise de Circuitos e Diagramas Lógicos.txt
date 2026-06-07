@@ -1,5 +1,43 @@
+                Expressões Logicas, Analise de Circuitos e Diagramas Lógicos
 
-  Expressões Logicas, Analise de Circuitos e Diagramas Lógicos
+
+Fundamentação: Após estudar os fundamentos da lógica digital, sistemas de numeração, álgebra booleana básica e portas  
+lógicas, o próximo passo é desenvolver a capacidade de:
+
+  Interpretar expressões lógicas e prever seus resultados.
+  Analisar circuitos digitais, entendendo como os sinais se propagam e produzem uma saída.
+  Converter circuitos em expressões lógicas e expressões em circuitos.
+  Compreender o comportamento funcional de sistemas digitais, independentemente de serem combinacionais ou  
+ sequenciais.
+  Representar funções lógicas graficamente, utilizando diagramas organizados e corretos.
+  Validar circuitos através de tabelas da verdade e análise lógica.
+  Desenvolver raciocínio de projeto, preparando o caminho para síntese de circuitos, minimização lógica e projetos 
+ digitais mais avançados.
+
+ Este estudo foca especificamente na interpretação, análise e representação de circuitos digitais, não na teoria básica das portas lógicas ou da álgebra booleana, que já são conhecimentos pré-requisitos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Parte 1: Análise de Expressões Lógicas 
 
