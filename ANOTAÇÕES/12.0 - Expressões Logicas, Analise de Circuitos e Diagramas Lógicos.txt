@@ -180,6 +180,20 @@ Análise de Circuitos Digitais:
   Ambiguidades de desenho
 
 
+Síntese e Elaboração de Diagramas Lógicos:
+
+ Introdução à Síntese de Circuitos:
+  Conceito de síntese
+  Fluxo inverso da análise
+  Da expressão para o circuito
+  Validação do projeto
+
+ Tradução de Expressões para Diagramas:
+  Identificação das operações
+  Ordem de implementação
+  Construção por níveis
+  Organização do fluxo de sinais
+
 
 
 
