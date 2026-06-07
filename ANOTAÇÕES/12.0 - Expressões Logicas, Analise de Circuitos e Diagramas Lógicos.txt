@@ -145,6 +145,18 @@ Análise de Circuitos Digitais:
   Determinação da saída final
   Verificação dos resultados
 
+ Análise Funcional de Circuitos:
+  Identificação da função desempenhada
+  Reconhecimento de padrões conhecidos
+  Comparação entre circuitos equivalentes
+  Determinação do comportamento geral
+
+ Análise de Circuitos Combinacionais:
+  Dependência exclusiva das entradas atuais
+  Ausência de memória
+  Análise de blocos combinacionais
+  Verificação funcional
+
 
 
 
