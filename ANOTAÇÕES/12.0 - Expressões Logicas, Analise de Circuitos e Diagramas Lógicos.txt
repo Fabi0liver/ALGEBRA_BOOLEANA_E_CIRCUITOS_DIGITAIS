@@ -207,6 +207,19 @@ Síntese e Elaboração de Diagramas Lógicos:
   Posicionamento correto
   Leitura de sinais invertidos
 
+ Círculos de Inversão (Bolinhas):
+  Conceito
+  Interpretação gráfica
+  Equivalência com portas NOT
+  Simplificação visual
+  Aplicação prática em diagramas
+
+ Construção de Circuitos Complexos:
+  Múltiplos níveis lógicos
+  Blocos hierárquicos
+  Reutilização de sinais
+  Estruturação modular
+
 
 
 
