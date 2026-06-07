@@ -220,6 +220,19 @@ Síntese e Elaboração de Diagramas Lógicos:
   Reutilização de sinais
   Estruturação modular
 
+ Implementação com Restrições de Hardware:
+  Limitações de entradas por porta
+  Portas de 2 entradas
+  Encadeamento de portas
+  Decomposição de expressões
+  Construção de árvores lógicas
+
+ Equivalência Entre Diagramas:
+  Circuitos diferentes com mesma função
+  Validação por tabela da verdade
+  Validação por álgebra booleana
+  Comparação estrutural
+
 
 
 
