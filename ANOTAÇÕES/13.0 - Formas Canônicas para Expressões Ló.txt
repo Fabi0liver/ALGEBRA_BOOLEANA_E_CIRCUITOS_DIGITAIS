@@ -14,6 +14,16 @@ Conceitos Fundamentais:
  Papel das formas canônicas na síntese de circuitos
 
 
+Conceitos Preliminares:
+ Variáveis booleanas
+ Complemento (negação)
+ Operação E (AND)
+ Operação OU (OR)
+ Tabela-verdade
+ Funções booleanas
+ Representação algébrica de expressões lógicas
+
+
 
 
 
