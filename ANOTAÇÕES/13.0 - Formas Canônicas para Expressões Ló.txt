@@ -191,6 +191,30 @@ Maxtermos (Maxterms):
   Mapas de Karnaugh
 
 
+Conversão para Formas Canônicas
+Conversão de Tabela-Verdade para SoP
+Identificação das linhas com F = 1
+Construção dos mintermos
+Escrita da soma de mintermos
+Conversão de Tabela-Verdade para PoS
+Identificação das linhas com F = 0
+Construção dos maxtermos
+Escrita do produto de maxtermos
+Conversão de Expressões Simplificadas para SoP Canônica
+Inclusão de variáveis ausentes
+Expansão algébrica
+Conversão por tabela-verdade
+Conversão de Expressões Simplificadas para PoS Canônica
+Inclusão de variáveis ausentes
+Expansão algébrica
+Conversão por tabela-verdade
+Conversão entre SoP e PoS
+Utilização da tabela-verdade
+Conversão SoP → PoS
+Conversão PoS → SoP
+Equivalência lógica entre as formas
+
+
 
 
 
