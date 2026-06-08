@@ -133,6 +133,17 @@ Mintermos (Minterms):
   Exemplos com 3 variáveis
   Exemplos com 4 variáveis
 
+ Tabela de Mintermos:
+  Organização dos mintermos
+  Numeração binária
+  Correspondência entre combinação binária e mintermo
+  
+ Propriedades dos Mintermos:
+  Exclusividade
+  Unicidade
+  Saída igual a 1 em apenas uma linha
+  Cobertura completa da tabela-verdade
+
 
 
 
