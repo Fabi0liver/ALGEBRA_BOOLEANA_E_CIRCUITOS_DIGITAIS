@@ -40,7 +40,32 @@ Forma Soma de Produtos (SoP – Soma de Produtos / Sum of Products):
   Uso correto da barra de inversão
   Características de uma expressão SoP canônica
 
+ Identificação:
+  Como reconhecer uma expressão SoP
+  Expressões que não pertencem à forma SoP
 
+ Representações da SoP:
+  Tabela-verdade
+  Forma algébrica tradicional
+  Forma com mintermos nomeados
+  Forma compacta usando somatório Σ
+
+ Construção da SoP:
+  Identificação das variáveis
+  Construção da tabela-verdade
+  Marcação das linhas com F = 1
+  Conversão para mintermos
+  Soma dos mintermos
+  Escrita da expressão final
+
+ Vantagens da SoP:
+  Clareza de representação
+  Facilidade de implementação
+  Compatibilidade com Mapas de Karnaugh
+  Base para simplificação
+  Padronização de projetos
+
+ 
 
 
 
