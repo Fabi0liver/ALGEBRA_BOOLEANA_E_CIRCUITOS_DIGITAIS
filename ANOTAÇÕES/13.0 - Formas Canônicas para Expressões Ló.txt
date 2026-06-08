@@ -24,6 +24,23 @@ Conceitos Preliminares:
  Representação algébrica de expressões lógicas
 
 
+Forma Soma de Produtos (SoP – Soma de Produtos / Sum of Products):
+
+ Fundamentos:
+  Definição de SoP
+  Conceito de Soma de Produtos
+  Estrutura geral de uma expressão SoP
+  Termos produto conectados por OU (OR)
+  Interpretação lógica da SoP
+
+ Regras de Formação:
+  Cada termo deve conter todas as variáveis
+  Variáveis na forma normal
+  Variáveis na forma complementada
+  Uso correto da barra de inversão
+  Características de uma expressão SoP canônica
+
+
 
 
 
