@@ -80,6 +80,16 @@ Forma Produto de Somas (PoS – Product of Sums):
   Variáveis complementadas
   Uso correto da negação
 
+ Identificação:
+  Como reconhecer uma expressão PoS
+  Expressões que não pertencem à forma PoS
+
+ Representações da PoS:
+  Tabela-verdade
+  Forma algébrica tradicional
+  Forma com maxtermos nomeados
+  Forma compacta usando produtório Π
+
 
 
 
