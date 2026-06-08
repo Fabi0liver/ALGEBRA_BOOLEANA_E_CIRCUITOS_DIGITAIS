@@ -1,6 +1,24 @@
                                Formas Canônicas para Expressões Lógicas
 
 
+Conceitos Fundamentais:
+ O que são formas canônicas
+ Objetivo das formas canônicas
+ Representação padronizada de funções booleanas
+ Relação com a Álgebra Booleana
+ Relação com tabelas-verdade
+ Importância na análise e projeto de circuitos digitais
+ Vantagens da representação canônica
+ Clareza, padronização e precisão lógica
+ Aplicações em sistemas digitais, automação e computação
+ Papel das formas canônicas na síntese de circuitos
+
+
+
+
+
+
+
 Fundamentos:
  Importância no projeto de circuitos digitais
  Formas fundamentais de representação
