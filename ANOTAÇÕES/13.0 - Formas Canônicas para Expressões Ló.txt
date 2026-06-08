@@ -179,6 +179,17 @@ Maxtermos (Maxterms):
   Exemplos com 3 variáveis
   Exemplos com 4 variáveis
 
+ Representações:
+  Forma algébrica
+  Notação M₀, M₁, M₂...
+  Notação Π(M)
+ 
+ Aplicações:
+  Construção da PoS
+  Síntese de circuitos
+  Simplificação lógica
+  Mapas de Karnaugh
+
 
 
 
