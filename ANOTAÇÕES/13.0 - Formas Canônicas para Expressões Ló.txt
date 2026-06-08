@@ -169,6 +169,16 @@ Maxtermos (Maxterms):
   Numeração dos maxtermos
   Índices dos maxtermos
 
+ Regras de Formação:
+  Valor 0 → variável normal
+  Valor 1 → variável negada
+  Soma de todas as variáveis
+
+ Construção de Maxtermos:
+  Exemplos com 2 variáveis
+  Exemplos com 3 variáveis
+  Exemplos com 4 variáveis
+
 
 
 
