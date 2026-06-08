@@ -14,6 +14,7 @@ Conceitos Fundamentais:
  Papel das formas canônicas na síntese de circuitos
 
 
+
 Conceitos Preliminares:
  Variáveis booleanas
  Complemento (negação)
@@ -22,6 +23,7 @@ Conceitos Preliminares:
  Tabela-verdade
  Funções booleanas
  Representação algébrica de expressões lógicas
+
 
 
 Forma Soma de Produtos (SoP – Sum of Products):
@@ -66,6 +68,7 @@ Forma Soma de Produtos (SoP – Sum of Products):
   Padronização de projetos
 
  
+
 Forma Produto de Somas (PoS – Product of Sums):
 
  Fundamentos:
@@ -104,6 +107,10 @@ Forma Produto de Somas (PoS – Product of Sums):
   Compatibilidade com Karnaugh
   Implementação em circuitos digitais
   Organização lógica das restrições
+
+
+
+Mintermos (Minterms):
 
 
 
