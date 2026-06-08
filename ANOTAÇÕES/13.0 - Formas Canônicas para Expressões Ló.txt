@@ -90,6 +90,21 @@ Forma Produto de Somas (PoS – Product of Sums):
   Forma com maxtermos nomeados
   Forma compacta usando produtório Π
 
+ Construção da PoS:
+  Identificação das variáveis
+  Construção da tabela-verdade
+  Marcação das linhas com F = 0
+  Conversão para maxtermos
+  Produto dos maxtermos
+  Escrita da expressão final
+
+ Vantagens da PoS:
+  Representação dos casos falsos
+  Facilidade de diagnóstico
+  Compatibilidade com Karnaugh
+  Implementação em circuitos digitais
+  Organização lógica das restrições
+
 
 
 
