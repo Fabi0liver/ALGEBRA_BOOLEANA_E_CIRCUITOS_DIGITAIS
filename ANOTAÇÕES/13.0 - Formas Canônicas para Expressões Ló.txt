@@ -240,6 +240,23 @@ Forma Canônica vs Forma Não-Canônica:
   Impacto na implementação de circuitos
 
 
+Aplicações Práticas:
+
+ Circuitos Digitais:
+  Implementação usando portas lógicas
+  Projeto de circuitos combinacionais
+  Síntese automática
+  
+ Ferramentas de Simplificação:
+  Introdução aos Mapas de Karnaugh
+  Relação entre mintermos e Karnaugh
+  Relação entre maxtermos e Karnaugh
+
+ Projeto Assistido por Computador:
+  Software de síntese lógica
+  Ferramentas CAD digitais
+
+
 
 
 
