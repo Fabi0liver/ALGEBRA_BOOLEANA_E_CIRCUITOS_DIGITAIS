@@ -156,6 +156,20 @@ Mintermos (Minterms):
   Mapas de Karnaugh
 
 
+Maxtermos (Maxterms):
+
+ Conceitos Fundamentais:
+  Definição de maxtermo
+  Termo soma completo
+  Relação entre maxtermos e PoS
+  Interpretação lógica dos maxtermos
+
+ Associação com Tabela-Verdade:
+  Correspondência entre maxtermos e linhas
+  Numeração dos maxtermos
+  Índices dos maxtermos
+
+
 
 
 
