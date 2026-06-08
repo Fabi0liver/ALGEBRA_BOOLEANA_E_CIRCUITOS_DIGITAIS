@@ -220,6 +220,26 @@ Conversão para Formas Canônicas:
   Equivalência lógica entre as formas
 
 
+Forma Canônica vs Forma Não-Canônica:
+
+ Forma Canônica:
+  Características
+  Completude
+  Presença de todas as variáveis
+  Precisão na representação
+
+ Forma Não-Canônica:
+  Características
+  Simplificação
+  Eficiência de implementação
+  Redução de termos
+
+ Comparação:
+  Vantagens e desvantagens
+  Quando utilizar cada forma
+  Impacto na implementação de circuitos
+
+
 
 
 
