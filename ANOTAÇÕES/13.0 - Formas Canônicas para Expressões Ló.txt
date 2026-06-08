@@ -144,6 +144,17 @@ Mintermos (Minterms):
   Saída igual a 1 em apenas uma linha
   Cobertura completa da tabela-verdade
 
+ Representações:
+  Forma algébrica
+  Notação m₀, m₁, m₂...
+  Notação Σ(m)
+
+ Aplicações:
+  Construção da SoP
+  Síntese de circuitos
+  Simplificação lógica
+  Mapas de Karnaugh
+
 
 
 
