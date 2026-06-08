@@ -24,7 +24,7 @@ Conceitos Preliminares:
  Representação algébrica de expressões lógicas
 
 
-Forma Soma de Produtos (SoP – Soma de Produtos / Sum of Products):
+Forma Soma de Produtos (SoP – Sum of Products):
 
  Fundamentos:
   Definição de SoP
@@ -66,6 +66,21 @@ Forma Soma de Produtos (SoP – Soma de Produtos / Sum of Products):
   Padronização de projetos
 
  
+Forma Produto de Somas (PoS – Product of Sums):
+
+ Fundamentos:
+  Definição de PoS
+  Conceito de Produto de Somas
+  Estrutura geral da PoS
+  Termos soma conectados por E (AND)
+  
+ Regras de Formação:
+  Presença de todas as variáveis
+  Variáveis normais
+  Variáveis complementadas
+  Uso correto da negação
+
+
 
 
 
