@@ -112,6 +112,17 @@ Forma Produto de Somas (PoS – Product of Sums):
 
 Mintermos (Minterms):
 
+ Conceitos Fundamentais:
+  Definição de mintermo
+  Termo produto completo
+  Relação entre mintermos e SoP
+  Interpretação lógica dos mintermos
+
+ Associação com Tabela-Verdade:
+  Correspondência entre mintermos e linhas da tabela
+  Numeração dos mintermos
+  Índices dos mintermos
+
 
 
 
