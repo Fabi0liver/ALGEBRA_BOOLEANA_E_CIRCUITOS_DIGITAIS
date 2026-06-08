@@ -123,6 +123,16 @@ Mintermos (Minterms):
   Numeração dos mintermos
   Índices dos mintermos
 
+ Regras de Formação:
+  Valor 0 → variável negada
+  Valor 1 → variável normal
+  Produto de todas as variáveis
+
+ Construção de Mintermos:
+  Exemplos com 2 variáveis
+  Exemplos com 3 variáveis
+  Exemplos com 4 variáveis
+
 
 
 
