@@ -156,6 +156,7 @@ Mintermos (Minterms):
   Mapas de Karnaugh
 
 
+
 Maxtermos (Maxterms):
 
  Conceitos Fundamentais:
@@ -191,6 +192,7 @@ Maxtermos (Maxterms):
   Mapas de Karnaugh
 
 
+
 Conversão para Formas Canônicas:
  
  Conversão de Tabela-Verdade para SoP:
@@ -220,6 +222,7 @@ Conversão para Formas Canônicas:
   Equivalência lógica entre as formas
 
 
+
 Forma Canônica vs Forma Não-Canônica:
 
  Forma Canônica:
@@ -238,6 +241,7 @@ Forma Canônica vs Forma Não-Canônica:
   Vantagens e desvantagens
   Quando utilizar cada forma
   Impacto na implementação de circuitos
+
 
 
 Aplicações Práticas:
