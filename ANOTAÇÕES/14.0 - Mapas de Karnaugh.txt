@@ -521,6 +521,29 @@ Ferramentas e Aplicações Modernas:
 
 
 
+Tópicos Avançados:
+
+ Karnaugh para múltiplas saídas
+
+ Funções incompletamente especificadas
+
+ Hazard (riscos) em circuitos combinacionais
+
+ Hazard estático
+
+ Hazard dinâmico
+
+ Cobertura de hazards usando Karnaugh
+
+ Síntese lógica avançada
+
+ Minimização multinível
+
+ Relação entre Karnaugh e otimização automática de circuitos
+
+
+
+
 Conclusão e Revisão Final:
 
  Conceitos Fundamentais
