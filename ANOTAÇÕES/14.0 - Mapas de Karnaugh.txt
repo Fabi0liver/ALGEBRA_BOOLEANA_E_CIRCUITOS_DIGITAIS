@@ -24,7 +24,8 @@ Fundamentos e Introdução aos Mapas de Karnaugh:
   Quando utilizar cada método
 
 
-Conceitos Fundamentais Necessários:
+
+Pré-Requisitos Necessários:
  
  Revisão de Álgebra Booleana:
   Variáveis booleanas
@@ -39,6 +40,11 @@ Conceitos Fundamentais Necessários:
    XNOR
   Leis da Álgebra Booleana
   Teoremas de De Morgan
+
+ Sistemas de Numeração:
+  Sistema binário
+  Conversão decimal ↔ binário
+  Representação binária
 
  Tabela-Verdade:
   Conceito
