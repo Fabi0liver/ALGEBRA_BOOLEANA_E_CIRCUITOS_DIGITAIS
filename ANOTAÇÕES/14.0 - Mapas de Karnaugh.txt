@@ -255,6 +255,46 @@ Propriedades Fundamentais dos Mapas:
 
 
 
+Agrupamentos:
+
+ Conceitos Gerais:
+  Objetivo do agrupamento
+  Eliminação de variáveis
+
+ Tamanhos permitidos
+
+ Potências de 2:
+  1 célula
+  2 células
+  4 células
+  8 células
+  16 células
+  32 células
+
+ Formatos válidos:
+  Retângulos
+  Quadrados
+
+ Formatos inválidos:
+  L
+  T
+  Cruz
+  Diagonal
+
+ Sobreposição de Grupos
+
+ Reutilização de Células
+
+ Cobertura Completa dos 1s
+
+ Grupos Redundantes
+
+ Grupos Necessários
+
+ Grupos Opcionais
+
+
+
 
 
 
