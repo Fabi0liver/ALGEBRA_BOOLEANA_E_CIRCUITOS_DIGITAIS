@@ -421,6 +421,8 @@ Condições de Irrelevância (Don't Care):
 
  Representação por X
 
+ Representação por Traço (-)
+
  Origem das Condições Irrelevantes
 
  Códigos não utilizados
@@ -463,6 +465,39 @@ Projeto de Circuitos com K-Map:
 
 
 
+Erros Mais Comuns:
+
+ Preenchimento incorreto
+
+ Uso errado do Código Gray
+
+ Ignorar adjacência das bordas
+
+ Agrupamentos diagonais
+
+ Grupos com quantidade inválida
+
+ Não usar grupos máximos
+
+ Esquecer implicantes essenciais
+
+ Eliminar variável errada
+
+ Interpretar incorretamente Don't Care
+
+
+
+Limitações dos Mapas de Karnaugh:
+
+ Crescimento exponencial
+
+ Dificuldade visual
+
+ Muitas variáveis
+
+ Quando utilizar Quine-McCluskey
+
+ Quando utilizar softwares CAD
 
 
 
