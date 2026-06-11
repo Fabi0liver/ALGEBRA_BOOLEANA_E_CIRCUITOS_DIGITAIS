@@ -295,8 +295,51 @@ Agrupamentos:
 
 
 
+Estratégias de Simplificação:
+
+ Ordem Recomendada:
+  Grupos de maior tamanho
+  Grupos essenciais
+  Grupos secundários
+
+ Como Escolher o Melhor Agrupamento
+
+ Minimização do Número de Termos
+
+ Minimização do Número de Variáveis
+
+ Sobreposição de grupos
+
+ Reutilização de células
+
+ Agrupamentos redundantes
+
+ Agrupamentos obrigatórios
+
+ Critérios de Otimização
+
+ Erros Mais Comuns:
+  Agrupar diagonalmente
+  Ignorar agrupamentos maiores
+  Não usar bordas
+  Formar grupos inválidos
+  Cobertura incompleta
 
 
+
+Extração da Expressão Simplificada:
+
+ Identificação das Variáveis Constantes
+
+ Eliminação das Variáveis Variáveis
+
+ Variável Direta
+
+ Variável Complementada
+
+ Formação dos Termos Simplificados
+
+ Montagem da Expressão Final
 
 
 
