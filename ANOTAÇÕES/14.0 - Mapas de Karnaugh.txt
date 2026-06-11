@@ -327,7 +327,22 @@ Estratégias de Simplificação:
 
 
 
+Implicantes:
+
+ Conceitos:
+  Implicante
+  Implicante primo
+  Implicante primo essencial
+
+ Identificação no mapa
+
+ Importância na simplificação
+
+
+
 Extração da Expressão Simplificada:
+
+ Eliminação de variáveis
 
  Identificação das Variáveis Constantes
 
@@ -341,6 +356,28 @@ Extração da Expressão Simplificada:
 
  Montagem da Expressão Final
 
+
+
+Simplificação em SOP:
+ 
+ Conceito
+ 
+ Construção
+ 
+ Exemplos
+ 
+ Vantagens
+
+
+Simplificação em POS:
+ 
+ Conceito
+ 
+ Agrupamento dos zeros
+ 
+ Extração da expressão
+ 
+ Exemplos
 
 
 
