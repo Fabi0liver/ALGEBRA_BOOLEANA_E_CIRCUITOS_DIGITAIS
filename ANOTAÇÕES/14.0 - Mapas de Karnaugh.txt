@@ -24,6 +24,43 @@ Fundamentos e Introdução aos Mapas de Karnaugh:
   Quando utilizar cada método
 
 
+Conceitos Fundamentais Necessários:
+ 
+ Revisão de Álgebra Booleana:
+  Variáveis booleanas
+  Estados lógicos (0 e 1)
+  Operadores lógicos:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+  Leis da Álgebra Booleana
+  Teoremas de De Morgan
+
+ Tabela-Verdade:
+  Conceito
+  Construção
+  Número de linhas
+  Relação entre entradas e saídas
+  Conversão da tabela para o mapa
+
+ Mintermos e Maxtermos:
+  Definição de mintermo
+  Definição de maxtermo
+  Numeração dos mintermos
+  Numeração dos maxtermos
+  Representação canônica
+
+ Formas Canônicas:
+  Soma de Produtos (SOP)
+  Produto de Somatórios (POS)
+  Formas canônicas completas
+  Formas canônicas incompletas
+
+
 
 
 
