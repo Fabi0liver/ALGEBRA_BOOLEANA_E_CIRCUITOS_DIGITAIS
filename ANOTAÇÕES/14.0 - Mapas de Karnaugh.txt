@@ -96,6 +96,31 @@ Estrutura do Mapa de Karnaugh:
 
 
 
+Código Gray:
+ 
+ Introdução ao Código Gray:
+  O que é o Código Gray
+  Diferença entre Código Gray e código binário
+  Propriedade da mudança de apenas 1 bit
+
+ Importância no Karnaugh:
+  Adjacência lógica
+  Organização correta das células
+  Construção das linhas e colunas
+
+ Sequências Gray mais utilizadas:
+  Gray para 1 bit
+  Gray para 2 bits
+  Gray para 3 bits
+  Gray para 4 bits
+
+ Aplicação no K-Map:
+  Organização das linhas
+  Organização das colunas
+  Garantia de adjacência lógica
+
+
+
 
 
 
