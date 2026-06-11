@@ -360,9 +360,11 @@ Extração da Expressão Simplificada:
 
 Simplificação em SOP:
  
- Conceito
- 
- Construção
+ Conceito de Soma de Produtos
+
+ Construção e Obtenção dos Produtos
+
+ Soma dos Termos
  
  Exemplos
  
@@ -371,11 +373,17 @@ Simplificação em SOP:
 
 Simplificação em POS:
  
- Conceito
- 
+ Conceito de Produto de Somatórios
+
  Agrupamento dos zeros
+
+ Formação dos Maxtermos
  
  Extração da expressão
+
+ Expressão POS Simplificada
+
+ Comparação SOP × POS
  
  Exemplos
 
