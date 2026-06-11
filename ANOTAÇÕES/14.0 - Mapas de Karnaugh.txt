@@ -1,4 +1,55 @@
-                                       Mapas de Karnaugh
+                                       Mapas de Karnaugh (K-Map)
+
+
+Fundamentos e Introdução aos Mapas de Karnaugh:
+
+ Contexto Histórico
+  Origem dos Mapas de Karnaugh
+  Maurice Karnaugh e sua contribuição
+  Relação com os Diagramas de Veitch
+  Evolução dos métodos de simplificação lógica
+
+ O que é um Mapa de Karnaugh:
+  Definição
+  Objetivos do K-Map
+  Finalidade na eletrônica digital
+  Aplicações práticas em circuitos digitais
+  Vantagens do método visual
+  Limitações dos Mapas de Karnaugh
+
+ Comparação com Outros Métodos:
+  Simplificação algébrica tradicional
+  Método de Quine-McCluskey
+  Ferramentas CAD e síntese lógica automática
+  Quando utilizar cada método
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Introdução aos Mapas de Karnaugh:
  Definição e objetivos (método visual para minimização de expressões lógicas)
