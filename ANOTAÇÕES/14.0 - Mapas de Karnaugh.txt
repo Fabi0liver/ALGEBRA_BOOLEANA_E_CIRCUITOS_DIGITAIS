@@ -94,6 +94,13 @@ Estrutura do Mapa de Karnaugh:
    5 variáveis → 32 células
    6 variáveis → 64 células
 
+ Geometria do K-Map
+
+ Conceito Topológico do Toro:
+  Por que as bordas se conectam
+  Visualização do mapa como superfície toroidal
+  Adjacências não intuitivas
+
 
 
 Código Gray:
@@ -335,6 +342,10 @@ Implicantes:
   Implicante primo essencial
 
  Identificação no mapa
+
+ Tabela de Cobertura de Implicantes:
+  Construção
+  Utilização
 
  Importância na simplificação
 
