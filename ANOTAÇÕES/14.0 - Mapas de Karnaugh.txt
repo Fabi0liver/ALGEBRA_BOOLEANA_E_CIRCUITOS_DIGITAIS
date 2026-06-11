@@ -389,6 +389,32 @@ Simplificação em POS:
 
 
 
+Mapeamento Direto de Expressões:
+ 
+ Conversão sem tabela-verdade
+
+ Expressão → Karnaugh
+
+ Expressões completas
+
+ Conversão de SOP para K-Map
+
+ Conversão de POS para K-Map
+
+ Conversão por Mintermos
+
+ Conversão por Maxtermos
+
+ Expressões incompletas
+
+ Variáveis ausentes
+
+ Expansão de termos
+
+ Identificação das células
+
+
+
 
 
 
