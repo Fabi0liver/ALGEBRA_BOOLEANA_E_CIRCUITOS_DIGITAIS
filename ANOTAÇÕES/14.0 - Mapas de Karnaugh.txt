@@ -463,21 +463,52 @@ Projeto de Circuitos com K-Map:
 
 
 
-Hazards e Limitações dos Mapas de Karnaugh:
- 
- Introdução aos Hazards
 
- Hazard Estático 1
 
- Hazard Estático 0
 
- Hazard Dinâmico
+Ferramentas e Aplicações Modernas:
 
- Como Detectar Hazards pelo K-Map
+ Softwares para K-Map:
+  Logisim
+  Logisim Evolution
+  Digital
+  CircuitVerse
 
- Eliminação de Hazards
+ Ferramentas de Síntese Lógica
 
- Termos de Consenso
+ Uso em FPGA
+
+ Uso em CPLD
+
+ Relação com Linguagens HDL:
+  Verilog
+  VHDL
+
+
+
+Conclusão e Revisão Final:
+
+ Conceitos Fundamentais
+
+ Estrutura dos Mapas
+
+ Código Gray
+
+ Adjacência
+
+ Agrupamentos
+
+ SOP
+
+ POS
+
+ Don't Care
+
+ Implicantes Primos
+
+ Hazards
+
+ Projeto de Circuitos
 
 
 
