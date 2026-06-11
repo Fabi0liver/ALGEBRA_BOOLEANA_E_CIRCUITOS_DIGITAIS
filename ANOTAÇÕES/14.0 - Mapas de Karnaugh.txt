@@ -441,6 +441,46 @@ Condições de Irrelevância (Don't Care):
 
 
 
+Projeto de Circuitos com K-Map:
+
+ Conversão da Expressão Simplificada em Circuito
+
+ Implementação com Portas Lógicas
+
+ AND-OR
+
+ NAND-NAND
+
+ NOR-NOR
+
+ Comparação entre Circuito Original e Simplificado
+
+ Economia de Portas
+
+ Economia de Componentes
+
+ Redução de Atraso de Propagação
+
+
+
+Hazards e Limitações dos Mapas de Karnaugh:
+ 
+ Introdução aos Hazards
+
+ Hazard Estático 1
+
+ Hazard Estático 0
+
+ Hazard Dinâmico
+
+ Como Detectar Hazards pelo K-Map
+
+ Eliminação de Hazards
+
+ Termos de Consenso
+
+
+
 
 
 
