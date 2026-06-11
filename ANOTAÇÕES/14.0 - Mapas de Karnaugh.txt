@@ -68,6 +68,34 @@ Pré-Requisitos Necessários:
 
 
 
+Estrutura do Mapa de Karnaugh:
+
+ Conceitos Básicos:
+  Variáveis de entrada
+  Função lógica
+  Número de células
+  Relação entre variáveis e quantidade de células
+
+ Componentes Básicos:
+  Variáveis de entrada
+  Células
+  Linhas
+  Colunas
+  Rótulos do mapa
+  
+ Quantidade de células:
+  Relação entre número de variáveis e células
+  Fórmula Geral:
+   2ⁿ (Onde: n = número de variáveis)
+  Quantidade:
+   2 variáveis → 4 células
+   3 variáveis → 8 células
+   4 variáveis → 16 células
+   5 variáveis → 32 células
+   6 variáveis → 64 células
+
+
+
 
 
 
