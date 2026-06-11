@@ -121,6 +121,26 @@ Código Gray:
 
 
 
+Relação entre Tabela-Verdade e Karnaugh:
+
+ Correspondência:
+  Linha da tabela-verdade
+  Mintermo correspondente
+  Posição no mapa
+
+ Conversão:
+  Da tabela para o mapa
+  Do mapa para a tabela
+
+ Numeração dos mintermos:
+  m0
+  m1
+  m2
+  ...
+  mₙ
+
+
+
 
 
 
