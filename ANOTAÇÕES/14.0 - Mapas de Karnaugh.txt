@@ -166,6 +166,10 @@ Mapas de Karnaugh para 3 Variáveis:
  Distribuição dos mintermos:
   Uso do Código Gray
 
+ Preenchimento:
+  Conversão da tabela
+  Conversão direta da função
+
  Exemplos completos:
   Construção
   Preenchimento
@@ -177,6 +181,7 @@ Mapas de Karnaugh para 4 Variáveis:
  
  Estrutura:
   Organização 4×4
+  Linhas e colunas em Gray
 
  Distribuição dos mintermos
 
@@ -193,15 +198,33 @@ Mapas de Karnaugh para 4 Variáveis:
 
 Mapas de Karnaugh para 5 Variáveis:
 
+ Necessidade de Múltiplos Mapas
+
  Estrutura em dois mapas
   Conceito de camadas
   Relação entre os mapas
 
  Adjacência entre mapas
 
+ Agrupamentos Entre Mapas
+
  Simplificação
 
  Exemplos resolvidos
+
+
+
+Mapas de Karnaugh para 6 Variáveis:
+
+ Estrutura Geral
+
+ Organização em quatro mapas
+
+ Adjacências tridimensionais
+
+ Limitações visuais
+
+ Exemplos
 
 
 
