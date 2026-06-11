@@ -141,6 +141,38 @@ Relação entre Tabela-Verdade e Karnaugh:
 
 
 
+Mapas de Karnaugh para 2 Variáveis:
+  
+ Estrutura:
+  Organização das células
+  Linhas
+  Colunas
+
+ Preenchimento:
+  A partir da tabela-verdade
+  A partir dos mintermos
+
+ Simplificação:
+  Exemplos resolvidos
+  Agrupamentos possíveis
+
+
+
+Mapas de Karnaugh para 3 Variáveis:
+ 
+ Estrutura
+  Organização 2×4:
+
+ Distribuição dos mintermos:
+  Uso do Código Gray
+
+ Exemplos completos:
+  Construção
+  Preenchimento
+  Simplificação
+
+
+
 
 
 
