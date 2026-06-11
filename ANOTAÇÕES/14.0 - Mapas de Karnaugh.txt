@@ -415,6 +415,32 @@ Mapeamento Direto de Expressões:
 
 
 
+Condições de Irrelevância (Don't Care):
+
+ Conceito de Don't Care
+
+ Representação por X
+
+ Origem das Condições Irrelevantes
+
+ Códigos não utilizados
+
+ Estados impossíveis
+
+ Entradas proibidas
+
+ Uso Estratégico
+
+ Quando Utilizar o X
+
+ Quando Ignorar o X
+
+ Maximização dos Agrupamentos
+
+ Exemplos Resolvidos
+
+
+
 
 
 
