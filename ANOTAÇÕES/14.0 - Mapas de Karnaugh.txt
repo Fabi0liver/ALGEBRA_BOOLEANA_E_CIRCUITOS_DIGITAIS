@@ -228,6 +228,32 @@ Mapas de Karnaugh para 6 Variáveis:
 
 
 
+Propriedades Fundamentais dos Mapas:
+
+ Conceito de Adjacência
+
+ Adjacência Horizontal
+
+ Adjacência Vertical
+
+ Adjacência por Bordas
+
+ Adjacência pelos Cantos
+
+ Continuidade Cíclica
+
+ Borda esquerda ↔ direita
+
+ Borda superior ↔ inferior
+
+ Conceito de toro (torus) no K-Map
+
+ Distância de Hamming:
+  Conceito
+  Relação com adjacência
+  Importância para agrupamentos
+
+
 
 
 
