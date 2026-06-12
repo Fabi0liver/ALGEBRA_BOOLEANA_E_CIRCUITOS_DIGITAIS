@@ -177,6 +177,25 @@ Construção de Outras Portas Utilizando NAND e NOR:
 
 
 
+Conversão de Circuitos para NAND:
+ 
+ Metodologia de Conversão:
+  Etapa 1: Identificação das portas originais
+  Etapa 2: Substituição por equivalentes NAND
+  Etapa 3: Inserção das inversões necessárias
+  Etapa 4: Aplicação das Leis de De Morgan
+  Etapa 5: Simplificação do circuito
+  Etapa 6: Verificação funcional
+
+ Cancelamento de Inversores
+  Conceito:
+   Dupla negação
+  Regras de Simplificação
+  Otimização de Circuitos
+  Exemplos Práticos
+
+
+
 
 
 
