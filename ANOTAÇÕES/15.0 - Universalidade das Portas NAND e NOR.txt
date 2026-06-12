@@ -234,17 +234,25 @@ Análise Comparativa entre NAND e NOR:
 Eficiência Prática das Portas Universais:
 
  Universalidade Funcional x Eficiência Prática
+  Conceito de Universalidade
+  Conceito de Eficiência
+  Trade-offs de Projeto:
+   Área ocupada
+   Número de transistores
+   Consumo de energia
+   Velocidade
+   Atraso de propagação
 
- Conceito de Universalidade
-
- Conceito de Eficiência
-
- Trade-offs de Projeto:
-  Área ocupada
-  Número de transistores
-  Consumo de energia
-  Velocidade
-  Atraso de propagação
+ Implementação CMOS:
+  NAND em CMOS:
+   Estrutura
+   Número de transistores
+   Eficiência
+  NOR em CMOS:
+   Estrutura
+   Número de transistores
+   Eficiência
+  Comparação CMOS NAND x NOR
 
 
 
