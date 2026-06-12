@@ -281,6 +281,44 @@ Aplicações Práticas:
 
 
 
+Projeto e Otimização de Circuitos:
+
+ Critérios de Projeto:
+  Menor número de portas
+  Menor atraso
+  Menor consumo
+  Menor custo
+
+ Técnicas de Otimização:
+  Simplificação booleana
+  Uso de De Morgan
+  Redução de níveis lógicos
+  Compartilhamento de sinais
+
+
+
+Conclusão e Visão Geral:
+
+ Principais Conceitos Revisados:
+  Universalidade
+  Completude funcional
+  Construção de portas básicas
+  Leis de De Morgan
+  Conversão de circuitos
+  Eficiência prática
+  Aplicações reais
+
+
+ Relação com Próximos Assuntos:
+  Circuitos combinacionais
+  Circuitos sequenciais
+  Flip-flops
+  Registradores
+  Memórias digitais
+  Arquitetura de computadores
+
+
+
 
 
 
