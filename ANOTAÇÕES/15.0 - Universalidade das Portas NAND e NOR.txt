@@ -155,6 +155,27 @@ Universalidade da Porta NOR:
   Circuito Equivalente
 
 
+Construção de Outras Portas Utilizando NAND e NOR:
+
+ Com NAND:
+  Porta XOR
+   Expressão lógica
+   Implementação
+   Tabela verdade
+  Porta XNOR:
+   Expressão lógica
+   Implementação
+   Tabela verdade
+  Multiplexadores com NAND
+  Demultiplexadores com NAND
+
+ Com NOR:
+  Porta XOR
+  Porta XNOR
+  Multiplexadores com NOR
+  Demultiplexadores com NOR
+
+
 
 
 
