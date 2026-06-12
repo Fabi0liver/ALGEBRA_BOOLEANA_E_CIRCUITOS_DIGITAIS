@@ -212,6 +212,25 @@ Conversão de Circuitos para NOR:
 
 
 
+Análise Comparativa entre NAND e NOR:
+
+ Semelhanças:
+  Ambas são universais
+  Ambas são funcionalmente completas
+  Ambas implementam qualquer circuito
+
+ Diferenças
+
+ Número de portas necessárias
+
+ Profundidade lógica
+
+ Complexidade de implementação
+
+ Velocidade
+
+
+
 
 
 
