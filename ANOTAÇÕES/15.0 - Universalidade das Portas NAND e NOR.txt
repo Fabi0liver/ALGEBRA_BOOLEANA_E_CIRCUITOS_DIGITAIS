@@ -126,6 +126,39 @@ Universalidade da Porta NAND:
 
 
 
+Universalidade da Porta NOR:
+
+ Construção da Porta NOT com NOR:
+  Conceitos:
+   Entradas conectadas juntas
+   NOR como inversor
+  Expressão Booleana:
+   ~(A ⋅ A) = ~A
+  Tabela Verdade
+  Circuito Equivalente
+
+ Construção da Porta OR com NOR:
+  Conceitos:
+   Dupla negação
+  Expressão Booleana:
+   ~(~(A + B) = A + B
+  Processo de Construção
+  Tabela Verdade
+  Circuito Equivalente
+
+ Construção da Porta AND com NOR:
+  Aplicação dos Teoremas de De Morgan
+  Expressão Booleana:
+   ~(~A + ~B) = A ⋅ B
+  Processo de Construção
+  Tabela Verdade
+  Circuito Equivalente
+
+
+
+
+
+
 
 
 
