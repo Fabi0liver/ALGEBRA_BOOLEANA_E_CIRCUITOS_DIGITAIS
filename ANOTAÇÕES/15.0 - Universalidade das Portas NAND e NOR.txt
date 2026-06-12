@@ -1,0 +1,44 @@
+                                     Universalidade das Portas NAND e NOR
+
+
+Conceito de Universalidade:
+
+ Definição de universalidade nas portas lógicas.
+
+ Explicação de como qualquer circuito combinacional pode ser descrito apenas com portas NAND ou apenas com portas NOR.
+
+ Vantagens comerciais e econômicas do uso de um único tipo de porta em implementações de circuitos.
+
+
+
+Universalidade da Porta NAND:
+
+ Como construir uma porta inversora (NOT) utilizando apenas porta NAND.
+
+ Como construir uma porta AND utilizando apenas portas NAND.
+
+ Como construir uma porta OR utilizando apenas portas NAND (com aplicação do Teorema de De Morgan).
+
+
+
+Universalidade da Porta NOR:
+
+ Como construir uma porta inversora (NOT) utilizando apenas porta NOR.
+
+ Como construir uma porta OR utilizando apenas portas NOR.
+
+ Como construir uma porta AND utilizando apenas portas NOR (com aplicação do Teorema de De Morgan).
+
+
+
+Prática de Implementação:
+
+ Apresentação de uma expressão lógica de exemplo.
+
+ Desenho do diagrama de circuito original com portas lógicas tradicionais (AND e OR).
+
+ Método de conversão de cada porta para o seu equivalente em portas NAND.
+
+ Processo de simplificação do circuito através do cancelamento de inversores em série.
+
+ Apresentação do diagrama final otimizado utilizando apenas portas NAND.
