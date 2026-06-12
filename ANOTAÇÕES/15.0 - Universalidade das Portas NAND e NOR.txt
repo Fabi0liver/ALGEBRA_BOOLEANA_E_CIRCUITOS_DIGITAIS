@@ -26,6 +26,34 @@ Introdução à Universalidade das Portas Lógicas:
 
 
 
+Fundamentos Matemáticos da Universalidade:
+
+ Operações Booleanas Fundamentais:
+  Operação AND
+  Operação OR
+  Operação NOT
+
+ Propriedades Importantes:
+  Identidade
+  Dominância
+  Idempotência
+  Involução
+  Dupla negação
+
+ Leis de De Morgan:
+  Primeira Lei de De Morgan
+  Segunda Lei de De Morgan
+  Demonstração algébrica
+  Demonstração por tabela verdade
+  Aplicações práticas
+
+ Completude Funcional:
+  O que significa ser funcionalmente completo
+  Por que AND, OR e NOT formam uma base completa
+  Como NAND e NOR substituem essa base
+  Demonstração da completude funcional
+
+
 
 
 
