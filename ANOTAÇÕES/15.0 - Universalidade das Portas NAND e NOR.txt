@@ -256,6 +256,30 @@ Eficiência Prática das Portas Universais:
 
 
 
+Aplicações Práticas:
+
+ Memórias Digitais:
+  Latch SR com NOR
+  Latch SR com NAND
+  Flip-Flops básicos
+
+ Circuitos Combinacionais:
+  Decodificadores
+  Codificadores
+  Multiplexadores
+  Demultiplexadores
+
+ Sistemas Embarcados:
+  Controle lógico
+  Sensores
+  Sistemas de automação
+
+ Microprocessadores:
+  Uso em circuitos integrados
+  Blocos internos de processadores
+  Otimização de hardware
+
+
 
 
 
