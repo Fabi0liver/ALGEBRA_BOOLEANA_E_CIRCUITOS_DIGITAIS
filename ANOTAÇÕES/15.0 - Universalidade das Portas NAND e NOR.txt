@@ -55,6 +55,32 @@ Fundamentos Matemáticos da Universalidade:
 
 
 
+Revisão das Portas NAND e NOR:
+
+ Porta NAND:
+  Definição:
+   Operação lógica NAND
+   Símbolo lógico
+   Expressão booleana
+   Tabela verdade
+  Características:
+   Combinação de AND e NOT
+   Comportamento lógico
+   Aplicações gerais
+
+ Porta NOR:
+  Definição:
+   Operação lógica NOR
+   Símbolo lógico
+   Expressão booleana
+   Tabela verdade
+  Características:
+   Combinação de OR e NOT
+   Comportamento lógico
+   Aplicações gerais
+
+
+
 
 
 
