@@ -96,6 +96,22 @@ Universalidade da Porta NAND:
    Diagrama lógico
    Funcionamento
 
+ Construção da Porta AND com NAND:
+  Conceitos:
+   Dupla negação
+   Recuperação da operação AND
+  Expressão Booleana:
+   ~(~(A ⋅ B) = A ⋅ B
+  Processo de Construção:
+   Primeira NAND
+   Segunda NAND como inversor
+   Resultado final
+  Tabela Verdade:
+   Comparação com AND original
+  Circuito:
+   Diagrama equivalente
+
+
 
 
 
