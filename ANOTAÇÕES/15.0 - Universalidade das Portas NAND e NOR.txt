@@ -1,6 +1,39 @@
                                      Universalidade das Portas NAND e NOR
 
 
+Introdução à Universalidade das Portas Lógicas:
+
+ Conceitos Fundamentais:
+  Definição de universalidade
+  O que é uma porta lógica universal
+  Conceito de completude funcional (Functional Completeness)
+  Conjunto funcionalmente completo
+  Relação entre universalidade e Álgebra Booleana
+  Importância da universalidade na eletrônica digital
+  Papel da universalidade no projeto de circuitos
+
+ Contexto Histórico:
+  Surgimento do conceito de portas universais
+  Evolução dos circuitos digitais
+  Utilização em circuitos integrados
+  Importância na indústria de semicondutores
+  Universalidade nos primeiros computadores
+
+ Analogias e Intuição:
+  Universalidade como "peça coringa"
+  Universalidade como "ferramenta multifuncional"
+  Construção de sistemas complexos a partir de elementos simples
+
+
+
+
+
+
+
+
+
+
+
 Conceito de Universalidade:
 
  Definição de universalidade nas portas lógicas.
