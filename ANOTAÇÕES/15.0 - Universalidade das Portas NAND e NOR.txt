@@ -196,6 +196,22 @@ Conversão de Circuitos para NAND:
 
 
 
+Conversão de Circuitos para NOR:
+
+ Metodologia Completa
+
+ Conversão direta
+
+ Aplicação de De Morgan
+
+ Simplificação
+
+ Cancelamento de inversores
+
+ Verificação funcional
+
+
+
 
 
 
