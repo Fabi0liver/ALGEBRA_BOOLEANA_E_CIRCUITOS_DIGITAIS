@@ -81,6 +81,22 @@ Revisão das Portas NAND e NOR:
 
 
 
+Universalidade da Porta NAND:
+
+ Construção da Porta NOT com NAND:
+  Conceitos:
+   Realimentação das entradas
+   NAND como inversor
+  Expressão Booleana:
+   ~(A ⋅ A) = ~A
+  Tabela Verdade:
+   Análise linha por linha
+   Demonstração prática
+  Circuito:
+   Diagrama lógico
+   Funcionamento
+
+
 
 
 
