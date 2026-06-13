@@ -239,3 +239,14 @@ Aplicações dos Circuitos Combinacionais:
  Sistemas embarcados
  Automação industrial
  Sistemas digitais modernos
+
+
+
+Conclusão e Revisão Geral:
+ Diferença entre circuitos combinacionais e sequenciais
+ Conceitos fundamentais
+ Análise de circuitos
+ Projeto de circuitos
+ Simplificação lógica
+ Principais blocos combinacionais
+ Aplicações práticas
