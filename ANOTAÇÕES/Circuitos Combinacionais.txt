@@ -12,3 +12,82 @@ Introdução aos Circuitos Combinacionais:
  Importância dos Circuitos Combinacionais na Computação
  Aplicações dos Circuitos Combinacionais
  Exemplos de sistemas que utilizam Circuitos Combinacionais
+
+
+
+Fundamentos Necessários para Circuitos Combinacionais:
+
+ Sistemas Digitais e Lógica Binária:
+  Conceito de sistemas digitais
+  Sinais digitais
+  Representação binária
+  Estados lógicos 0 e 1
+  Níveis lógicos
+  Variáveis binárias
+  Entradas e saídas digitais
+
+ Álgebra Booleana:
+  Introdução à Álgebra Booleana
+  Variáveis booleanas
+  Constantes booleanas
+  Operações booleanas básicas
+  Operação AND
+  Operação OR
+  Operação NOT
+  Operações complementares
+  Propriedades da Álgebra Booleana
+  Leis fundamentais da Álgebra Booleana
+  Teoremas Booleanos
+
+ Portas Lógicas:
+  Conceito de portas lógicas
+  Símbolos das portas lógicas
+  Funcionamento das portas lógicas
+  Portas Lógicas Básicas:
+   Porta AND
+   Porta OR
+   Porta NOT
+  Portas Lógicas Derivadas:
+   Porta NAND
+   Porta NOR
+   Porta XOR
+   Porta XNOR
+  Combinação de portas lógicas
+  Construção de circuitos com portas lógicas
+
+ Tabelas-Verdade:
+  Conceito de tabela-verdade
+  Representação de circuitos através de tabelas
+  Relação entre entradas e saídas
+  Construção de tabelas-verdade
+  Número de combinações possíveis
+  Interpretação de resultados lógicos
+
+ Expressões Booleanas:
+  Representação matemática dos circuitos
+  Conversão de circuitos para expressões booleanas
+  Conversão de expressões booleanas para circuitos
+  Operadores booleanos
+  Avaliação de expressões lógicas
+
+ Formas Canônicas:
+  Conceito de formas canônicas
+  Mintermos
+  Maxtermos
+  Soma de Produtos (SoP)
+  Produto de Somas (PoS)
+  Conversão de tabela-verdade para expressão booleana
+
+ Simplificação de Circuitos Combinacionais:
+  Objetivo da simplificação lógica
+  Simplificação usando Álgebra Booleana
+  Redução de expressões booleanas
+  Eliminação de termos redundantes
+  Otimização de circuitos
+
+ Mapas de Karnaugh:
+  Introdução aos Mapas de Karnaugh
+  Organização dos mapas
+  Agrupamento de valores
+  Simplificação por K-map
+  Mapas de Karnaugh com múltiplas variáveis
