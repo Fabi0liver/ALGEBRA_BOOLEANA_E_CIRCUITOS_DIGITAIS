@@ -91,3 +91,24 @@ Fundamentos Necessários para Circuitos Combinacionais:
   Agrupamento de valores
   Simplificação por K-map
   Mapas de Karnaugh com múltiplas variáveis
+
+
+
+Projeto de Circuitos Combinacionais:
+
+ Processo de Desenvolvimento:
+  Identificação do problema
+  Definição das entradas
+  Definição das saídas
+  Criação da tabela-verdade
+  Obtenção da expressão booleana
+  Simplificação da expressão
+  Construção do circuito lógico
+  Teste do circuito
+
+ Análise de Circuitos Combinacionais:
+  Identificação das entradas
+  Identificação das saídas
+  Leitura de diagramas lógicos
+  Determinação do comportamento do circuito
+  Criação da tabela-verdade a partir do circuito
