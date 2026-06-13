@@ -215,3 +215,15 @@ Implementação de Circuitos Combinacionais:
   CPLDs
   FPGAs
   Implementação de circuitos combinacionais em hardware programável
+
+
+
+Aspectos Práticos de Projeto:
+ Atraso de propagação
+ Tempo de resposta
+ Temporização em circuitos combinacionais
+ Consumo de energia
+ Número de portas lógicas
+ Otimização de hardware
+ Erros em circuitos digitais
+ Teste e validação
