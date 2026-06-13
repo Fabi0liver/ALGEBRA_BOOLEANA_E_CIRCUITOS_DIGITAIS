@@ -1,0 +1,14 @@
+                                     Circuitos Combinacionais 
+
+
+Introdução aos Circuitos Combinacionais:
+ O que são Circuitos Combinacionais
+ Características dos Circuitos Combinacionais
+ Funcionamento baseado em entradas e saídas
+ Relação entre entrada, processamento lógico e saída
+ Comportamento instantâneo dos circuitos combinacionais
+ Ausência de memória nos circuitos combinacionais
+ Circuitos Combinacionais na Eletrônica Digital
+ Importância dos Circuitos Combinacionais na Computação
+ Aplicações dos Circuitos Combinacionais
+ Exemplos de sistemas que utilizam Circuitos Combinacionais
