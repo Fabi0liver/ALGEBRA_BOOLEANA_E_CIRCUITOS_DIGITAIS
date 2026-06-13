@@ -112,3 +112,72 @@ Projeto de Circuitos Combinacionais:
   Leitura de diagramas lógicos
   Determinação do comportamento do circuito
   Criação da tabela-verdade a partir do circuito
+
+
+
+Circuitos Combinacionais Fundamentais:
+
+ Somadores:
+  Conceito de somadores
+  Soma binária
+  Meio Somador (Half Adder)
+  Tabela-verdade do Meio Somador
+  Circuito do Meio Somador
+  Somador Completo (Full Adder)
+  Entrada de transporte (Carry-in)
+  Saída de transporte (Carry-out)
+  Somadores em cascata
+  Somadores paralelos
+
+ Subtratores:
+  Conceito de subtratores
+  Subtração binária
+  Meio Subtrator
+  Tabela-verdade do Meio Subtrator
+  Circuito do Meio Subtrator
+  Subtrator Completo
+  Empréstimo (Borrow)
+  Subtratores de múltiplos bits
+
+ Comparadores:
+  Conceito de comparadores
+  Comparação binária
+  Comparador de 1 bit
+  Comparadores de múltiplos bits
+  Igualdade
+  Maior que
+  Menor que
+
+ Multiplexadores:
+  Conceito de Multiplexador (MUX)
+  Entradas de dados
+  Linha de seleção
+  Saída selecionada
+  MUX 2:1
+  MUX 4:1
+  MUX de múltiplas entradas
+  Aplicações dos multiplexadores
+
+ Demultiplexadores:
+  Conceito de Demultiplexador (DEMUX)
+  Entrada única
+  Múltiplas saídas
+  Linhas de seleção
+  DEMUX 1:2
+  DEMUX 1:4
+  Aplicações dos demultiplexadores
+
+ Codificadores:
+  Conceito de codificador
+  Conversão de sinais para código binário
+  Codificador simples
+  Codificador 8:3
+  Codificadores prioritários
+
+ Decodificadores:
+  Conceito de decodificador
+  Conversão de código binário para saída
+  Decodificador 2:4
+  Decodificador 3:8
+  Ativação de saídas
+  Aplicações dos decodificadores
