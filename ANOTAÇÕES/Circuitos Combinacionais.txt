@@ -227,3 +227,15 @@ Aspectos Práticos de Projeto:
  Otimização de hardware
  Erros em circuitos digitais
  Teste e validação
+
+
+
+Aplicações dos Circuitos Combinacionais:
+ Calculadoras digitais
+ Processadores
+ Unidades Lógicas e Aritméticas (ULA/ALU)
+ Sistemas de controle
+ Equipamentos eletrônicos
+ Sistemas embarcados
+ Automação industrial
+ Sistemas digitais modernos
