@@ -190,3 +190,28 @@ Modularização de Circuitos Combinacionais:
  Construção hierárquica
  Reutilização de circuitos
  Integração de módulos combinacionais
+
+
+
+Implementação de Circuitos Combinacionais:
+
+ Implementação com Portas Lógicas:
+  Circuitos com AND, OR e NOT
+  Montagem física
+  Protoboard
+  Testes práticos
+
+ Circuitos Integrados:
+  Conceito de CI
+  Famílias lógicas
+  CIs combinacionais
+  Somadores integrados
+  Multiplexadores integrados
+  Decodificadores integrados
+
+ Circuitos Programáveis:
+  Conceito de lógica programável
+  PLDs
+  CPLDs
+  FPGAs
+  Implementação de circuitos combinacionais em hardware programável
