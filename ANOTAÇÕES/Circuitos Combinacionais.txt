@@ -181,3 +181,12 @@ Circuitos Combinacionais Fundamentais:
   Decodificador 3:8
   Ativação de saídas
   Aplicações dos decodificadores
+
+
+
+Modularização de Circuitos Combinacionais:
+ Conceito de módulos digitais
+ Blocos funcionais
+ Construção hierárquica
+ Reutilização de circuitos
+ Integração de módulos combinacionais
