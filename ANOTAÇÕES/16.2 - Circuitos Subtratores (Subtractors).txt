@@ -131,6 +131,56 @@ Meio Subtrator (Half Subtractor):
 
 
 
+Subtrator Completo (Full Subtractor):
+
+ Introdução ao Subtrator Completo:
+  Conceito de subtrator completo
+  Diferenças em relação ao meio subtrator
+  Necessidade da entrada de empréstimo
+
+ Estrutura do Subtrator Completo:
+  Entradas:
+   Minuendo (A)
+   Subtraendo (B)
+   Borrow In (Bin)
+  Saídas:
+   Diferença (Diff)
+   Borrow Out (Bout)
+
+ Funcionamento do Subtrator Completo:
+  Subtração considerando empréstimo anterior
+  Processamento de múltiplas colunas
+  Fluxo do Borrow entre etapas
+
+ Tabela Verdade do Subtrator Completo:
+  Combinações das três entradas
+  Análise das saídas
+  Identificação dos padrões lógicos
+
+ Desenvolvimento das Expressões Booleanas:
+  Expressão da Diferença:
+   Análise lógica da saída Diff
+   Aplicação da porta XOR
+   Simplificação da expressão
+  Expressão do Empréstimo:
+   Análise da saída Borrow Out
+   Construção da expressão booleana
+   Simplificação usando álgebra booleana
+
+ Mapa de Karnaugh no Subtrator Completo:
+  Organização do mapa
+  Agrupamento das variáveis
+  Redução da expressão lógica
+  Obtenção da expressão otimizada
+
+ Implementação do Circuito Subtrator Completo:
+  Montagem com portas XOR
+  Montagem com portas AND
+  Montagem com portas OR
+  Integração das partes do circuito
+
+
+
 
 
 
