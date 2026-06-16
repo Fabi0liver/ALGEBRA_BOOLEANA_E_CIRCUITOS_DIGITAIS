@@ -111,12 +111,14 @@ Meio Somador (Half Adder):
   Identificação das funções lógicas
   Expressão booleana da Soma
   Expressão booleana do Carry
-  Circuito da Soma:
-   Uso da porta XOR
-   Implementação da saída Sum
-  Circuito do Transporte:
-   Uso da porta AND
-   Implementação da saída Carry Out
+  
+ Circuito da Soma:
+  Uso da porta XOR
+  Implementação da saída Sum
+  
+ Circuito do Transporte:
+  Uso da porta AND
+  Implementação da saída Carry Out
 
  Representação do Meio Somador:
   Diagrama lógico
@@ -128,6 +130,48 @@ Meio Somador (Half Adder):
   Ausência de entrada de transporte
   Problema em somas com múltiplos bits
   Necessidade do Somador Completo
+
+
+
+Somador Completo (Full Adder):
+
+ Introdução ao Somador Completo:
+  Conceito de somador completo
+  Diferença entre Half Adder e Full Adder
+  Necessidade do Carry In
+  Aplicação em números maiores
+
+ Entradas e Saídas do Somador Completo:
+  Entrada A
+  Entrada B
+  Entrada Carry In (Cin)
+  Saída Soma (Sum)
+  Saída Carry Out (Cout)
+
+ Tabela Verdade do Somador Completo:
+  Construção da tabela verdade
+  Combinações das três entradas
+  Análise dos resultados
+  Identificação dos padrões de saída
+
+ Circuito da Saída Soma:
+  Expressão lógica da Soma
+  Uso de XOR em cascata
+  Duplo XOR
+  Implementação da função Sum
+
+ Circuito da Saída Carry Out:
+  Expressão lógica do Carry
+  Combinação de portas AND e OR
+  Simplificação booleana
+  Uso do Mapa de Karnaugh
+  Implementação do circuito Carry
+
+ Construção do Somador Completo:
+  Combinação dos circuitos Sum e Carry
+  Montagem completa com portas lógicas
+  Diagrama lógico final
+  Representação em bloco
 
 
 
