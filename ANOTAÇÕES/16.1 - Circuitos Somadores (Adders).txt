@@ -92,6 +92,45 @@ Conceitos Fundamentais dos Somadores:
 
 
 
+Meio Somador (Half Adder):
+
+ Introdução ao Meio Somador:
+  Definição do meio somador
+  Objetivo do circuito
+  Entradas e saídas do meio somador
+
+ Funcionamento do Meio Somador:
+  Soma de dois bits
+  Análise das possibilidades de entrada
+  Combinações binárias possíveis
+  Geração da saída Soma
+  Geração da saída Transporte
+
+ Projeto do Meio Somador:
+  Montagem da tabela verdade
+  Identificação das funções lógicas
+  Expressão booleana da Soma
+  Expressão booleana do Carry
+  Circuito da Soma:
+   Uso da porta XOR
+   Implementação da saída Sum
+  Circuito do Transporte:
+   Uso da porta AND
+   Implementação da saída Carry Out
+
+ Representação do Meio Somador:
+  Diagrama lógico
+  Circuito com portas lógicas
+  Símbolo em bloco
+  Entradas e saídas do componente
+
+ Limitações do Meio Somador:
+  Ausência de entrada de transporte
+  Problema em somas com múltiplos bits
+  Necessidade do Somador Completo
+
+
+
 
 
 
