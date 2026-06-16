@@ -72,3 +72,27 @@ Fundamentos Necessários:
    XOR com múltiplas entradas
    Propriedade associativa da XOR
    Relação entre XOR e paridade
+
+
+
+Conceitos Fundamentais dos Somadores:
+
+ Estrutura Básica de uma Soma Digital:
+  Entradas dos operandos
+  Operando A
+  Operando B
+  Transporte de entrada (Carry In)
+  Resultado da soma (Sum)
+  Transporte de saída (Carry Out)
+
+ Tipos de Circuitos Somadores:
+  Meio Somador (Half Adder)
+  Somador Completo (Full Adder)
+  Somadores de múltiplos bits
+
+
+
+
+
+
+
