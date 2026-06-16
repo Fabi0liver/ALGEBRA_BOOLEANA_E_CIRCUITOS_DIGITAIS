@@ -235,6 +235,36 @@ Simulação e Análise de Circuitos Subtratores:
 
 
 
+Aplicações dos Circuitos Subtratores:
+
+ Processadores e Computadores:
+  Unidade Lógica e Aritmética (ULA)
+  Operações matemáticas em CPU
+  Processamento de dados binários
+
+ Sistemas Digitais:
+  Calculadoras digitais
+  Sistemas embarcados
+  Controladores digitais
+
+ Circuitos Eletrônicos:
+  Equipamentos digitais
+  Dispositivos programáveis
+  Sistemas de automação
+
+ Processamento de Dados:
+  Comparadores digitais
+  Manipulação de valores binários
+  Operações matemáticas internas
+
+ Relação com Outros Circuitos Aritméticos:
+  Somadores
+  Multiplicadores digitais
+  Divisores digitais
+  Circuitos aritméticos combinados
+
+
+
 
 
 
