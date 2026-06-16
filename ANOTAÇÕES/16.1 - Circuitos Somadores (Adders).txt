@@ -202,6 +202,26 @@ Associação de Somadores:
 
 
 
+Tipos Avançados de Somadores:
+
+ Somador com Propagação de Transporte:
+  Ripple Carry Adder
+  Propagação do Carry
+  Limitações de velocidade
+ 
+ Somador com Antecipação de Transporte:
+  Carry Look-Ahead Adder
+  Geração e propagação de Carry
+  Melhoria de desempenho
+
+ Outros Tipos de Somadores:
+  Carry Select Adder
+  Carry Skip Adder
+  Carry Save Adder
+  Somadores paralelos avançados
+
+
+
 
 
 
