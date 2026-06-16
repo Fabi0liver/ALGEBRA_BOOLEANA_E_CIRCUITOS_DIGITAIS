@@ -222,6 +222,34 @@ Tipos Avançados de Somadores:
 
 
 
+Aplicações dos Circuitos Somadores:
+
+ Processadores e CPUs:
+  Unidade Lógica e Aritmética (ULA)
+  Operações matemáticas
+  Cálculo de endereços
+  Manipulação de dados
+
+ Memórias e Sistemas Digitais:
+  Incrementadores
+  Contadores digitais
+  Temporizadores
+  Circuitos de controle
+
+ Eletrônica Digital:
+  Calculadoras digitais
+  Relógios digitais
+  Sistemas embarcados
+  Microcontroladores
+
+ Computação
+  Processamento de números
+  Operações inteiras
+  Execução de instruções
+  Arquitetura de computadores
+
+
+
 
 
 
