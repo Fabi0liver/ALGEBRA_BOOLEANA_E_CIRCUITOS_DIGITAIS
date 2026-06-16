@@ -181,6 +181,36 @@ Subtrator Completo (Full Subtractor):
 
 
 
+Subtratores de Múltiplos Bits:
+
+ Conceito de Subtração em Vários Bits:
+  Operações com números maiores
+  Necessidade de vários blocos subtratores
+  Processamento bit a bit
+
+ Subtrator em Cascata:
+  Organização dos Estágios:
+   Primeiro bit
+   Bits intermediários
+   Último bit
+  Propagação do Borrow:
+   Ligação Borrow Out → Borrow In
+   Fluxo do empréstimo entre módulos
+   Ordem de processamento dos bits
+
+ Projeto de Subtratores N-bit:
+  Subtrator de 2 bits
+  Subtrator de 4 bits
+  Subtrator de 8 bits
+  Expansão para mais bits
+
+ Análise de Desempenho:
+  Atraso de propagação
+  Tempo de cálculo
+  Limitações da arquitetura em cascata
+
+
+
 
 
 
