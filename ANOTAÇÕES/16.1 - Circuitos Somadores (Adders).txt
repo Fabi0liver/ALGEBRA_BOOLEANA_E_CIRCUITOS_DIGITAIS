@@ -18,3 +18,57 @@ Introdução aos Circuitos Somadores:
   Implementação com relés, válvulas e transistores
   Somadores em circuitos integrados
   Somadores modernos em processadores
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração Binária:
+  Representação de números em binário
+  Bits e valores binários
+  Peso dos bits
+  Conversão entre decimal e binário
+  Operações básicas em binário
+  Soma Binária:
+   Regras da soma bináriaSoma de 0 com 0
+   Soma de 0 com 1
+   Soma de 1 com 0
+   Soma de 1 com 1
+   Conceito de transporte ("vai um")
+   Carry na soma binária
+
+ Álgebra Booleana Aplicada aos Somadores:
+  Conceitos Básicos:
+   Variáveis booleanas
+   Valores lógico 0 e 1
+   Operações lógicas básicas
+   Expressões booleanas
+   Simplificação de expressões
+  Tabela Verdade:
+   Construção de tabelas verdade
+   Relação entre entradas e saídas
+   Análise de circuitos através da tabela verdade
+
+ Portas Lógicas Necessárias:
+  Porta AND:
+   Funcionamento da porta AND
+   Tabela verdade da AND
+   Aplicação da AND no transporte (Carry)
+  Porta OR:
+   Funcionamento da porta OR
+   Tabela verdade da OR
+   Uso da OR na combinação de sinais
+  Porta NOT:
+   Funcionamento da inversora
+   Complemento lógico
+   Uso em circuitos combinacionais
+  Porta XOR (OU Exclusivo):
+   Conceito da porta XOR
+   Simbologia da XOR
+   Tabela verdade da XOR
+   Diferença entre OR e XOR
+   Expressão booleana da XOR
+   XOR como base da soma binária
+   XOR com múltiplas entradas
+   Propriedade associativa da XOR
+   Relação entre XOR e paridade
