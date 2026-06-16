@@ -290,12 +290,3 @@ Conclusão e Revisão Geral:
   Processadores digitais
   Arquitetura de computadores
   Circuitos integrados aritméticos
-
-
-
-
-
-
-
-
-
