@@ -250,6 +250,30 @@ Aplicações dos Circuitos Somadores:
 
 
 
+Análise e Projeto de Circuitos Somadores:
+ 
+ Identificação do problema
+ Definição das entradas e saídas
+ Criação da tabela verdade
+ Obtenção das expressões booleanas
+ Simplificação lógica
+ Montagem do circuito
+ Teste e validação
 
 
 
+Conclusão e Revisão Geral:
+
+ Revisão dos Conceitos Principais:
+  Soma binária
+  Carry e Sum
+  XOR como elemento principal
+  Meio Somador
+  Somador Completo
+  Associação de somadores
+
+ Visão Geral dos Somadores:
+  Somadores como blocos fundamentais da computação
+  Importância na arquitetura dos computadores
+  Evolução dos circuitos somadores
+  Relação com sistemas digitais modernos
