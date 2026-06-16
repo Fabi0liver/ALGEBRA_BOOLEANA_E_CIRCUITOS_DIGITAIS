@@ -175,6 +175,32 @@ Somador Completo (Full Adder):
 
 
 
+Associação de Somadores:
+
+ Somadores em Cascata:
+  Conceito de encadeamento
+  Ligação entre somadores
+  Carry Out conectado ao Carry In
+  Propagação do transporte
+
+ Somador de Múltiplos Bits:
+  Somador de 2 Bits:
+   Estrutura do circuito
+   Uso de múltiplos Full Adders
+  Somador de 3 Bits:
+   Organização dos estágios
+   Transporte entre posições
+  Somador de 4 Bits:
+   Estrutura do somador paralelo
+   Carry Ripple Adder
+   Funcionamento dos blocos
+  Expansão dos Somadores:
+   Somadores de 8 bits
+   Somadores de 16 bits
+   Somadores de 32 bits
+   Somadores de 64 bits
+
+
 
 
 
