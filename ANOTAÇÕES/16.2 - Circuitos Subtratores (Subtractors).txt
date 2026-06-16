@@ -265,6 +265,34 @@ Aplicações dos Circuitos Subtratores:
 
 
 
+Conclusão e Revisão Geral:
+
+ Revisão dos Conceitos Principais:
+  Subtração binária
+  Borrow
+  Meio subtrator
+  Subtrator completo
+  Subtratores de múltiplos bits
+
+ Comparação dos Circuitos Subtratores:
+  Meio Subtrator x Subtrator Completo
+  Vantagens e limitações
+  Aplicações de cada modelo
+
+ Visão Geral do Funcionamento:
+  Entradas
+  Processamento lógico
+  Saídas
+  Encadeamento de circuitos
+
+ Preparação para Estudos Avançados:
+  Unidade Lógica e Aritmética
+  Processadores digitais
+  Arquitetura de computadores
+  Circuitos integrados aritméticos
+
+
+
 
 
 
