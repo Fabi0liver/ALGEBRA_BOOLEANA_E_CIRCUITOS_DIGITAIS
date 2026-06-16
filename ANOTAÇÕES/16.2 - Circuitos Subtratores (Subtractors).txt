@@ -1,0 +1,27 @@
+                                   Circuitos Subtratores (Subtractors)
+
+
+Introdução aos Circuitos Subtratores:
+
+ Conceito de Circuitos Subtratores:
+  O que são circuitos subtratores
+  Função dos circuitos subtratores na eletrônica digital
+  Relação entre circuitos subtratores e operações aritméticas digitais
+  Importância dos subtratores dentro da Unidade Lógica e Aritmética (ULA)
+  Diferença entre cálculo matemático tradicional e subtração em circuitos digitais
+
+ Operação de Subtração em Sistemas Digitais:
+  Representação da subtração em binário
+  Funcionamento da subtração binária
+  Regras básicas da subtração binária
+  Conceito de diferença em operações digitais
+  Conceito de empréstimo (Borrow) em subtrações
+
+ Estrutura Geral de um Circuito Subtrator:
+  Entradas do circuito subtrator
+  Saídas do circuito subtrator
+  Variável Minuendo (A)
+  Variável Subtraendo (B)
+  Saída Diferença (Difference)
+  Saída Empréstimo (Borrow Out)
+  Entrada Empréstimo (Borrow In)
