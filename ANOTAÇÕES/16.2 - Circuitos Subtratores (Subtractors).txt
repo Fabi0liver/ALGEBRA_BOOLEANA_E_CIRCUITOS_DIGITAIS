@@ -25,3 +25,74 @@ Introdução aos Circuitos Subtratores:
   Saída Diferença (Difference)
   Saída Empréstimo (Borrow Out)
   Entrada Empréstimo (Borrow In)
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração Binária:
+  Conceitos de Números Binários:
+   Sistema binário
+   Bits e valores lógicos
+   Representação de números em binário
+   Conversão entre decimal e binário
+  Operações Binárias Básicas:
+   Soma binária
+   Subtração binária
+   Multiplicação binária
+   Divisão binária
+  Subtração Binária Manual:
+   Subtração bit a bit
+   Regras da subtração com 0 e 1
+   Empréstimo entre bits
+   Propagação de empréstimos
+
+ Álgebra Booleana:
+  Fundamentos da Álgebra Booleana:
+   Variáveis booleanas
+   Valores verdadeiro e falso
+   Representação 0 e 1
+   Operações booleanas básicas
+  Operadores Booleanos:
+   Operação AND
+   Operação OR
+   Operação NOT
+   Operação XOR
+  Expressões Booleanas:
+   Construção de expressões lógicas
+   Simplificação de expressões
+   Leis da álgebra booleana
+   Identidades booleanas
+
+ Portas Lógicas:
+  Portas Fundamentais:
+   Porta AND
+   Porta OR
+   Porta NOT
+  Porta XOR:
+   Funcionamento da porta XOR
+   Tabela verdade da XOR
+   Uso da XOR em operações aritméticas
+  Combinação de Portas Lógicas:
+   Construção de circuitos combinacionais
+   Conversão de expressão booleana em circuito
+   Análise de circuitos lógicos
+
+ Circuitos Combinacionais:
+  Conceito de Circuitos Combinacionais:
+   Características principais
+   Relação entre entradas e saídas
+   Diferença entre circuito combinacional e sequencial
+  Representação de Circuitos:
+   Tabela verdade
+   Expressões booleanas
+   Diagramas lógicos
+
+
+
+
+
+
+
+
+
