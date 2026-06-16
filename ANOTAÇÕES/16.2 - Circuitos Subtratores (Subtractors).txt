@@ -211,6 +211,30 @@ Subtratores de Múltiplos Bits:
 
 
 
+Simulação e Análise de Circuitos Subtratores:
+
+ Montagem do Circuito:
+  Construção usando portas lógicas
+  Organização dos componentes
+  Conexão das entradas e saídas
+
+ Teste de Funcionamento:
+  Aplicação de valores binários
+  Verificação da saída Diferença
+  Verificação do Borrow
+
+ Análise do Fluxo de Dados:
+  Caminho dos bits no circuito
+  Funcionamento das portas lógicas
+  Alteração dos sinais durante a operação
+
+ Ferramentas de Simulação Digital:
+  Simuladores de circuitos lógicos
+  Criação de circuitos virtuais
+  Testes de funcionamento
+
+
+
 
 
 
