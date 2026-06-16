@@ -90,6 +90,47 @@ Fundamentos Necessários:
 
 
 
+Meio Subtrator (Half Subtractor):
+
+ Introdução ao Meio Subtrator:
+  Conceito de meio subtrator
+  Estrutura básica
+  Funcionamento da subtração de um bit
+
+ Entradas e Saídas do Meio Subtrator:
+  Entrada Minuendo (A)
+  Entrada Subtraendo (B)
+  Saída Diferença (Diff)
+  Saída Empréstimo (Borrow Out)
+
+ Tabela Verdade do Meio Subtrator:
+  Combinações de entrada
+  Análise das saídas
+  Interpretação dos resultados
+
+ Projeto Lógico do Meio Subtrator:
+  Circuito da Diferença:
+   Expressão lógica da diferença
+   Uso da porta XOR
+   Implementação da saída Diff
+  Circuito do Empréstimo:
+   Expressão lógica do Borrow Out
+   Uso da porta NOT
+   Uso da porta AND
+   Implementação da saída Borrow
+ 
+ Diagrama do Meio Subtrator:
+  Representação em portas lógicas
+  Fluxo dos sinais
+  Análise do circuito
+
+ Limitações do Meio Subtrator:
+  Ausência de Borrow In
+  Limitação para múltiplos bits
+  Necessidade do Subtrator Completo
+
+
+
 
 
 
