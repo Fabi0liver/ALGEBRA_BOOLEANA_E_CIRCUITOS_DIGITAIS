@@ -24,3 +24,47 @@ Introdução ao Circuito Comparador de Magnitude:
   Comparação de tensão e corrente em sistemas analógicos
   Comparação de números binários em sistemas digitais
   Diferença entre sinais contínuos e discretos
+
+
+
+Fundamentos Necessários para Estudo dos Comparadores:
+
+ Sistemas de numeração binária:
+  Representação de números em binário
+  Bits e valores lógicos
+  Bit mais significativo (MSB)
+  Bit menos significativo (LSB)
+  Conversão básica entre decimal e binário
+
+ Álgebra Booleana aplicada aos comparadores:
+  Variáveis booleanas
+  Operações AND, OR e NOT
+  Leis fundamentais da álgebra booleana
+  Simplificação de expressões lógicas
+
+ Portas lógicas fundamentais:
+  Porta AND
+  Porta OR
+  Porta NOT
+  Porta NAND
+  Porta NOR
+
+ Portas lógicas especiais usadas em comparação:
+  Porta XOR (OU Exclusivo)
+  Porta XNOR (NÃO OU Exclusivo)
+  Funcionamento lógico do XOR
+  Funcionamento lógico do XNOR
+  Relação entre XOR, XNOR e comparação
+
+ Tabela verdade:
+  Construção de tabelas verdade
+  Análise de entradas e saídas
+  Identificação de padrões lógicos
+
+
+
+
+
+
+
+
