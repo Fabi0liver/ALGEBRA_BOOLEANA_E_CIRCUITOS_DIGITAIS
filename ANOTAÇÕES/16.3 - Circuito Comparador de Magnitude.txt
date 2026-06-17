@@ -153,6 +153,30 @@ Desenvolvimento das Expressões Lógicas do Comparador:
 
 
 
+Construção do Circuito Comparador Completo:
+
+ Estrutura geral do circuito:
+  Entradas de dados
+  Saídas de comparação
+  Blocos internos
+
+ Implementação com portas lógicas:
+  Associação de XOR e XNOR
+  Associação de AND e OR
+  Inversores no circuito
+
+ Fluxo de decisão do comparador:
+  Verificação dos bits superiores
+  Ativação da saída correspondente
+  Controle das condições de igualdade
+
+ Testes e simulação:
+  Aplicação de diferentes números binários
+  Verificação das saídas
+  Análise dos resultados
+
+
+
 
 
 
