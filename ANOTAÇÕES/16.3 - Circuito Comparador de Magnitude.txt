@@ -201,6 +201,39 @@ Expansão e Otimização de Comparadores:
 
 
 
+Aplicações dos Circuitos Comparadores de Magnitude:
+
+ Sistemas digitais de controle:
+  Controle baseado em condições
+  Tomada de decisões automáticas
+
+ Processadores e computadores:
+  Comparações matemáticas
+  Operações condicionais
+  Unidade lógica e aritmética (ULA)
+
+ Sistemas de temporização:
+  Comparação de valores de tempo
+  Relógios digitais
+  Sistemas de contagem
+
+ Automação industrial:
+  Controle de sensores
+  Monitoramento de valores
+  Acionamento de dispositivos
+
+ Sistemas embarcados:
+  Microcontroladores
+  Equipamentos eletrônicos inteligentes
+  Controle de processos
+
+ Sistemas de segurança:
+  Comparação de códigos digitais
+  Verificação de valores
+  Controle de acesso
+
+
+
 
 
 
