@@ -1,0 +1,26 @@
+                                  Circuito Comparador de Magnitude
+
+
+Introdução ao Circuito Comparador de Magnitude:
+
+ Conceito geral de circuitos comparadores:
+  Definição de circuito comparador
+  Função dos comparadores em sistemas digitais
+  Comparação entre sinais e valores binários
+  Entrada e saída de um circuito comparador
+
+ Importância dos comparadores na eletrônica digital:
+  Tomada de decisões em circuitos digitais
+  Controle lógico baseado em condições
+  Integração dos comparadores em sistemas digitais
+
+ Tipos de comparação:
+  Comparação de igualdade
+  Comparação de diferença
+  Comparação de maior valor
+  Comparação de menor valor
+
+ Comparadores analógicos x comparadores digitais:
+  Comparação de tensão e corrente em sistemas analógicos
+  Comparação de números binários em sistemas digitais
+  Diferença entre sinais contínuos e discretos
