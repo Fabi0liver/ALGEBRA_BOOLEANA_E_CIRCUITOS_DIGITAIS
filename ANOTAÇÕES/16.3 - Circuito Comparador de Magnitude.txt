@@ -233,7 +233,30 @@ Aplicações dos Circuitos Comparadores de Magnitude:
   Controle de acesso
 
 
+Conclusão e Resumo:
 
+ Revisão Geral do Circuito Comparador de Magnitude:
+  Conceitos principais:
+   Função do comparador
+   Entradas e saídas
+   Tipos de comparação
+  Estruturas estudadas:
+   Comparador de 1 bit
+   Comparador de múltiplos bits
+   Comparação hierárquica
+  Elementos fundamentais utilizados:
+   Portas lógicas
+   Expressões booleanas
+   Tabelas verdade
 
+ Resumo final:
+  Comparadores verificam relações entre números binários
+  A comparação começa pelo bit mais significativo
+  XOR e XNOR são fundamentais para igualdade e diferença
+  Comparadores maiores são construídos pela combinação de comparadores menores
+  Esses circuitos são essenciais em computadores, automação e sistemas digitais modernos
 
-
+ Conclusão:
+  Importância dos comparadores na lógica digital
+  Papel dos comparadores na tomada de decisão
+  Relação entre matemática binária e circuitos eletrônicos
