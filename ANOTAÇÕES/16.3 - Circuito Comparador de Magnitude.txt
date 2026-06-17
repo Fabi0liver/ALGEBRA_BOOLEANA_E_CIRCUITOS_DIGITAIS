@@ -99,6 +99,35 @@ Comparador de Magnitude de 1 Bit:
 
 
 
+Comparador de Magnitude de Múltiplos Bits:
+
+ Conceito de comparação entre números binários maiores:
+  Comparação entre palavras binárias
+  Números de vários bits
+  Prioridade dos bits mais significativos
+
+ Método de comparação bit a bit:
+  Análise do MSB para o LSB
+  Identificação do primeiro bit diferente
+  Regra de decisão da comparação
+
+ Comparador de 2 bits:
+  Estrutura básica
+  Comparação dos bits superiores
+  Comparação dos bits inferiores
+  Condições de igualdade
+
+ Comparador de 3 bits:
+  Organização das entradas
+  Comparação A₂A₁A₀ e B₂B₁B₀
+  Prioridade entre bits
+
+ Comparador de 4 bits:
+  Estrutura do comparador
+  Comparação dos quatro pares de bits
+  Identificação de maior e menor número
+
+
 
 
 
