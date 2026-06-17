@@ -130,6 +130,30 @@ Comparador de Magnitude de Múltiplos Bits:
 
 
 
+Desenvolvimento das Expressões Lógicas do Comparador:
+
+ Dedução da saída A > B:
+  Análise das condições possíveis
+  Prioridade do bit mais significativo
+  Construção da expressão lógica
+
+ Dedução da saída A < B:
+  Análise das condições possíveis
+  Construção da expressão lógica
+
+ Dedução da saída A = B:
+  Comparação individual dos bits
+  Uso de portas XNOR
+  Associação das condições de igualdade
+
+ Simplificação das expressões:
+  Redução de portas lógicas
+  Uso das propriedades booleanas
+  Otimização do circuito
+
+
+
+
 
 
 
