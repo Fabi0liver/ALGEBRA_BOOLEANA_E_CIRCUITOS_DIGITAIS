@@ -177,6 +177,29 @@ Construção do Circuito Comparador Completo:
 
 
 
+Expansão e Otimização de Comparadores:
+
+ Comparação de números maiores:
+  Ampliação para mais bits
+  Divisão em grupos de bits
+  Organização hierárquica
+
+ Comparadores em cascata:
+  Combinação de comparadores menores
+  Comunicação entre estágios
+  Expansão da capacidade de comparação
+
+ Otimização de circuitos comparadores:
+  Redução de componentes
+  Simplificação lógica
+  Eficiência do circuito
+
+ Saídas adicionais:
+  Criação da saída diferente (A ≠ B)
+  Relação entre igualdade e diferença
+  Uso de portas OR
+
+
 
 
 
