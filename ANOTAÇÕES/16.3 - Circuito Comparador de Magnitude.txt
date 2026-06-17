@@ -63,6 +63,42 @@ Fundamentos Necessários para Estudo dos Comparadores:
 
 
 
+Comparador de Magnitude de 1 Bit:
+
+ Conceito do comparador de 1 bit:
+  Comparação entre duas entradas binárias
+  Entradas A e B
+  Saídas de comparação
+
+ Comparação de igualdade de 1 bit:
+  Condição A = B
+  Construção da tabela verdade
+  Uso da porta XNOR
+  Expressão lógica da igualdade
+
+ Comparação de diferença de 1 bit:
+  Condição A ≠ B
+  Construção da tabela verdade
+  Uso da porta XOR
+  Expressão lógica da diferença
+
+ Comparação de magnitude de 1 bit:
+  Condição A > B
+  Condição A < B
+  Condição A = B
+
+ Expressões lógicas do comparador de 1 bit:
+  Expressão de A maior que B
+  Expressão de A menor que B
+  Expressão de igualdade
+
+ Montagem do circuito lógico:
+  Associação de portas lógicas
+  Diagrama lógico
+  Análise do funcionamento
+
+
+
 
 
 
