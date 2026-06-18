@@ -28,3 +28,44 @@ Introdução aos Circuitos Multiplexadores e Demultiplexadores:
   Comparação entre Mux e Demux
   Conceito de seleção e distribuição de sinais
   Comunicação entre sistemas digitais utilizando Mux e Demux
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração Binária:
+  Representação de números em binário
+  Bits e combinações binárias
+  Relação entre bits de controle e seleção de canais
+ 
+ Álgebra Booleana:
+  Variáveis booleanas
+  Operações lógicas básicas:
+   AND
+   OR
+   NOT
+  Expressões booleanas de circuitos digitais
+
+ Portas Lógicas Digitais:
+  Porta AND
+  Porta OR
+  Porta NOT
+  Combinação de portas lógicas em circuitos
+
+ Tabela Verdade:
+  Construção de tabelas verdade
+  Relação entre entradas e saídas
+  Análise do comportamento lógico dos circuitos
+
+ Mapa de Karnaugh:
+  Simplificação de expressões booleanas
+  Redução de circuitos lógicos
+  Otimização de projetos digitais
+
+ Circuitos Combinacionais:
+  Conceito de circuitos combinacionais
+  Diferença entre circuitos combinacionais e sequenciais
+  Exemplos de circuitos combinacionais:
+   Somadores
+   Subtratores
+   Comparadores
