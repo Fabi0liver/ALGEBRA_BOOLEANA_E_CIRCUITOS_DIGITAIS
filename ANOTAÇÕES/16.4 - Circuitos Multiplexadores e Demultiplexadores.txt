@@ -233,3 +233,21 @@ Demultiplexadores de Múltiplas Saídas:
 
 
 
+Comparação Entre Mux e Demux:
+
+ Diferenças Estruturais:
+  Número de entradas
+  Número de saídas
+  Direção do fluxo de dados
+
+ Diferenças Funcionais:
+  Seleção de sinais no Mux
+  Distribuição de sinais no Demux
+
+ Uso Combinado de Mux e Demux:
+  Sistemas de comunicação
+  Transmissão e recepção de dados
+  Controle de caminhos digitais
+
+
+
