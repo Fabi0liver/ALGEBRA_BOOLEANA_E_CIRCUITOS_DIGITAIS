@@ -281,3 +281,31 @@ Aplicações dos Multiplexadores e Demultiplexadores:
 
 
 
+Conclusão e Revisão Geral:
+
+ Revisão dos Multiplexadores:
+  Conceito
+  Estrutura
+  Funcionamento
+  Tipos principais
+
+ Revisão dos Demultiplexadores:
+  Conceito
+  Estrutura
+  Funcionamento
+  Tipos principais
+
+ Relação Entre os Conceitos:
+  Mux como seletor de dados
+  Demux como distribuidor de dados
+  Uso complementar em sistemas digitais
+
+ Visão Geral do Conhecimento Adquirido:
+  Análise de circuitos Mux e Demux
+  Interpretação de tabelas verdade
+  Construção de expressões booleanas
+  Aplicação em projetos digitais
+  Base para estudo de arquitetura de computadores e sistemas digitais avançados
+
+
+
