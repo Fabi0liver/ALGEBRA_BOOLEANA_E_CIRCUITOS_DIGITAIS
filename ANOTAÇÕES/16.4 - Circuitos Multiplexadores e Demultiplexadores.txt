@@ -160,3 +160,37 @@ Multiplexadores de Múltiplas Entradas:
 
 
 
+Estudo dos Demultiplexadores (Demux):
+
+ Introdução aos Demultiplexadores:
+  Função de distribuição de sinais
+  Comparação com multiplexadores
+  Representação em bloco
+
+ Estrutura Básica do Demux:
+  Entrada de dados
+  Linhas de seleção
+  Saídas múltiplas
+
+ Funcionamento do Demux:
+  Direcionamento do sinal de entrada
+  Seleção da saída ativa
+  Controle através das variáveis binárias
+
+ Demultiplexador 1x2:
+  Entrada única
+  Duas saídas
+  Linha de seleção
+
+ Estrutura Lógica do Demux 1x2:
+  Uso de inversores
+  Uso de portas AND
+  Expressões booleanas das saídas
+
+ Tabela Verdade do Demux:
+  Combinações de seleção
+  Saídas ativas
+  Saídas forçadas para zero
+
+
+
