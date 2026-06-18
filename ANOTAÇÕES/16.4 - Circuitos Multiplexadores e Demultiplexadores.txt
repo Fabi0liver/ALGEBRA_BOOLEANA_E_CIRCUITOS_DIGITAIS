@@ -251,3 +251,33 @@ Comparação Entre Mux e Demux:
 
 
 
+Aplicações dos Multiplexadores e Demultiplexadores:
+
+ Aplicações em Sistemas Digitais:
+  Controle de sinais
+  Seleção de dados
+  Roteamento interno de informações
+
+ Aplicações em Computadores:
+  Unidade de controle
+  Processadores
+  Barramentos digitais
+  Transferência de dados internos
+
+ Aplicações em Comunicação de Dados:
+  Compartilhamento de canais
+  Transmissão de informações
+  Sistemas de telecomunicação
+
+ Aplicações em Redes de Computadores:
+  Gerenciamento de fluxo de dados
+  Divisão e agrupamento de sinais
+  Equipamentos de comunicação
+
+ Aplicações em Eletrônica e Automação:
+  Sistemas embarcados
+  Controladores digitais
+  Equipamentos industriais
+
+
+
