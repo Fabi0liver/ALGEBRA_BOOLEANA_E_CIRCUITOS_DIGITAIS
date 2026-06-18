@@ -118,3 +118,45 @@ Estudo dos Multiplexadores (Mux):
 
 
 
+Multiplexadores de Múltiplas Entradas:
+
+ Multiplexador 4x1:
+  Estrutura geral
+  Entradas de dados:
+   D0
+   D1
+   D2
+   D3
+  Entradas de seleção:
+   S0
+   S1
+
+ Organização Interna do Mux 4x1:
+  Conjunto de portas AND
+  Inversores para controle
+  Porta OR de combinação final
+
+ Funcionamento das Combinações de Seleção:
+  Seleção 00
+  Seleção 01
+  Seleção 10
+  Seleção 11
+
+ Expressão Booleana do Mux 4x1:
+  Construção da expressão
+  Representação das entradas selecionadas
+  Simplificação lógica
+
+ Multiplexadores Maiores:
+  Multiplexador 8x1
+  Multiplexador 16x1
+  Associação de multiplexadores menores
+
+ Relação Matemática dos Multiplexadores:
+  Número de entradas e linhas de seleção
+  Fórmula:
+   n = 2ᵐ
+  Cálculo da quantidade de seletores necessários
+
+
+
