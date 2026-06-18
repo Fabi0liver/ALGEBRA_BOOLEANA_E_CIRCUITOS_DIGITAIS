@@ -194,3 +194,42 @@ Estudo dos Demultiplexadores (Demux):
 
 
 
+Demultiplexadores de Múltiplas Saídas:
+
+ Demux 1x4:
+  Estrutura geral
+  Entrada de dados
+  Saídas:
+   S0
+   S1
+   S2
+   S3
+
+ Organização Interna:
+  Portas AND
+  Linhas de seleção
+  Distribuição do sinal
+
+ Funcionamento das Seleções:
+  Caminho de saída 00
+  Caminho de saída 01
+  Caminho de saída 10
+  Caminho de saída 11
+
+ Expressões Booleanas do Demux:
+  Construção das equações das saídas
+  Relação entre seleção e saída ativa
+
+ Demultiplexadores Maiores:
+  Demux 1x8
+  Demux 1x16
+  Associação de circuitos menores
+
+ Relação Matemática dos Demux:
+  Quantidade de saídas
+  Número de variáveis de seleção
+  Fórmula:
+   n = 2ᵐ
+
+
+
