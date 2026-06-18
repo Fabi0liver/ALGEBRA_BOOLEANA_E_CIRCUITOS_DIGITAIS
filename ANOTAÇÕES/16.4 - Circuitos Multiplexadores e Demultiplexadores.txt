@@ -69,3 +69,52 @@ Fundamentos Necessários:
    Somadores
    Subtratores
    Comparadores
+
+
+
+Estudo dos Multiplexadores (Mux):
+
+ Introdução aos Multiplexadores:
+  Histórico e necessidade dos multiplexadores
+  Função de chaveamento digital
+  Representação por diagrama de bloco
+
+ Estrutura Básica de um Multiplexador:
+  Entradas de dados
+  Entradas de seleção
+  Saída do multiplexador
+  Variáveis de controle
+
+ Funcionamento do Multiplexador:
+  Princípio de seleção de entrada
+  Controle através de bits de seleção
+  Transferência de dados para a saída
+
+ Multiplexador 2 para 1 (2x1):
+  Estrutura lógica básica
+  Entradas:
+   D0
+   D1
+  Entrada de seleção:
+   S
+  Saída:
+   Y
+
+ Expressão Booleana do Mux 2x1:
+  Montagem da expressão lógica
+  Uso da porta NOT
+  Uso das portas AND
+  Uso da porta OR
+
+ Tabela Verdade do Multiplexador:
+  Combinações da variável de seleção
+  Seleção da entrada correspondente
+  Análise das saídas
+
+ Elementos Lógicos no Multiplexador:
+  Comportamento do elemento neutro lógico (1)
+  Comportamento do elemento nulo lógico (0)
+  Bloqueio e passagem de sinais
+
+
+
