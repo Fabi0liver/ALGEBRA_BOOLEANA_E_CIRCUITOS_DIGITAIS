@@ -145,3 +145,36 @@ Circuitos Decodificadores (Decoder)
 
 
 
+Decodificador Binário para Decimal
+
+ Estrutura do Decodificador Decimal:
+  Entradas binárias
+  Saídas decimais
+  Representação BCD 8421
+
+ Construção da Tabela Verdade:
+  Combinações binárias válidas
+  Associação das entradas:
+   A
+   B
+   C
+   D
+  Ativação das saídas:
+   0
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+
+ Tratamento das Combinações Inválidas:
+  Estados não utilizados no BCD
+  Condições irrelevantes (Don't Care)
+  Aproveitamento das condições inválidas na simplificação
+
+
+
