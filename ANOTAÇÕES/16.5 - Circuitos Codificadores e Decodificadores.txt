@@ -239,3 +239,43 @@ Decodificador BCD para Excesso 3:
 
 
 
+Decodificadores para Displays:
+
+ Display de 7 Segmentos:
+  Conceito do display
+  Estrutura dos segmentos:
+   A
+   B
+   C
+   D
+   E
+   F
+   G
+
+ Tipos de Display:
+  Display de Cátodo Comum
+  Display de Ânodo Comum
+  Diferença entre acionamento lógico 0 e 1
+
+ Decodificador BCD para 7 Segmentos:
+  Conversão BCD para segmentos
+  Tabela de ativação dos segmentos
+  Representação dos números:
+   0 a 9
+
+ Simplificação das Saídas dos Segmentos:
+  Segmento A
+  Segmento B
+  Segmento C
+  Segmento D
+  Segmento E
+  Segmento F
+  Segmento G
+
+ Implementação do Circuito:
+  Uso de portas lógicas
+  Conexão das saídas ao display
+  Simulação em software digital
+
+
+
