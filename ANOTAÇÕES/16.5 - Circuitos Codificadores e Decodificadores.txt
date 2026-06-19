@@ -114,3 +114,18 @@ Circuitos Codificadores (Encoder):
 
 
 
+Codificadores Avançados:
+
+ Codificador com Prioridade (Priority Encoder):
+  Conceito de prioridade entre entradas
+  Problema de múltiplas entradas ativadas
+  Funcionamento do codificador prioritário
+  Tabela verdade do codificador prioritário
+
+ Aplicações dos Codificadores Prioritários:
+  Sistemas de interrupção
+  Processadores
+  Sistemas de controle digital
+
+
+
