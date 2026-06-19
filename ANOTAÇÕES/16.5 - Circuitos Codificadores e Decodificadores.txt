@@ -305,6 +305,33 @@ Aplicações dos Codificadores e Decodificadores:
 
 
 
+Conclusão e Revisão Final:
 
+ Revisão dos Conceitos Principais:
+  Circuitos combinacionais
+  Codificação de informações
+  Decodificação de informações
+  Conversão entre códigos digitais
 
+ Comparação Final:
+  Codificador:
+   Muitas entradas → poucas saídas
+   Transforma informação em código
+  Decodificador:
+   Poucas entradas → muitas saídas
+   Recupera informação a partir do código
 
+ Sequência recomendada de domínio:
+  Sistemas de numeração
+  Álgebra booleana
+  Portas lógicas
+  Tabela verdade
+  Karnaugh
+  Codificadores
+  Decodificadores
+  Displays e aplicações práticas
+
+ Visão geral dos circuitos:
+  Importância dos codificadores e decodificadores na eletrônica digital
+  Papel na comunicação entre sistemas
+  Base para estudo de processadores, memórias e arquitetura de computadores
