@@ -1,0 +1,20 @@
+                                  Circuitos Codificadores e Decodificadores
+
+
+Introdução aos Circuitos Codificadores e Decodificadores
+
+ Conceito geral de Circuitos Combinacionais:
+  Definição de circuitos combinacionais
+  Diferença entre circuitos combinacionais e sequenciais
+  Relação entre entradas, saídas e funções lógicas
+  Aplicação dos circuitos combinacionais em sistemas digitais
+
+ Introdução aos Códigos Digitais:
+  Conceito de representação de informações em sistemas digitais
+  Sistemas de codificação binária
+  Importância dos códigos digitais em computadores e dispositivos eletrônicos
+  Principais códigos utilizados:
+   Binário natural
+   BCD 8421
+   Excesso 3
+   Código Gray
