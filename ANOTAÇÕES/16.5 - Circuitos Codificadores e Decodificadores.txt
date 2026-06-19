@@ -211,7 +211,31 @@ Projeto de Decodificadores:
   Análise do circuito final
 
 
+Decodificador BCD para Excesso 3:
 
+ Conceito do Código Excesso 3:
+  Estrutura do código
+  Relação entre BCD e Excesso 3
+  Conversão entre códigos
+
+ Projeto do Conversor BCD → Excesso 3:
+  Construção da tabela verdade
+  Comparação das entradas e saídas
+  Identificação dos valores inválidos
+
+ Simplificação das Saídas:
+  Saída S3
+  Saída S2
+  Saída S1
+  Saída S0
+  Uso do mapa de Karnaugh
+
+ Implementação Lógica:
+  Portas AND
+  Portas OR
+  Portas NOT
+  Portas XOR
+  Portas XNOR
 
 
 
