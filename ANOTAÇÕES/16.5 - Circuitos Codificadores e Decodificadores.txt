@@ -129,3 +129,19 @@ Codificadores Avançados:
 
 
 
+Circuitos Decodificadores (Decoder)
+
+ Introdução aos Decodificadores:
+  Definição de circuito decodificador
+  Função de um decodificador
+  Conversão de código binário para informação original
+  Diferença entre codificador e decodificador
+
+ Funcionamento dos Decodificadores:
+  Relação entre entradas e saídas
+  Estrutura n entradas e 2ⁿ saídas
+  Ativação de uma única saída
+  Estados lógicos das saídas
+
+
+
