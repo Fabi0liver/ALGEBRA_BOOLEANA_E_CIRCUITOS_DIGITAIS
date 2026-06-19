@@ -178,3 +178,40 @@ Decodificador Binário para Decimal
 
 
 
+Projeto de Decodificadores:
+
+ Metodologia de Projeto:
+  Definição das entradas e saídas
+  Construção da tabela verdade
+  Criação das expressões booleanas
+  Simplificação das funções
+  Implementação física do circuito
+
+ Simplificação das Saídas:
+  Saídas Individuais:
+   Saída 0
+   Saída 1
+   Saída 2
+   Saída 3
+   Saída 4
+   Saída 5
+   Saída 6
+   Saída 7
+   Saída 8
+   Saída 9
+  Técnicas utilizadas:
+   Mapa de Karnaugh
+   Agrupamento de termos
+   Redução de portas lógicas
+
+ Implementação do Circuito:
+  Uso de portas AND
+  Uso de inversores NOT
+  Organização das conexões
+  Análise do circuito final
+
+
+
+
+
+
