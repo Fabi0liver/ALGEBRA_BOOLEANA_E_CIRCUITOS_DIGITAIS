@@ -18,3 +18,54 @@ Introdução aos Circuitos Codificadores e Decodificadores
    BCD 8421
    Excesso 3
    Código Gray
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração:
+  Sistema decimal
+  Sistema binário
+  Conversão decimal para binário
+  Conversão binário para decimal
+  Representação de números digitais
+
+ Álgebra Booleana:
+  Variáveis booleanas
+  Operações lógicas fundamentais:
+   AND
+   OR
+   NOT
+  Leis da álgebra booleana
+  Simplificação de expressões booleanas
+
+ Portas Lógicas:
+  Símbolos das portas lógicas
+  Tabela verdade das portas:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+ Combinação de portas lógicas
+
+ Tabela Verdade:
+  Construção de tabelas verdade
+  Relação entre entradas e saídas
+  Identificação dos estados lógicos
+  Extração de expressões booleanas
+
+ Mapas de Karnaugh:
+  Conceito do mapa de Karnaugh
+  Organização dos mapas:
+   2 variáveis
+   3 variáveis
+   4 variáveis
+  Agrupamentos:
+   Pares
+   Quadras
+   Oitavas
+  Simplificação de circuitos lógicos
+  Condições irrelevantes (Don't Care)
