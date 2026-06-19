@@ -69,3 +69,48 @@ Fundamentos Necessários:
    Oitavas
   Simplificação de circuitos lógicos
   Condições irrelevantes (Don't Care)
+
+
+
+Circuitos Codificadores (Encoder):
+
+ Introdução aos Codificadores:
+  Definição de circuito codificador
+  Função de um codificador
+  Relação entre entradas e saídas
+  Conversão de informação para código binário
+  Estrutura básica de um codificador
+
+ Funcionamento dos Codificadores:
+  Número de entradas e saídas
+  Relação 2ⁿ entradas para n saídas
+  Estados ativos das entradas
+  Representação através de tabelas verdade
+
+ Codificador Decimal para Binário:
+  Estrutura do Codificador Decimal:
+   Entradas decimais de 0 a 9
+   Saídas em código binário
+   Organização das linhas de entrada
+  Codificador Decimal para BCD 8421:
+   Conceito do código BCD
+   Representação dos números decimais em 4 bits
+   Mapeamento das entradas para as saídas:
+    A
+    B
+    C
+    D
+ 
+ Projeto do Circuito Codificador:
+  Construção da tabela verdade
+  Análise dos estados ativos
+  Obtenção das expressões booleanas
+  Implementação com portas OR
+
+ Simplificação do Codificador:
+  Uso da álgebra booleana
+  Uso do mapa de Karnaugh
+  Redução da quantidade de portas lógicas
+
+
+
