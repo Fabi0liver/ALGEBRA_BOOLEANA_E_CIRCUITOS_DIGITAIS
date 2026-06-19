@@ -1,0 +1,292 @@
+                                   Circuitos Subtratores (Subtractors)
+
+
+Introdução aos Circuitos Subtratores:
+
+ Conceito de Circuitos Subtratores:
+  O que são circuitos subtratores
+  Função dos circuitos subtratores na eletrônica digital
+  Relação entre circuitos subtratores e operações aritméticas digitais
+  Importância dos subtratores dentro da Unidade Lógica e Aritmética (ULA)
+  Diferença entre cálculo matemático tradicional e subtração em circuitos digitais
+
+ Operação de Subtração em Sistemas Digitais:
+  Representação da subtração em binário
+  Funcionamento da subtração binária
+  Regras básicas da subtração binária
+  Conceito de diferença em operações digitais
+  Conceito de empréstimo (Borrow) em subtrações
+
+ Estrutura Geral de um Circuito Subtrator:
+  Entradas do circuito subtrator
+  Saídas do circuito subtrator
+  Variável Minuendo (A)
+  Variável Subtraendo (B)
+  Saída Diferença (Difference)
+  Saída Empréstimo (Borrow Out)
+  Entrada Empréstimo (Borrow In)
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração Binária:
+  Conceitos de Números Binários:
+   Sistema binário
+   Bits e valores lógicos
+   Representação de números em binário
+   Conversão entre decimal e binário
+  Operações Binárias Básicas:
+   Soma binária
+   Subtração binária
+   Multiplicação binária
+   Divisão binária
+  Subtração Binária Manual:
+   Subtração bit a bit
+   Regras da subtração com 0 e 1
+   Empréstimo entre bits
+   Propagação de empréstimos
+
+ Álgebra Booleana:
+  Fundamentos da Álgebra Booleana:
+   Variáveis booleanas
+   Valores verdadeiro e falso
+   Representação 0 e 1
+   Operações booleanas básicas
+  Operadores Booleanos:
+   Operação AND
+   Operação OR
+   Operação NOT
+   Operação XOR
+  Expressões Booleanas:
+   Construção de expressões lógicas
+   Simplificação de expressões
+   Leis da álgebra booleana
+   Identidades booleanas
+
+ Portas Lógicas:
+  Portas Fundamentais:
+   Porta AND
+   Porta OR
+   Porta NOT
+  Porta XOR:
+   Funcionamento da porta XOR
+   Tabela verdade da XOR
+   Uso da XOR em operações aritméticas
+  Combinação de Portas Lógicas:
+   Construção de circuitos combinacionais
+   Conversão de expressão booleana em circuito
+   Análise de circuitos lógicos
+
+ Circuitos Combinacionais:
+  Conceito de Circuitos Combinacionais:
+   Características principais
+   Relação entre entradas e saídas
+   Diferença entre circuito combinacional e sequencial
+  Representação de Circuitos:
+   Tabela verdade
+   Expressões booleanas
+   Diagramas lógicos
+
+
+
+Meio Subtrator (Half Subtractor):
+
+ Introdução ao Meio Subtrator:
+  Conceito de meio subtrator
+  Estrutura básica
+  Funcionamento da subtração de um bit
+
+ Entradas e Saídas do Meio Subtrator:
+  Entrada Minuendo (A)
+  Entrada Subtraendo (B)
+  Saída Diferença (Diff)
+  Saída Empréstimo (Borrow Out)
+
+ Tabela Verdade do Meio Subtrator:
+  Combinações de entrada
+  Análise das saídas
+  Interpretação dos resultados
+
+ Projeto Lógico do Meio Subtrator:
+  Circuito da Diferença:
+   Expressão lógica da diferença
+   Uso da porta XOR
+   Implementação da saída Diff
+  Circuito do Empréstimo:
+   Expressão lógica do Borrow Out
+   Uso da porta NOT
+   Uso da porta AND
+   Implementação da saída Borrow
+ 
+ Diagrama do Meio Subtrator:
+  Representação em portas lógicas
+  Fluxo dos sinais
+  Análise do circuito
+
+ Limitações do Meio Subtrator:
+  Ausência de Borrow In
+  Limitação para múltiplos bits
+  Necessidade do Subtrator Completo
+
+
+
+Subtrator Completo (Full Subtractor):
+
+ Introdução ao Subtrator Completo:
+  Conceito de subtrator completo
+  Diferenças em relação ao meio subtrator
+  Necessidade da entrada de empréstimo
+
+ Estrutura do Subtrator Completo:
+  Entradas:
+   Minuendo (A)
+   Subtraendo (B)
+   Borrow In (Bin)
+  Saídas:
+   Diferença (Diff)
+   Borrow Out (Bout)
+
+ Funcionamento do Subtrator Completo:
+  Subtração considerando empréstimo anterior
+  Processamento de múltiplas colunas
+  Fluxo do Borrow entre etapas
+
+ Tabela Verdade do Subtrator Completo:
+  Combinações das três entradas
+  Análise das saídas
+  Identificação dos padrões lógicos
+
+ Desenvolvimento das Expressões Booleanas:
+  Expressão da Diferença:
+   Análise lógica da saída Diff
+   Aplicação da porta XOR
+   Simplificação da expressão
+  Expressão do Empréstimo:
+   Análise da saída Borrow Out
+   Construção da expressão booleana
+   Simplificação usando álgebra booleana
+
+ Mapa de Karnaugh no Subtrator Completo:
+  Organização do mapa
+  Agrupamento das variáveis
+  Redução da expressão lógica
+  Obtenção da expressão otimizada
+
+ Implementação do Circuito Subtrator Completo:
+  Montagem com portas XOR
+  Montagem com portas AND
+  Montagem com portas OR
+  Integração das partes do circuito
+
+
+
+Subtratores de Múltiplos Bits:
+
+ Conceito de Subtração em Vários Bits:
+  Operações com números maiores
+  Necessidade de vários blocos subtratores
+  Processamento bit a bit
+
+ Subtrator em Cascata:
+  Organização dos Estágios:
+   Primeiro bit
+   Bits intermediários
+   Último bit
+  Propagação do Borrow:
+   Ligação Borrow Out → Borrow In
+   Fluxo do empréstimo entre módulos
+   Ordem de processamento dos bits
+
+ Projeto de Subtratores N-bit:
+  Subtrator de 2 bits
+  Subtrator de 4 bits
+  Subtrator de 8 bits
+  Expansão para mais bits
+
+ Análise de Desempenho:
+  Atraso de propagação
+  Tempo de cálculo
+  Limitações da arquitetura em cascata
+
+
+
+Simulação e Análise de Circuitos Subtratores:
+
+ Montagem do Circuito:
+  Construção usando portas lógicas
+  Organização dos componentes
+  Conexão das entradas e saídas
+
+ Teste de Funcionamento:
+  Aplicação de valores binários
+  Verificação da saída Diferença
+  Verificação do Borrow
+
+ Análise do Fluxo de Dados:
+  Caminho dos bits no circuito
+  Funcionamento das portas lógicas
+  Alteração dos sinais durante a operação
+
+ Ferramentas de Simulação Digital:
+  Simuladores de circuitos lógicos
+  Criação de circuitos virtuais
+  Testes de funcionamento
+
+
+
+Aplicações dos Circuitos Subtratores:
+
+ Processadores e Computadores:
+  Unidade Lógica e Aritmética (ULA)
+  Operações matemáticas em CPU
+  Processamento de dados binários
+
+ Sistemas Digitais:
+  Calculadoras digitais
+  Sistemas embarcados
+  Controladores digitais
+
+ Circuitos Eletrônicos:
+  Equipamentos digitais
+  Dispositivos programáveis
+  Sistemas de automação
+
+ Processamento de Dados:
+  Comparadores digitais
+  Manipulação de valores binários
+  Operações matemáticas internas
+
+ Relação com Outros Circuitos Aritméticos:
+  Somadores
+  Multiplicadores digitais
+  Divisores digitais
+  Circuitos aritméticos combinados
+
+
+
+Conclusão e Revisão Geral:
+
+ Revisão dos Conceitos Principais:
+  Subtração binária
+  Borrow
+  Meio subtrator
+  Subtrator completo
+  Subtratores de múltiplos bits
+
+ Comparação dos Circuitos Subtratores:
+  Meio Subtrator x Subtrator Completo
+  Vantagens e limitações
+  Aplicações de cada modelo
+
+ Visão Geral do Funcionamento:
+  Entradas
+  Processamento lógico
+  Saídas
+  Encadeamento de circuitos
+
+ Preparação para Estudos Avançados:
+  Unidade Lógica e Aritmética
+  Processadores digitais
+  Arquitetura de computadores
+  Circuitos integrados aritméticos
