@@ -279,3 +279,32 @@ Decodificadores para Displays:
 
 
 
+Aplicações dos Codificadores e Decodificadores:
+
+ Aplicações dos Codificadores:
+  Teclados digitais
+  Conversores de sinais
+  Sistemas de comunicação
+  Sistemas de controle
+  Processadores e microcontroladores
+  Circuitos de interrupção
+
+ Aplicações dos Decodificadores:
+  Displays digitais
+  Calculadoras eletrônicas
+  Sistemas de seleção de memória
+  Controle de dispositivos
+  Automação industrial
+  Sistemas embarcados
+
+ Uso em Sistemas Computacionais:
+  Unidade de controle da CPU
+  Endereçamento de memória
+  Conversão de informações digitais
+  Comunicação entre componentes
+
+
+
+
+
+
