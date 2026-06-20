@@ -92,6 +92,37 @@ Operações Fundamentais de Deslocamento:
 
 
 
+Projeto de Circuitos Deslocadores Simples:
+
+ Deslocador de Uma Unidade:
+  Deslocamento de apenas uma posição
+  Entradas e saídas do circuito
+  Mapeamento dos bits
+  Tabela verdade do deslocador
+
+ Projeto de Deslocador de 4 Bits:
+  Definição das entradas:
+   a₃
+   a₂
+   a₁
+   a₀
+  Definição das saídas:
+   b₃
+   b₂
+   b₁
+   b₀
+  Relação entrada e saída
+  Construção da lógica de deslocamento
+
+ Implementação com Multiplexadores 2x1:
+  Estrutura interna usando MUX
+  Seleção entre entrada original e deslocada
+  Controle de operação
+  Conexões entre multiplexadores
+  Diagrama lógico do circuito
+
+
+
 
 
 
