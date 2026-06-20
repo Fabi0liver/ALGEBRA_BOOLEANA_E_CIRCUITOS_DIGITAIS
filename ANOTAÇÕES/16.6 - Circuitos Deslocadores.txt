@@ -162,6 +162,28 @@ Circuitos Deslocadores Bidirecionais:
 
 
 
+Deslocadores com Controle Avançado:
+
+ Deslocadores de Múltiplas Posições:
+  Deslocamento de vários bits simultaneamente
+  Controle da quantidade de deslocamento
+  Entradas de controle múltiplas
+
+ Barrel Shifter:
+  Conceito de deslocador barril
+  Deslocamento em um único ciclo
+  Estrutura em camadas
+  Associação de deslocadores simples
+  Controle por múltiplos bits
+
+ Construção de Barrel Shifter:
+  Estágios de deslocamento
+  Deslocamento por potências de 2
+  Combinação de etapas
+  Arquitetura interna
+
+
+
 
 
 
