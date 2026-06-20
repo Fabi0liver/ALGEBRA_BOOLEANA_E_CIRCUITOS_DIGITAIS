@@ -63,3 +63,37 @@ Fundamentos Necessários:
   Entradas e saídas dependentes dos valores atuais
   Tabelas verdade
   Projeto de circuitos combinacionais
+
+
+
+Operações Fundamentais de Deslocamento:
+
+ Deslocamento à Direita (Right Shift):
+  Conceito de deslocamento à direita
+  Movimentação dos bits para posições menores
+  Entrada de zero no MSB
+  Perda do bit LSB
+  Representação gráfica do deslocamento
+  Exemplos com palavras de 4 bits
+
+ Deslocamento à Esquerda (Left Shift):
+  Conceito de deslocamento à esquerda
+  Movimentação dos bits para posições maiores
+  Entrada de zero no LSB
+  Perda do bit MSB
+  Representação gráfica do deslocamento
+  Exemplos com palavras de 4 bits
+
+ Comparação entre Deslocamentos:
+  Diferenças entre esquerda e direita
+  Alteração das posições dos bits
+  Entrada e descarte de bits
+  Relação com operações matemáticas
+
+
+
+
+
+
+
+
