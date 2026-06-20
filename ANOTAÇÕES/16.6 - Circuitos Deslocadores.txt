@@ -1,0 +1,65 @@
+                                      Circuitos Deslocadores (Shifters)
+
+
+Introdução aos Circuitos Deslocadores (Shifters):
+
+ Conceito Geral de Circuitos Deslocadores:
+  Definição de circuitos deslocadores em sistemas digitais
+  Função dos deslocadores no processamento de dados binários
+  Circuitos deslocadores como circuitos combinacionais
+  Relação entre deslocadores e manipulação de bits
+  Diferença entre deslocamento lógico e outras operações de movimentação de dados
+
+ Importância dos Circuitos Deslocadores:
+  Papel dos deslocadores dentro da arquitetura de computadores
+  Uso em processadores e unidades de processamento
+  Relação com operações aritméticas binárias
+  Manipulação eficiente de palavras digitais
+
+ Estrutura Básica de um Deslocador:
+  Entrada de dados binários
+  Saída deslocada
+  Palavra binária e quantidade de bits
+  Sinal de controle de deslocamento
+  Estado sem deslocamento
+  Estado com deslocamento
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração Binária:
+  Representação de números em base 2
+  Bits e posições dentro de uma palavra binária
+  Bit mais significativo (MSB)
+  Bit menos significativo (LSB)
+  Organização de números binários em registradores
+
+ Álgebra Booleana:
+  Variáveis booleanas
+  Operações lógicas básicas
+  Operação AND (E)
+  Operação OR (OU)
+  Operação NOT (NÃO)
+  Expressões booleanas
+  Simplificação de expressões lógicas
+
+ Portas Lógicas Aplicadas aos Deslocadores:
+  Porta AND em circuitos de controle
+  Porta OR em seleção de caminhos
+  Inversores para sinais de controle
+  Combinação de portas lógicas
+
+ Multiplexadores (MUX):
+  Conceito de multiplexador
+  Entradas e saída selecionada
+  Linha de seleção
+  Multiplexador 2 para 1
+  Multiplexador 4 para 1
+  Uso de MUX na construção de deslocadores
+
+ Circuitos Combinacionais:
+  Definição de circuitos combinacionais
+  Entradas e saídas dependentes dos valores atuais
+  Tabelas verdade
+  Projeto de circuitos combinacionais
