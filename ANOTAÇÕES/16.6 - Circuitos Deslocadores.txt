@@ -184,6 +184,26 @@ Deslocadores com Controle Avançado:
 
 
 
+Deslocadores Alternativos com Portas Lógicas:
+
+ Deslocador de 1 Bit com Portas AND e OR:
+  Estrutura alternativa sem MUX
+  Organização das entradas e saídas
+  Caminhos de dados
+
+ Controle por Linha Única:
+  Sinal de controle C
+  Controle para esquerda
+  Controle para direita
+  Uso do sinal invertido
+
+ Barramentos e Seleção de Dados:
+  Ativação de caminhos
+  Combinação AND/OR
+  Controle de fluxo dos bits
+
+
+
 
 
 
