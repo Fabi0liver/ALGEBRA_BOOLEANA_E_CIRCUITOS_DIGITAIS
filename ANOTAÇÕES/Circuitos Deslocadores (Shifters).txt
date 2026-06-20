@@ -1,0 +1,25 @@
+                                      Circuitos Deslocadores (Shifters)
+
+
+Introdução aos Circuitos Deslocadores (Shifters):
+
+ Conceito Geral de Circuitos Deslocadores:
+  Definição de circuitos deslocadores em sistemas digitais
+  Função dos deslocadores no processamento de dados binários
+  Circuitos deslocadores como circuitos combinacionais
+  Relação entre deslocadores e manipulação de bits
+  Diferença entre deslocamento lógico e outras operações de movimentação de dados
+
+ Importância dos Circuitos Deslocadores:
+  Papel dos deslocadores dentro da arquitetura de computadores
+  Uso em processadores e unidades de processamento
+  Relação com operações aritméticas binárias
+  Manipulação eficiente de palavras digitais
+
+ Estrutura Básica de um Deslocador:
+  Entrada de dados binários
+  Saída deslocada
+  Palavra binária e quantidade de bits
+  Sinal de controle de deslocamento
+  Estado sem deslocamento
+  Estado com deslocamento
