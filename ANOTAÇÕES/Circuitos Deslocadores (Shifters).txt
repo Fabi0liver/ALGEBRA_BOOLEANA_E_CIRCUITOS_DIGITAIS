@@ -23,3 +23,43 @@ Introdução aos Circuitos Deslocadores (Shifters):
   Sinal de controle de deslocamento
   Estado sem deslocamento
   Estado com deslocamento
+
+
+
+Fundamentos Necessários:
+
+ Sistemas de Numeração Binária:
+  Representação de números em base 2
+  Bits e posições dentro de uma palavra binária
+  Bit mais significativo (MSB)
+  Bit menos significativo (LSB)
+  Organização de números binários em registradores
+
+ Álgebra Booleana:
+  Variáveis booleanas
+  Operações lógicas básicas
+  Operação AND (E)
+  Operação OR (OU)
+  Operação NOT (NÃO)
+  Expressões booleanas
+  Simplificação de expressões lógicas
+
+ Portas Lógicas Aplicadas aos Deslocadores:
+  Porta AND em circuitos de controle
+  Porta OR em seleção de caminhos
+  Inversores para sinais de controle
+  Combinação de portas lógicas
+
+ Multiplexadores (MUX):
+  Conceito de multiplexador
+  Entradas e saída selecionada
+  Linha de seleção
+  Multiplexador 2 para 1
+  Multiplexador 4 para 1
+  Uso de MUX na construção de deslocadores
+
+ Circuitos Combinacionais:
+  Definição de circuitos combinacionais
+  Entradas e saídas dependentes dos valores atuais
+  Tabelas verdade
+  Projeto de circuitos combinacionais
