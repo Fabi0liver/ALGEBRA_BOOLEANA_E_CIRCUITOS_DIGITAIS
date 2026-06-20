@@ -234,27 +234,35 @@ Aplicações dos Circuitos Deslocadores:
 
 Conclusão e Resumo:
 
- Revisão e Consolidação
-  Revisão dos Conceitos Principais:
-   Conceito de shifter
-   Tipos de deslocamento
-   Controle de operação
-   Estrutura interna
-  Comparação dos Principais Tipos:
-   Deslocador simples
-   Deslocador bidirecional
-   Barrel shifter
-   Deslocadores com portas lógicas
-  Relação com Outros Circuitos Digitais:
-   Registradores
-   Somadores
-   Multiplexadores
-   Unidades de processamento
+ Revisão dos Conceitos Principais:
+  Conceito de shifter
+  Tipos de deslocamento
+  Controle de operação
+  Estrutura interna
+  
+ Comparação dos Principais Tipos:
+  Deslocador simples
+  Deslocador bidirecional
+  Barrel shifter
+  Deslocadores com portas lógicas
+  
+ Relação com Outros Circuitos Digitais:
+  Registradores
+  Somadores
+  Multiplexadores
+  Unidades de processamento
 
+ Resumo Final dos Circuitos Deslocadores:
+  Conceito e função dos shifters
+  Funcionamento dos deslocamentos esquerda e direita
+  Construção usando lógica combinacional
+  Uso de multiplexadores no projeto
+  Deslocadores bidirecionais
+  Barrel shifters e deslocamentos avançados
+  Aplicações em computadores e sistemas digitais
 
-
-
-
-
-
-
+ Objetivo Final do Estudo:
+  Compreender como bits são movimentados em sistemas digitais
+  Projetar circuitos deslocadores básicos
+  Entender sua importância na arquitetura de computadores
+  Relacionar deslocadores com processamento eficiente de dados binários
