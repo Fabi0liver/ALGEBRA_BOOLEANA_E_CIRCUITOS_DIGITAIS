@@ -204,6 +204,34 @@ Deslocadores Alternativos com Portas Lógicas:
 
 
 
+Aplicações dos Circuitos Deslocadores:
+
+ Operações Matemáticas Binárias:
+  Multiplicação por potência de 2
+  Divisão por potência de 2
+  Deslocamento como operação aritmética
+  Relação entre bits e valores numéricos
+
+ Processadores e Arquitetura de Computadores:
+  Uso dentro da CPU
+  Unidade lógica e aritmética (ULA/ALU)
+  Manipulação de registradores
+  Processamento de instruções
+
+ Conversão de Dados:
+  Conversão serial para paralelo
+  Conversão paralelo para serial
+  Comunicação digital
+  Organização de fluxo de dados
+
+ Sistemas Digitais:
+  Controle digital
+  Automação
+  Equipamentos eletrônicos
+  Processamento de sinais digitais
+
+
+
 
 
 
