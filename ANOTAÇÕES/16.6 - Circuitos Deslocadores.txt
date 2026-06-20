@@ -141,6 +141,27 @@ Deslocadores Direcionais:
 
 
 
+Circuitos Deslocadores Bidirecionais:
+
+ Conceito de Deslocador Bidirecional:
+  Deslocamento para esquerda e direita no mesmo circuito
+  Controle de direção
+  Seleção da operação desejada
+
+ Sinais de Controle:
+  Controle de deslocamento à direita (shr)
+  Controle de deslocamento à esquerda (shl)
+  Combinação dos sinais
+  Estados possíveis do circuito
+
+ Implementação com Multiplexadores 4x1:
+  Seleção entre múltiplas operações
+  Organização dos caminhos de dados
+  Conexões internas
+  Diagrama do deslocador bidirecional
+
+
+
 
 
 
