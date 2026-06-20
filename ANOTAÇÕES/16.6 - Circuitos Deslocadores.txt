@@ -123,6 +123,24 @@ Projeto de Circuitos Deslocadores Simples:
 
 
 
+Deslocadores Direcionais:
+
+ Deslocador para Direita:
+  Projeto do circuito de deslocamento à direita
+  Organização das entradas e saídas
+  Conexão dos bits subsequentes
+  Uso de MUX 2x1
+  Diagrama esquemático
+
+ Deslocador para Esquerda:
+  Projeto do circuito de deslocamento à esquerda
+  Organização das entradas e saídas
+  Conexão dos bits subsequentes
+  Uso de MUX 2x1
+  Diagrama esquemático
+
+
+
 
 
 
