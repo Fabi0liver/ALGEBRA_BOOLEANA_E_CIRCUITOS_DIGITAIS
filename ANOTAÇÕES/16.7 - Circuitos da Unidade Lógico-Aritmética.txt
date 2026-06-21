@@ -80,4 +80,34 @@ Circuitos Combinacionais Fundamentais:
 
 
 
+Estrutura Geral da ULA:
+
+ Organização Interna da ULA:
+  Entradas de dados:
+   Operando A
+   Operando B
+  Saída de resultado
+  Entrada de controle da operação
+  Entrada de transporte (Carry-in)
+  Saída de transporte (Carry-out)
+  Barramentos de dados
+  Barramentos de controle
+
+ Blocos Funcionais da ULA:
+  Unidade lógica
+  Unidade aritmética
+  Unidade de seleção
+  Unidade de geração de flags
+  Unidade de comparação
+  Unidade de deslocamento
+
+ Controle das Operações:
+  Sinais de seleção
+  Código da operação (Opcode)
+  Linhas de controle
+  Decodificação das operações
+  Tabela de controle da ULA
+
+
+
 
