@@ -363,7 +363,3 @@ Conclusão e Revisão Geral:
   Geração do resultado
   Atualização das flags
   Envio do resultado para os registradores
-
-
-
-
