@@ -137,4 +137,28 @@ Projeto da ULA de 1 Bit:
 
 
 
+Construção da ULA de n Bits:
+
+ Expansão da ULA:
+  ULA de 4 bits
+  ULA de 8 bits
+  ULA de 16 bits
+  ULA de 32 bits
+  ULA de 64 bits
+
+ Ligação em Cascata:
+  Associação de ULAs de 1 bit
+  Encadeamento do Carry
+  Ripple Carry Adder
+  Problema do atraso de propagação
+
+ Técnicas de Otimização:
+  Carry Lookahead
+  Carry Select Adder
+  Carry Save Adder
+  Prefix Adders
+  Redução de latência
+
+
+
 
