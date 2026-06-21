@@ -200,4 +200,35 @@ Operações Aritméticas na ULA:
 
 
 
+Circuitos Lógicos da ULA:
+
+ Operações Bitwise:
+  Operações bit a bit
+  AND bitwise
+  OR bitwise
+  XOR bitwise
+  NOT bitwise
+  Operações Derivadas:
+   NAND
+   NOR
+   XNOR
+   Passagem direta (Pass Through)
+   Zeragem de saída
+   Máscaras de bits
+
+ Circuitos de Comparação:
+  Comparadores Digitais:
+   Comparação de igualdade
+   Maior que
+   Menor que
+   Maior ou igual
+   Menor ou igual
+  Comparação usando Subtração:
+   Operação A - B
+   Análise do bit de sinal
+   Detecção de resultado negativo
+   Flags de comparação
+
+
+
 
