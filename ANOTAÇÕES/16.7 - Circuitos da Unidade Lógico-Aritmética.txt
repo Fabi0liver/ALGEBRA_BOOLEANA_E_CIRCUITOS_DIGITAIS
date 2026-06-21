@@ -293,4 +293,31 @@ Flags e Sinais de Estado da ULA:
 
 
 
+Operações Avançadas da ULA:
+
+ Multiplicação e Divisão:
+  Multiplicação Binária:
+   Multiplicação por deslocamento
+   Algoritmo Shift and Add
+   Unidade multiplicadora
+   Registradores auxiliares
+  Multiplicação com Sinal:
+   Complemento de dois
+   Algoritmo de Booth
+   Multiplicação rápida
+  Divisão Binária:
+   Divisão por restauração
+   Divisão sem restauração
+   Algoritmos iterativos
+
+ ULAs Especializadas:
+  ULA para números inteiros
+  ULA de ponto flutuante (FPU)
+  Unidade SIMD
+  Processamento paralelo
+  Unidades vetoriais
+  Coprocessadores matemáticos
+
+
+
 
