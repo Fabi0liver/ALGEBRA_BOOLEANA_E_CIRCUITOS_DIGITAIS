@@ -110,4 +110,31 @@ Estrutura Geral da ULA:
 
 
 
+Projeto da ULA de 1 Bit:
+
+ Unidade Lógica de 1 Bit:
+  Implementação com portas lógicas
+  Operação AND
+  Operação OR
+  Operação XOR
+  Operação NOT
+  Seleção entre operações lógicas
+
+ Unidade Aritmética de 1 Bit:
+  Somador completo integrado
+  Entrada Carry-in
+  Saída Carry-out
+  Soma binária
+  Subtração binária
+  Incremento
+  Decremento
+
+ Seleção do Resultado:
+  Multiplexador de saída
+  Seleção entre bloco lógico e aritmético
+  Controle das operações
+  Expansão de operações através do MUX
+
+
+
 
