@@ -21,3 +21,34 @@ Visão Geral da ULA:
  Evolução histórica das ULAs
 
  Importância dos circuitos combinacionais na construção da ULA
+
+
+
+Fundamentos Necessários para Estudo da ULA:
+
+ Sistemas de Numeração:
+  Sistema binário
+  Conversão entre bases numéricas
+  Representação de números inteiros
+  Representação de números negativos
+  Representação em ponto fixo
+  Representação em ponto flutuante
+
+ Álgebra Booleana:
+  Variáveis booleanas
+  Operações AND, OR e NOT
+  Leis da álgebra booleana
+  Leis de De Morgan
+  Simplificação de expressões lógicas
+  Forma soma de produtos (SOP)
+  Forma produto de somas (POS)
+
+ Portas Lógicas:
+  Porta AND
+  Porta OR
+  Porta NOT
+  Porta NAND
+  Porta NOR
+  Porta XOR
+  Porta XNOR
+  Implementação de funções lógicas
