@@ -320,4 +320,28 @@ Operações Avançadas da ULA:
 
 
 
+Aplicações da Unidade Lógico-Aritmética:
+
+ Aplicações em Processadores:
+  Execução de instruções matemáticas
+  Operações lógicas
+  Controle de fluxo
+  Manipulação de dados
+
+ Aplicações em Hardware Digital:
+  Microcontroladores
+  Sistemas embarcados
+  FPGA
+  ASIC
+  Processadores gráficos (GPU)
+
+ Aplicações em Sistemas Computacionais:
+  CPUs modernas
+  Arquitetura RISC
+  Arquitetura CISC
+  Processadores móveis
+  Computação paralela
+
+
+
 
