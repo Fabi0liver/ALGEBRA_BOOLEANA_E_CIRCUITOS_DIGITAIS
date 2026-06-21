@@ -251,4 +251,23 @@ Circuitos de Deslocamento e Manipulação de Bits:
 
 
 
+Comparações e Controle de Fluxo:
+
+ Implementação de Instruções de Comparação:
+  SLT (Set Less Than)
+  Comparação assinada
+  Comparação não assinada
+  Uso do bit de sinal
+  Geração do resultado booleano
+ 
+ Circuitos de Desvio Condicional:
+  Detecção de zero
+  Flag Zero
+  Circuito NOR para igualdade
+  Operação BEQ
+  Operação BNE
+  Comparação e salto
+
+
+
 
