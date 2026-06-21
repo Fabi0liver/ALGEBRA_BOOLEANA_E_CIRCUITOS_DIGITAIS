@@ -270,4 +270,27 @@ Comparações e Controle de Fluxo:
 
 
 
+Flags e Sinais de Estado da ULA:
+
+ Unidade de Flags:
+  Flags Principais:
+   Flag Zero (Z)
+   Flag Carry (C)
+   Flag Overflow (V)
+   Flag Negativo/Sinal (N)
+  Geração das Flags:
+   Circuitos detectores de zero
+   Detecção de overflow
+   Análise do bit mais significativo
+   Controle de estados
+
+ Tratamento de Erros Aritméticos:
+  Overflow em números positivos
+  Overflow em números negativos
+  Carry perdido
+  Saturação aritmética
+  Operações inválidas
+
+
+
 
