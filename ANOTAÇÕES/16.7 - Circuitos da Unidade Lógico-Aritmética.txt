@@ -344,4 +344,26 @@ Aplicações da Unidade Lógico-Aritmética:
 
 
 
+Conclusão e Revisão Geral:
+
+ Revisão dos Conceitos Principais:
+  Estrutura da ULA
+  Blocos internos
+  Circuitos aritméticos
+  Circuitos lógicos
+  Controle das operações
+  Expansão para múltiplos bits
+  Flags e sinais de estado
+  Otimização de desempenho
+
+ Visão Completa do Funcionamento da ULA
+  Entrada dos dados
+  Seleção da operação
+  Processamento lógico ou aritmético
+  Geração do resultado
+  Atualização das flags
+  Envio do resultado para os registradores
+
+
+
 
