@@ -160,5 +160,44 @@ Construção da ULA de n Bits:
   Redução de latência
 
 
+Operações Aritméticas na ULA:
+
+ Circuitos de Soma:
+  Soma Binária:
+   Soma de bits
+   Regras da soma binária
+   Transporte entre bits
+  Somadores Digitais:
+   Half Adder
+   Full Adder
+   Somador paralelo
+   Somador serial
+   Somador rápido
+
+ Circuitos de Subtração:
+  Fundamentos da Subtração Binária:
+   Minuendo
+   Subtraendo
+   Empréstimo (Borrow)
+  Implementação por Complemento:
+   Complemento de 1
+   Complemento de 2
+   Transformação de subtração em soma
+  Circuito Subtrator na ULA:
+   Inversão da entrada B
+   Controle Binvert
+   Uso do Carry-in inicial
+   Subtração usando somador
+
+ Operações Aritméticas Adicionais:
+  Incrementador
+  Decrementador
+  Negação aritmética
+  Valor absoluto
+  Extensão de sinal
+  Redução de tamanho de palavra
+  Operações com números positivos e negativos
+
+
 
 
