@@ -231,4 +231,24 @@ Circuitos Lógicos da ULA:
 
 
 
+Circuitos de Deslocamento e Manipulação de Bits:
+
+ Unidade de Deslocamento (Shifter):
+  Conceito de deslocador
+  Deslocamento lógico à esquerda
+  Deslocamento lógico à direita
+  Deslocamento aritmético
+  Rotação de bits
+  Barrel Shifter
+  Circuitos de deslocamento com multiplexadores
+
+ Operações com Bits Especiais:
+  Teste de bits
+  Alteração de bits
+  Limpeza de bits
+  Máscaras lógicas
+  Extração de campos binários
+
+
+
 
