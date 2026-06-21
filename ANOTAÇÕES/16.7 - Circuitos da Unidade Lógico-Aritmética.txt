@@ -52,3 +52,32 @@ Fundamentos Necessários para Estudo da ULA:
   Porta XOR
   Porta XNOR
   Implementação de funções lógicas
+
+
+
+Circuitos Combinacionais Fundamentais:
+
+ Conceito de Circuitos Combinacionais:
+  Diferença entre circuitos combinacionais e sequenciais
+  Entradas e saídas combinacionais
+  Tabela verdade
+  Expressões lógicas
+  Projeto de circuitos combinacionais
+
+ Circuitos Básicos Utilizados na ULA:
+  Meio somador (Half Adder)
+  Somador completo (Full Adder)
+  Somador paralelo
+  Somador com propagação de transporte
+  Somador com antecipação de transporte (Carry Lookahead Adder)
+  Subtrator meio
+  Subtrator completo
+  Comparadores digitais
+  Codificadores
+  Decodificadores
+  Multiplexadores (MUX)
+  Demultiplexadores (DEMUX)
+
+
+
+
