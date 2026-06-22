@@ -203,4 +203,28 @@ Registradores:
 
 
 
+Contadores Digitais:
+
+ Fundamentos dos Contadores:
+  Conceito de Contador
+  Sequência Binária
+  Estados de Contagem
+
+ Tipos de Contadores:
+  Contador Assíncrono (Ripple Counter)
+  Contador Síncrono
+
+ Direção da Contagem:
+  Contador Crescente
+  Contador Decrescente
+  Contador Bidirecional
+
+ Contadores Especiais:
+  Contador Módulo N
+  Contador Johnson
+  Contador em Anel
+  Contador de Década (BCD)
+
+
+
 
