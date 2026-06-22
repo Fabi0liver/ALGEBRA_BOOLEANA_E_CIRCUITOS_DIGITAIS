@@ -338,6 +338,36 @@ Circuitos Sequenciais Programáveis:
 
 
 
+Projeto Completo de Circuitos Sequenciais:
+ 
+ Definição do Problema
+
+ Entradas e Saídas
+
+ Definição dos Estados
+
+ Tabela de Estados
+
+ Diagrama de Estados
+
+ Codificação de Estados
+
+ Escolha de Flip-Flops
+
+ Equações de Transição
+
+ Simplificação Lógica
+
+ Implementação
+
+ Simulação
+
+ Testes
+
+ Documentação
+
+
+
 Conclusão e Resumo:
 
  Revisão Geral dos Circuitos Sequenciais:
