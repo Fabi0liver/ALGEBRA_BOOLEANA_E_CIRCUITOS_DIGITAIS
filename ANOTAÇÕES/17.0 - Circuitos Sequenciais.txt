@@ -227,4 +227,26 @@ Contadores Digitais:
 
 
 
+Máquinas de Estado:
+
+ Fundamentos de Máquinas de Estado:
+  Conceito de FSM
+  Estados
+  Transições
+  Entradas
+  Saídas
+
+ Tipos de Máquinas de Estado:
+  Máquina de Moore
+  Máquina de Mealy
+
+ Projeto de Máquinas de Estado:
+  Especificação do Sistema
+  Diagrama de Estados
+  Tabela de Transição
+  Codificação dos Estados
+  Implementação
+
+
+
 
