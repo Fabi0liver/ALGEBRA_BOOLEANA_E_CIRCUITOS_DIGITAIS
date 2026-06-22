@@ -326,4 +326,47 @@ Circuitos Sequenciais em Processadores:
 
 
 
+Circuitos Sequenciais Programáveis:
+
+ Lógica Programável
+
+ CPLD
+
+ FPGA
+
+ Elementos Sequenciais em FPGA
+
+
+
+Conclusão e Resumo:
+
+ Revisão Geral dos Circuitos Sequenciais:
+  Conceitos Fundamentais
+  Estrutura Geral
+  Entender lógica digital
+  Dominar circuitos combinacionais
+  Compreender estados e memória
+  Aprender latches
+  Aprender flip-flops
+  Projetar registradores
+  Projetar contadores
+  Criar máquinas de estado
+  Implementar sistemas sequenciais completos
+
+ Conclusão do Estudo de Circuitos Sequenciais:
+  Importância dos circuitos sequenciais na computação digital
+  Relação entre memória e processamento
+  Evolução dos circuitos simples para sistemas complexos
+  Integração entre lógica combinacional e sequencial
+  Papel dos circuitos sequenciais em processadores e sistemas digitais
+  Base para estudos avançados em:
+   Arquitetura de Computadores
+   Organização de Computadores
+   Sistemas Digitais
+   Eletrônica Digital
+   Sistemas Embarcados
+   FPGA e Hardware Programável
+
+
+
 
