@@ -263,4 +263,38 @@ Circuitos Temporizadores e Controle de Tempo:
 
 
 
+Circuitos de Controle Sequencial:
+
+ Unidade de Controle
+
+ Controladores Digitais
+
+ Sistemas de Controle Automático
+
+ Controle por Estados
+
+
+
+Detectores Sequenciais:
+
+ Detectores de Sequência de Bits
+
+ Reconhecedores de Padrões
+
+ Detectores de Eventos
+
+ Detectores de Bordas
+
+
+
+Conversores Sequenciais:
+
+ Conversor Série-Paralelo
+
+ Conversor Paralelo-Série
+
+ Conversores de Dados Digitais
+
+
+
 
