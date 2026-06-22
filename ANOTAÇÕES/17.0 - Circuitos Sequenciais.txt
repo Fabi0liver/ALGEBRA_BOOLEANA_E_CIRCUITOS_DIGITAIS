@@ -297,4 +297,33 @@ Conversores Sequenciais:
 
 
 
+Memórias Digitais:
+
+ Memórias Sequenciais:
+  Conceito de Memória Digital
+  Organização de Memória
+  Endereçamento
+
+ Tipos de Memória:
+  RAM
+  ROM
+  EEPROM
+  Flash Memory
+
+
+
+Circuitos Sequenciais em Processadores:
+
+ Registradores de Processador
+
+ Unidade de Controle
+
+ Pipeline
+
+ Registradores de Pipeline
+
+ Estágios de Pipeline
+
+
+
 
