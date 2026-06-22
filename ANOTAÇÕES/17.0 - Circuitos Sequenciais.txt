@@ -249,4 +249,18 @@ Máquinas de Estado:
 
 
 
+Circuitos Temporizadores e Controle de Tempo:
+
+ Osciladores
+
+ Geradores de Clock
+
+ Divisores de Frequência
+
+ Temporizadores Digitais
+
+ Circuitos de Sincronização
+
+
+
 
