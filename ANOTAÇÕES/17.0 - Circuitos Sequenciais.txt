@@ -117,13 +117,15 @@ Temporização e Clock:
 
 
 
-Elementos Básicos de Memória:
- 
- Circuitos Biestáveis:
-  Conceito de Biestabilidade
-  Estados Estáveis
-  Saída Q
-  Saída Complementar Q̅
+Circuitos Biestáveis:
+
+ Conceito de Biestabilidade
+
+ Estados Estáveis
+
+ Saída Q
+
+ Saída Complementar Q̅
 
 
 
@@ -148,35 +150,36 @@ Latches:
 
 Flip-Flops:
 
- Conceitos de Flip-Flops
-Diferença entre Latch e Flip-Flop
-Controle por Clock
-Disparo por Borda
-Entradas Síncronas
-Entradas Assíncronas
-Tipos de Flip-Flops
-Flip-Flop SR
-Estrutura
-Funcionamento
-Tabela Característica
-Aplicações
-Flip-Flop JK
-Funcionamento
-Eliminação do Estado Proibido
-Alternância (Toggle)
-Tabela Característica
-Flip-Flop D
-Entrada de Dados
-Transferência de Dados
-Aplicações
-Flip-Flop T
-Alternância de Estado
-Divisão de Frequência
-Contadores
-Outros Tipos
-Flip-Flop Mestre-Escravo
-Flip-Flop com Reset
-Flip-Flop com Preset
+ Conceitos de Flip-Flops:
+  Diferença entre Latch e Flip-Flop
+  Controle por Clock
+  Disparo por Borda
+  Entradas Síncronas
+  Entradas Assíncronas
+
+ Tipos de Flip-Flops:
+  Flip-Flop SR:
+   Estrutura
+   Funcionamento
+   Tabela Característica
+   Aplicações
+  Flip-Flop JK:
+   Funcionamento
+   Eliminação do Estado Proibido
+   Alternância (Toggle)
+   Tabela Característica
+  Flip-Flop D:
+   Entrada de Dados
+   Transferência de Dados
+   Aplicações
+  Flip-Flop T:
+   Alternância de Estado
+   Divisão de Frequência
+   Contadores
+  Outros Tipos:
+   Flip-Flop Mestre-Escravo
+   Flip-Flop com Reset
+   Flip-Flop com Preset
 
 
 
