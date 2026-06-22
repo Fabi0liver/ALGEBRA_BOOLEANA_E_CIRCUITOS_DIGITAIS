@@ -117,5 +117,32 @@ Temporização e Clock:
 
 
 
+Elementos Básicos de Memória:
+ 
+ Circuitos Biestáveis:
+  Conceito de Biestabilidade
+  Estados Estáveis
+  Saída Q
+  Saída Complementar Q̅
+
+
+
+Latches:
+
+ Latch SR:
+  Latch SR com NOR
+  Latch SR com NAND
+  Tabela de Funcionamento
+  Estado Proibido
+  Entradas Set e Reset
+
+ Latch D:
+  Funcionamento
+  Entrada de Dados
+  Habilitação (Enable)
+  Aplicações
+
+
+
 
 
