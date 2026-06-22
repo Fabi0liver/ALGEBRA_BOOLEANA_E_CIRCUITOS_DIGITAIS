@@ -2,11 +2,17 @@
 
 
 Introdução aos Circuitos Sequenciais:
+ 
  Conceito de Circuitos Sequenciais
+ 
  Importância dos Circuitos Sequenciais
+ 
  Características dos Circuitos Sequenciais
+ 
  Aplicações dos Circuitos Sequenciais
+ 
  Sistemas com Memória e Sistemas sem Memória
+ 
  Relação entre Tempo, Memória e Estado
 
 
