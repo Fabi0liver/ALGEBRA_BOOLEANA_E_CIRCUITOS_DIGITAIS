@@ -116,16 +116,13 @@ Temporização e Clock:
   Atrasos de Circuito
 
 
+Circuitos de Memória Básicos:
 
-Circuitos Biestáveis:
-
- Conceito de Biestabilidade
-
- Estados Estáveis
-
- Saída Q
-
- Saída Complementar Q̅
+ Circuitos Biestáveis:
+  Conceito de Biestabilidade
+  Estados Estáveis
+  Saída Q
+  Saída Complementar Q̅
 
 
 
