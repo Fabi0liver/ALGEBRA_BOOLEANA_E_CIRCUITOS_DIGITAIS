@@ -64,5 +64,32 @@ Fundamentos Necessários Antes dos Circuitos Sequenciais:
 
 
 
+Conceitos Fundamentais de Circuitos Sequenciais:
+
+ Conceito de Estado:
+  Estado Atual
+  Estado Futuro
+  Transição de Estados
+  Armazenamento de Informação
+  Variáveis de Estado
+  Codificação de Estados
+
+ Estrutura dos Circuitos Sequenciais:
+  Entradas
+  Saídas
+  Elementos de Memória
+  Lógica Combinacional
+  Realimentação (Feedback)
+
+
+
+Tipos de Circuitos Sequenciais:
+
+ Circuitos Sequenciais Síncronos
+
+ Circuitos Sequenciais Assíncronos
+
+
+
 
 
