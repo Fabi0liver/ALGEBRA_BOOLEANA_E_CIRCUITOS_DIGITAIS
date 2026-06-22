@@ -183,4 +183,24 @@ Flip-Flops:
 
 
 
+Registradores:
+
+ Conceito de Registradores:
+  Armazenamento de Dados
+  Conjunto de Flip-Flops
+  Registradores de N Bits
+
+ Tipos de Registradores:
+  Registrador Paralelo
+  Registrador Serial
+  Registrador de Deslocamento (Shift Register)
+
+ Configurações de Transferência:
+  SISO (Serial-In Serial-Out)
+  SIPO (Serial-In Parallel-Out)
+  PISO (Parallel-In Serial-Out)
+  PIPO (Parallel-In Parallel-Out)
+
+
+
 
