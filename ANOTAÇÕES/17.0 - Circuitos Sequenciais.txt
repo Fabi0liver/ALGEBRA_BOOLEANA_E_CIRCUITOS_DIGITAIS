@@ -91,5 +91,31 @@ Tipos de Circuitos Sequenciais:
 
 
 
+Temporização e Clock:
+
+ Sinal de Clock:
+  Conceito de Clock
+  Pulso de Clock
+  Onda Quadrada
+  Frequência
+  Período
+  Ciclo de Clock
+
+ Sincronismo:
+  Sistemas Síncronos
+  Sistemas Assíncronos
+  Borda de Subida
+  Borda de Descida
+  Disparo por Nível
+  Disparo por Borda
+
+ Temporização em Circuitos Digitais:
+  Tempo de Propagação
+  Tempo de Setup
+  Tempo de Hold
+  Atrasos de Circuito
+
+
+
 
 
