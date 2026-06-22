@@ -1,0 +1,62 @@
+                                      Circuitos Sequenciais
+
+
+Introdução aos Circuitos Sequenciais:
+ Conceito de Circuitos Sequenciais
+ Importância dos Circuitos Sequenciais
+ Características dos Circuitos Sequenciais
+ Aplicações dos Circuitos Sequenciais
+ Sistemas com Memória e Sistemas sem Memória
+ Relação entre Tempo, Memória e Estado
+
+
+
+Diferença entre Circuitos Combinacionais e Sequenciais
+
+
+
+Fundamentos Necessários Antes dos Circuitos Sequenciais:
+
+ Lógica Digital Básica:
+  Sistemas Digitais
+  Bits e Estados Lógicos
+  Níveis Lógicos 0 e 1
+  Portas Lógicas:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+
+ Álgebra Booleana:
+  Variáveis Booleanas
+  Operações Booleanas
+  Leis da Álgebra Booleana
+  Simplificação de Expressões Lógicas
+  Teoremas Booleanos
+
+ Representação de Circuitos Digitais:
+  Tabela da Verdade
+  Expressões Booleanas
+  Diagramas Lógicos
+  Mapas de Karnaugh
+
+ Circuitos Combinacionais Importantes:
+  Somadores:
+   Meio Somador
+   Somador Completo
+  Subtratores:
+   Meio Subtrator
+   Subtrator Completo
+  Comparadores
+  Multiplexadores
+  Demultiplexadores
+  Codificadores
+  Decodificadores
+
+
+
+
+
