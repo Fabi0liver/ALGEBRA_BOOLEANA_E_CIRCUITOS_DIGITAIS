@@ -367,33 +367,20 @@ Projeto Completo de Circuitos Sequenciais:
 
 Conclusão e Resumo:
 
- Revisão Geral dos Circuitos Sequenciais:
+ Revisão Geral
   Conceitos Fundamentais
-  Estrutura Geral
-  Entender lógica digital
-  Dominar circuitos combinacionais
-  Compreender estados e memória
-  Aprender latches
-  Aprender flip-flops
-  Projetar registradores
-  Projetar contadores
-  Criar máquinas de estado
-  Implementar sistemas sequenciais completos
+  Estrutura dos Circuitos Sequenciais
+  Relação entre Memória e Tempo
+  Latches
+  Flip-Flops
+  Registradores
+  Contadores
+  Máquinas de Estado
+  Projeto de Sistemas Sequenciais
 
- Conclusão do Estudo de Circuitos Sequenciais:
-  Importância dos circuitos sequenciais na computação digital
-  Relação entre memória e processamento
-  Evolução dos circuitos simples para sistemas complexos
-  Integração entre lógica combinacional e sequencial
-  Papel dos circuitos sequenciais em processadores e sistemas digitais
-  Base para estudos avançados em:
-   Arquitetura de Computadores
-   Organização de Computadores
-   Sistemas Digitais
-   Eletrônica Digital
-   Sistemas Embarcados
-   FPGA e Hardware Programável
-
-
-
-
+ Conclusão:
+  Importância dos Circuitos Sequenciais
+  Relação entre Memória e Processamento
+  Integração entre Circuitos Combinacionais e Sequenciais
+  Evolução dos Sistemas Digitais
+  Aplicações na Computação
