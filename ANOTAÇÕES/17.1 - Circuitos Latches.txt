@@ -236,6 +236,29 @@ Análise Temporal dos Latches:
 
 
 
+Outros Tipos de Latches:
+
+ Latch T:
+  Conceito
+  Entrada Toggle
+  Funcionamento de alternância
+
+ Latch JK:
+  Estrutura baseada no SR
+  Eliminação do estado proibido
+  Funcionamento das entradas J e K
+
+ 
+Características dos Latches:
+  Memória baseada em realimentação
+  Armazenamento temporário
+  Funcionamento assíncrono
+Controle por nível lógico
+Dependência do sinal Enable
+Sensibilidade às entradas
+
+
+
 
 
 
