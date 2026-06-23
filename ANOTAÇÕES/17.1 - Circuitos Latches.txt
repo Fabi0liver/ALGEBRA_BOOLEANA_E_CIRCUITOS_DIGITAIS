@@ -30,3 +30,44 @@ Introdução aos Latches:
   Estado atual (Qⁿ)
   Próximo estado (Qⁿ⁺¹)
   Saída complementar (Q̄) 
+
+
+
+Fundamentos Necessários Antes dos Latches:
+
+ Conceitos de Circuitos Digitais:
+  Sistemas digitais e níveis lógicos
+  Representação binária
+  Sinais digitais:
+   Nível lógico 0
+   Nível lógico 1
+
+ Álgebra Booleana:
+  Variáveis booleanas
+  Operações lógicas básicas
+  Expressões booleanas
+  Leis e propriedades booleanas
+  Simplificação de expressões
+
+ Portas Lógicas:
+  Porta AND
+  Porta OR
+  Porta NOT
+  Porta NAND
+  Porta NOR
+  Porta XOR
+  Porta XNOR
+
+ Circuitos Combinacionais e Sequenciais:
+  Conceito de circuito combinacional
+  Conceito de circuito sequencial
+  Diferenças entre circuitos combinacionais e sequenciais
+  Presença de memória nos circuitos sequenciais
+  Estado interno do circuito
+  Realimentação (Feedback)
+
+ Realimentação em Circuitos Digitais:
+  Conceito de laço de realimentação
+  Realimentação positiva
+  Armazenamento através da realimentação
+  Condições de estabilidade do circuito
