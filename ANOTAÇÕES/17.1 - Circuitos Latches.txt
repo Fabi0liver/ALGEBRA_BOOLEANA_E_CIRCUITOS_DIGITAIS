@@ -147,3 +147,33 @@ Latch SR (Set-Reset):
   Diferença nas tabelas verdade
   Diferença de comportamento
 
+
+
+Latch SR Controlado (Gated SR Latch):
+
+ Conceito de Controle:
+  Sinal Enable
+  Entrada de habilitação
+  Controle de acesso à memória
+
+ Estrutura do Latch SR Controlado:
+  Latch SR básico
+  Portas de controle
+  Entradas condicionadas
+
+ Modos de Funcionamento:
+  Enable desativado
+  Enable ativado
+  Bloqueio das entradas
+  Liberação das entradas
+
+ Análise do Funcionamento:
+  Tabela verdade
+  Diagramas temporais
+  Comportamento das saídas
+
+
+
+
+
+
