@@ -211,6 +211,31 @@ Latch D (Data Latch):
 
 
 
+Análise Temporal dos Latches:
+
+ Diagramas de Tempo:
+  Entrada
+  Enable
+  Saída Q
+  Saída complementar
+
+ Transparência:
+  Janela de abertura
+  Período de alteração da saída
+  Período de armazenamento
+
+ Temporização:
+  Tempo de propagação
+  Tempo de estabilização
+  Atraso das portas lógicas
+
+ Problemas Temporais:
+  Condições de corrida (Race Conditions)
+  Alterações próximas ao controle
+  Instabilidade
+
+
+
 
 
 
