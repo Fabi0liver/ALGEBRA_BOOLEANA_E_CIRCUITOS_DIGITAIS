@@ -71,3 +71,27 @@ Fundamentos Necessários Antes dos Latches:
   Realimentação positiva
   Armazenamento através da realimentação
   Condições de estabilidade do circuito
+
+
+
+Estrutura Básica de Memória dos Latches:
+
+ Elemento Básico de Armazenamento:
+  Célula binária
+  Armazenamento de um único bit
+  Estados possíveis:
+   Estado 0
+   Estado 1
+
+ Conceito de Estado:
+  Estado atual
+  Próximo estado
+  Transição de estados
+  Estabilidade do estado armazenado
+
+ Análise Temporal:
+  Sinais de entrada
+  Alteração do estado interno
+  Retenção da informação
+  Diagramas de tempo
+  Relação entre entrada e saída
