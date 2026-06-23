@@ -288,6 +288,22 @@ Aplicações dos Latches:
 
 
 
+Comparação Final:
+
+ Latch x Flip-Flop:
+  Controle por nível x controle por borda
+  Transparência x captura instantânea
+  Funcionamento assíncrono x sincronizado
+  Estrutura interna
+
+ SR x D x JK x T:
+  Quantidade de entradas
+  Controle
+  Estados possíveis
+  Aplicações
+
+
+
 
 
 
