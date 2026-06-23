@@ -266,6 +266,28 @@ Características dos Latches:
 
 
 
+Aplicações dos Latches:
+
+ Armazenamento temporário de dados
+
+ Registradores simples
+
+ Bancos de memória
+
+ Controle de sinais digitais
+
+ Circuitos de temporização
+
+ Sistemas de controle
+
+ Sincronização de sinais
+
+ Processadores e unidades digitais
+
+ Elementos internos de memórias eletrônicas
+
+
+
 
 
 
