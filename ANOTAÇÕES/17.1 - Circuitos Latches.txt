@@ -112,21 +112,38 @@ Latch SR (Set-Reset):
   Realimentação cruzada
   Entradas ativas em nível alto
   Funcionamento lógico
+  Estados do Latch SR NOR
+   Estado de retenção (Hold)
+   Estado Set
+   Estado Reset
+   Estado proibido
+   Estado inválido
+  Tabela Verdade do Latch SR NOR:
+   Combinação das entradas S e R
+   Análise das saídas
+   Estado armazenado
+   Próximo estado
+  Equação Característica do Latch SR NOR
+   Expressão do próximo estado
+   Relação entre entradas e saída
 
- Estados do Latch SR NOR
-  Estado de retenção (Hold)
-  Estado Set
-  Estado Reset
-  Estado proibido
-  Estado inválido
+ Latch SR com Portas NAND:
+  Estrutura do Latch NAND
+  Arquitetura interna
+  Portas NAND cruzadas
+  Realimentação
+  Entradas Ativas em Baixo:
+   Entradas negadas
+   Set ativo baixo
+   Reset ativo baixo
+  Funcionamento do Latch NAND:
+   Estado de retenção
+   Estado Set
+   Estado Reset
+   Estado proibido
 
- Tabela Verdade do Latch SR NOR:
-  Combinação das entradas S e R
-  Análise das saídas
-  Estado armazenado
-  Próximo estado
-
- Equação Característica do Latch SR NOR
-  Expressão do próximo estado
-  Relação entre entradas e saída
+ Comparação entre SR NOR e SR NAND:
+  Diferença de polaridade das entradas
+  Diferença nas tabelas verdade
+  Diferença de comportamento
 
