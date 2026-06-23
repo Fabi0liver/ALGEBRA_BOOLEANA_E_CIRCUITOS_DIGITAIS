@@ -1,0 +1,32 @@
+                                           Circuitos Latches
+
+
+
+Introdução aos Latches:
+
+ Conceito de Latch
+
+ Definição como elemento básico de memória
+
+ Latch como dispositivo de armazenamento de 1 bit
+
+ Diferença entre Latch e Flip-Flop
+
+ Característica de funcionamento por nível (Level Triggered)
+
+ Conceito de transparência do Latch
+
+ Modos de operação:
+  Modo Transparente
+  Modo Retenção (Hold)
+
+ Papel dos Latches dentro dos circuitos sequenciais
+
+ Relação entre entrada, estado interno e saída
+
+ Representação simbólica de um Latch
+
+ Termos fundamentais:
+  Estado atual (Qⁿ)
+  Próximo estado (Qⁿ⁺¹)
+  Saída complementar (Q̄) 
