@@ -95,3 +95,38 @@ Estrutura Básica de Memória dos Latches:
   Retenção da informação
   Diagramas de tempo
   Relação entre entrada e saída
+
+
+
+Latch SR (Set-Reset):
+
+ Conceito do Latch SR
+  Definição
+  Estrutura básica
+  Entradas Set e Reset
+  Saídas Q e Q̄
+
+ Latch SR com Portas NOR:
+  Estrutura interna
+  Portas NOR cruzadas
+  Realimentação cruzada
+  Entradas ativas em nível alto
+  Funcionamento lógico
+
+ Estados do Latch SR NOR
+  Estado de retenção (Hold)
+  Estado Set
+  Estado Reset
+  Estado proibido
+  Estado inválido
+
+ Tabela Verdade do Latch SR NOR:
+  Combinação das entradas S e R
+  Análise das saídas
+  Estado armazenado
+  Próximo estado
+
+ Equação Característica do Latch SR NOR
+  Expressão do próximo estado
+  Relação entre entradas e saída
+
