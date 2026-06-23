@@ -248,14 +248,21 @@ Outros Tipos de Latches:
   Eliminação do estado proibido
   Funcionamento das entradas J e K
 
+
  
 Características dos Latches:
-  Memória baseada em realimentação
-  Armazenamento temporário
-  Funcionamento assíncrono
-Controle por nível lógico
-Dependência do sinal Enable
-Sensibilidade às entradas
+ 
+ Memória baseada em realimentação
+  
+ Armazenamento temporário
+  
+ Funcionamento assíncrono
+
+ Controle por nível lógico
+
+ Dependência do sinal Enable
+
+ Sensibilidade às entradas
 
 
 
