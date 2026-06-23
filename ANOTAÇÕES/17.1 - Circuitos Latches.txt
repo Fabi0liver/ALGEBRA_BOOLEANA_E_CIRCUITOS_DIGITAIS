@@ -304,6 +304,28 @@ Comparação Final:
 
 
 
+Conclusão e Revisão dos Latches:
 
+ Conceito geral de latch
 
+ Importância da memória em circuitos digitais
 
+ Funcionamento baseado em realimentação
+
+ Estrutura dos principais tipos:
+  SR
+  SR Controlado
+  D
+  JK
+  T
+
+ Relação entre entradas, estado e saída
+
+ Papel dos latches nos sistemas digitais
+
+ Base para estudo de:
+  Flip-Flops
+  Registradores
+  Contadores
+  Memórias digitais
+  Processadores
