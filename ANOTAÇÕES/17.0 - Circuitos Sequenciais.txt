@@ -1,0 +1,386 @@
+                                      Circuitos Sequenciais
+
+
+Introdução aos Circuitos Sequenciais:
+ 
+ Conceito de Circuitos Sequenciais
+ 
+ Importância dos Circuitos Sequenciais
+ 
+ Características dos Circuitos Sequenciais
+ 
+ Aplicações dos Circuitos Sequenciais
+ 
+ Sistemas com Memória e Sistemas sem Memória
+ 
+ Relação entre Tempo, Memória e Estado
+
+
+
+Diferença entre Circuitos Combinacionais e Sequenciais
+
+
+
+Fundamentos Necessários Antes dos Circuitos Sequenciais:
+
+ Lógica Digital Básica:
+  Sistemas Digitais
+  Bits e Estados Lógicos
+  Níveis Lógicos 0 e 1
+  Portas Lógicas:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+
+ Álgebra Booleana:
+  Variáveis Booleanas
+  Operações Booleanas
+  Leis da Álgebra Booleana
+  Simplificação de Expressões Lógicas
+  Teoremas Booleanos
+
+ Representação de Circuitos Digitais:
+  Tabela da Verdade
+  Expressões Booleanas
+  Diagramas Lógicos
+  Mapas de Karnaugh
+
+ Circuitos Combinacionais Importantes:
+  Somadores:
+   Meio Somador
+   Somador Completo
+  Subtratores:
+   Meio Subtrator
+   Subtrator Completo
+  Comparadores
+  Multiplexadores
+  Demultiplexadores
+  Codificadores
+  Decodificadores
+
+
+
+Conceitos Fundamentais de Circuitos Sequenciais:
+
+ Conceito de Estado:
+  Estado Atual
+  Estado Futuro
+  Transição de Estados
+  Armazenamento de Informação
+  Variáveis de Estado
+  Codificação de Estados
+
+ Estrutura dos Circuitos Sequenciais:
+  Entradas
+  Saídas
+  Elementos de Memória
+  Lógica Combinacional
+  Realimentação (Feedback)
+
+
+
+Tipos de Circuitos Sequenciais:
+
+ Circuitos Sequenciais Síncronos
+
+ Circuitos Sequenciais Assíncronos
+
+
+
+Temporização e Clock:
+
+ Sinal de Clock:
+  Conceito de Clock
+  Pulso de Clock
+  Onda Quadrada
+  Frequência
+  Período
+  Ciclo de Clock
+
+ Sincronismo:
+  Sistemas Síncronos
+  Sistemas Assíncronos
+  Borda de Subida
+  Borda de Descida
+  Disparo por Nível
+  Disparo por Borda
+
+ Temporização em Circuitos Digitais:
+  Tempo de Propagação
+  Tempo de Setup
+  Tempo de Hold
+  Atrasos de Circuito
+
+
+Circuitos de Memória Básicos:
+
+ Circuitos Biestáveis:
+  Conceito de Biestabilidade
+  Estados Estáveis
+  Saída Q
+  Saída Complementar Q̅
+
+
+
+Latches:
+
+ Conceitos de Latches
+
+ Latch SR:
+  Latch SR com NOR
+  Latch SR com NAND
+  Tabela de Funcionamento
+  Estado Proibido
+  Entradas Set e Reset
+
+ Latch D:
+  Funcionamento
+  Entrada de Dados
+  Habilitação (Enable)
+  Aplicações
+
+
+
+Flip-Flops:
+
+ Conceitos de Flip-Flops:
+  Diferença entre Latch e Flip-Flop
+  Controle por Clock
+  Disparo por Borda
+  Entradas Síncronas
+  Entradas Assíncronas
+
+ Tipos de Flip-Flops:
+  Flip-Flop SR:
+   Estrutura
+   Funcionamento
+   Tabela Característica
+   Aplicações
+  Flip-Flop JK:
+   Funcionamento
+   Eliminação do Estado Proibido
+   Alternância (Toggle)
+   Tabela Característica
+  Flip-Flop D:
+   Entrada de Dados
+   Transferência de Dados
+   Aplicações
+  Flip-Flop T:
+   Alternância de Estado
+   Divisão de Frequência
+   Contadores
+  Outros Tipos:
+   Flip-Flop Mestre-Escravo
+   Flip-Flop com Reset
+   Flip-Flop com Preset
+
+
+
+Registradores:
+
+ Conceito de Registradores:
+  Armazenamento de Dados
+  Conjunto de Flip-Flops
+  Registradores de N Bits
+
+ Tipos de Registradores:
+  Registrador Paralelo
+  Registrador Serial
+  Registrador de Deslocamento (Shift Register)
+
+ Configurações de Transferência:
+  SISO (Serial-In Serial-Out)
+  SIPO (Serial-In Parallel-Out)
+  PISO (Parallel-In Serial-Out)
+  PIPO (Parallel-In Parallel-Out)
+
+
+
+Contadores Digitais:
+
+ Fundamentos dos Contadores:
+  Conceito de Contador
+  Sequência Binária
+  Estados de Contagem
+
+ Tipos de Contadores:
+  Contador Assíncrono (Ripple Counter)
+  Contador Síncrono
+
+ Direção da Contagem:
+  Contador Crescente
+  Contador Decrescente
+  Contador Bidirecional
+
+ Contadores Especiais:
+  Contador Módulo N
+  Contador Johnson
+  Contador em Anel
+  Contador de Década (BCD)
+
+
+
+Máquinas de Estado:
+
+ Fundamentos de Máquinas de Estado:
+  Conceito de FSM
+  Estados
+  Transições
+  Entradas
+  Saídas
+
+ Tipos de Máquinas de Estado:
+  Máquina de Moore
+  Máquina de Mealy
+
+ Projeto de Máquinas de Estado:
+  Especificação do Sistema
+  Diagrama de Estados
+  Tabela de Transição
+  Codificação dos Estados
+  Implementação
+
+
+
+Circuitos Temporizadores e Controle de Tempo:
+
+ Osciladores
+
+ Geradores de Clock
+
+ Divisores de Frequência
+
+ Temporizadores Digitais
+
+ Circuitos de Sincronização
+
+
+
+Circuitos de Controle Sequencial:
+
+ Unidade de Controle
+
+ Controladores Digitais
+
+ Sistemas de Controle Automático
+
+ Controle por Estados
+
+
+
+Detectores Sequenciais:
+
+ Detectores de Sequência de Bits
+
+ Reconhecedores de Padrões
+
+ Detectores de Eventos
+
+ Detectores de Bordas
+
+
+
+Conversores Sequenciais:
+
+ Conversor Série-Paralelo
+
+ Conversor Paralelo-Série
+
+ Conversores de Dados Digitais
+
+
+
+Memórias Digitais:
+
+ Memórias Sequenciais:
+  Conceito de Memória Digital
+  Organização de Memória
+  Endereçamento
+
+ Tipos de Memória:
+  RAM
+  ROM
+  EEPROM
+  Flash Memory
+
+
+
+Circuitos Sequenciais em Processadores:
+
+ Registradores de Processador
+
+ Unidade de Controle
+
+ Pipeline
+
+ Registradores de Pipeline
+
+ Estágios de Pipeline
+
+
+
+Circuitos Sequenciais Programáveis:
+
+ Lógica Programável
+
+ CPLD
+
+ FPGA
+
+ Elementos Sequenciais em FPGA
+
+
+
+Projeto Completo de Circuitos Sequenciais:
+ 
+ Definição do Problema
+
+ Entradas e Saídas
+
+ Definição dos Estados
+
+ Tabela de Estados
+
+ Diagrama de Estados
+
+ Codificação de Estados
+
+ Escolha de Flip-Flops
+
+ Equações de Transição
+
+ Simplificação Lógica
+
+ Implementação
+
+ Simulação
+
+ Testes
+
+ Documentação
+
+
+
+Conclusão e Resumo:
+
+ Revisão Geral
+  Conceitos Fundamentais
+  Estrutura dos Circuitos Sequenciais
+  Relação entre Memória e Tempo
+  Latches
+  Flip-Flops
+  Registradores
+  Contadores
+  Máquinas de Estado
+  Projeto de Sistemas Sequenciais
+
+ Conclusão:
+  Importância dos Circuitos Sequenciais
+  Relação entre Memória e Processamento
+  Integração entre Circuitos Combinacionais e Sequenciais
+  Evolução dos Sistemas Digitais
+  Aplicações na Computação
