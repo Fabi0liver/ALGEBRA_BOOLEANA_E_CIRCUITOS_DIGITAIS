@@ -76,3 +76,32 @@ Fundamentos Necessários Antes dos Flip-Flops:
   Tempo de preparação (Setup Time)
   Tempo de manutenção (Hold Time)
   Atraso de clock
+
+
+
+Estrutura Interna dos Flip-Flops:
+
+ Construção com Portas Lógicas:
+  Realimentação entre portas
+  Circuitos biestáveis
+  Implementação com NAND
+  Implementação com NOR
+  Funcionamento interno
+
+ Estados dos Flip-Flops:
+  Estado Set
+  Estado Reset
+  Estado de Memória
+  Estado de Alternância
+  Estado inválido
+
+ Representação dos Flip-Flops:
+  Símbolos lógicos
+  Diagramas internos
+  Diagramas de bloco
+  Tabelas características
+  Equações características
+
+
+
+
