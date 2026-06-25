@@ -222,4 +222,33 @@ Flip-Flop D (Data):
 
 
 
+Flip-Flop T (Toggle):
+
+ Introdução ao Flip-Flop T:
+  Conceito de alternância
+  Entrada T
+  Saída Q
+
+ Estrutura do Flip-Flop T:
+  Derivação do JK
+  Derivação do D
+
+ Funcionamento do Flip-Flop T:
+  T = 0 (manutenção)
+  T = 1 (alternância)
+  Mudança de estado
+
+ Análise do Flip-Flop T:
+  Tabela verdade
+  Tabela característica
+  Equação característica
+  Diagrama temporal
+
+ Aplicações do Flip-Flop T:
+  Contadores
+  Divisores de frequência
+  Circuitos sequenciais
+
+
+
 
