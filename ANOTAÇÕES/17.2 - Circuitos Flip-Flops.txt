@@ -251,4 +251,32 @@ Flip-Flop T (Toggle):
 
 
 
+Entradas Especiais dos Flip-Flops:
+
+ Entradas Síncronas:
+  Controle pelo clock
+  Atualização sincronizada
+
+ Entradas Assíncronas:
+  Controle independente do clock
+  Prioridade das entradas
+
+ Preset:
+  Set direto
+  Ativação assíncrona
+  Inicialização do circuito
+
+ Clear / Reset:
+  Reset direto
+  Limpeza da memória
+  Inicialização em zero
+
+ Ativação das Entradas:
+  Nível alto
+  Nível baixo
+  Entradas negadas
+  Símbolo de bolha lógica
+
+
+
 
