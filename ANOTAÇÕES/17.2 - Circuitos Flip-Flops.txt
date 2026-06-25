@@ -170,4 +170,24 @@ Flip-Flop JK:
 
 
 
+Flip-Flop Mestre-Escravo (Master-Slave):
+
+ Conceito do Mestre-Escravo:
+  Estrutura em dois estágios
+  Mestre
+  Escravo
+  Controle complementar do clock
+
+ Funcionamento:
+  Captura da informação
+  Transferência do estado
+  Sincronização dos estágios
+
+ Aplicação do Mestre-Escravo:
+  Controle do problema de corrida
+  Redução de oscilações
+  Estabilidade no modo Toggle
+
+
+
 
