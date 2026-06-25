@@ -279,4 +279,28 @@ Entradas Especiais dos Flip-Flops:
 
 
 
+Análise e Projeto com Flip-Flops:
+
+ Ferramentas de Análise:
+  Tabela verdade
+  Tabela característica
+  Tabela de excitação
+  Diagramas temporais
+  Diagramas de estados
+
+ Conversão entre Flip-Flops:
+  SR para JK
+  JK para D
+  JK para T
+  D para T
+  T para D
+
+ Projeto de Circuitos Sequenciais:
+  Escolha do Flip-Flop
+  Definição dos estados
+  Equações de entrada
+  Implementação lógica
+
+
+
 
