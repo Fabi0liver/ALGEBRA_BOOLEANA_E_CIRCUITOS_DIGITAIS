@@ -104,4 +104,38 @@ Estrutura Interna dos Flip-Flops:
 
 
 
+Flip-Flop SR (Set-Reset):
+
+ Introdução ao Flip-Flop SR:
+  Conceito do SR
+  Entradas S e R
+  Saídas Q e Q̅
+  Estrutura básica
+
+ Implementações do Flip-Flop SR:
+  SR com portas NOR
+  SR com portas NAND
+  SR com clock
+  SR sensível ao nível
+
+ Funcionamento do Flip-Flop SR:
+  Estado Set
+  Estado Reset
+  Estado Hold
+  Estado proibido
+
+ Análise do Flip-Flop SR:
+  Tabela verdade
+  Tabela característica
+  Equação característica
+  Diagrama temporal
+  Diagrama de transição de estados
+
+ Limitações do Flip-Flop SR:
+  Condição inválida
+  Problemas de sincronização
+  Necessidade de melhorias
+
+
+
 
