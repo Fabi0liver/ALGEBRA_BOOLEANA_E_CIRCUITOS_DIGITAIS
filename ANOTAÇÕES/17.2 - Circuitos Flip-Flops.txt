@@ -26,3 +26,53 @@ Introdução aos Circuitos Flip-Flops:
   Retenção de informação
   Realimentação (Feedback)
   Estabilidade dos estados
+
+
+
+Fundamentos Necessários Antes dos Flip-Flops:
+
+ Fundamentos de Lógica Digital:
+  Sistemas digitais binários
+  Níveis lógicos 0 e 1
+  Álgebra Booleana
+  Operações lógicas básicas
+  Portas lógicas fundamentais:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+
+ Circuitos Combinacionais e Sequenciais:
+  Conceito de circuitos combinacionais
+  Conceito de circuitos sequenciais
+  Diferenças entre combinacionais e sequenciais
+  Dependência do estado anterior
+  Memória em circuitos digitais
+
+ Conceitos de Temporização:
+  Sinal de Clock
+  Pulso de clock
+  Frequência do clock
+  Período do clock
+  Ciclo de clock
+  Sincronismo
+
+ Disparo dos Flip-Flops:
+  Controle por nível
+  Controle por borda
+  Edge-triggered
+  Borda de subida
+  Borda de descida
+  Símbolos de clock
+  Inversão do clock
+
+ Parâmetros Temporais:
+  Tempo de propagação
+  Tempo de subida
+  Tempo de descida
+  Tempo de preparação (Setup Time)
+  Tempo de manutenção (Hold Time)
+  Atraso de clock
