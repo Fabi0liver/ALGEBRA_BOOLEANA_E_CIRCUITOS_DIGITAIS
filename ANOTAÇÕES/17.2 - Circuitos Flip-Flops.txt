@@ -138,4 +138,36 @@ Flip-Flop SR (Set-Reset):
 
 
 
+Flip-Flop JK:
+
+ Introdução ao Flip-Flop JK:
+  Evolução do SR
+  Estrutura do JK
+  Entradas J e K
+  Saídas Q e Q̅
+
+ Funcionamento do Flip-Flop JK:
+  Estado Hold
+  Estado Reset
+  Estado Set
+  Estado Toggle
+
+ Eliminação do Estado Proibido:
+  Comparação JK x SR
+  Solução do estado inválido
+
+ Condição Toggle:
+  Alternância de estados
+  Inversão da saída
+  Divisão de frequência
+
+ Análise do Flip-Flop JK:
+  Tabela verdade
+  Tabela característica
+  Equação característica
+  Diagrama temporal
+  Diagrama de estados
+
+
+
 
