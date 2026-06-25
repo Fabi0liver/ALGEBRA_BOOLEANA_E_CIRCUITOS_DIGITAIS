@@ -33,6 +33,7 @@ Introdução aos Latches:
 
 
 
+
 Fundamentos Necessários Antes dos Latches:
 
  Conceitos de Circuitos Digitais:
