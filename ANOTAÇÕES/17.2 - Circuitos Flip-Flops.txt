@@ -190,4 +190,36 @@ Flip-Flop Mestre-Escravo (Master-Slave):
 
 
 
+Flip-Flop D (Data):
+
+ Introdução ao Flip-Flop D:
+  Conceito de armazenamento de dados
+  Entrada única D
+  Saídas Q e Q̅
+
+ Estrutura do Flip-Flop D:
+  Derivação do SR
+  Derivação do JK
+  Controle pelo clock
+
+ Funcionamento do Flip-Flop D:
+  Captura do dado
+  Transferência na borda do clock
+  Estado armazenado
+  Próximo estado
+
+ Análise do Flip-Flop D:
+  Tabela verdade
+  Tabela característica
+  Equação característica
+  Diagrama temporal
+
+ Aplicações do Flip-Flop D:
+  Registradores
+  Memórias
+  Armazenamento temporário
+  Pipeline de processadores
+
+
+
 
