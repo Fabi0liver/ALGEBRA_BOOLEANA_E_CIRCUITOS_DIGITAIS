@@ -303,4 +303,38 @@ Análise e Projeto com Flip-Flops:
 
 
 
+Aplicações dos Circuitos Flip-Flops
+
+ Armazenamento de Dados:
+  Células de memória
+  Registradores
+  Memória temporária
+
+ Registradores:
+  Registradores paralelos
+  Registradores de deslocamento
+  Entrada serial
+  Saída serial
+
+ Contadores:
+  Contadores assíncronos
+  Contadores síncronos
+  Contadores binários
+  Contadores crescentes
+  Contadores decrescentes
+  Divisores de frequência
+
+ Máquinas de Estados:
+  Máquinas Moore
+  Máquinas Mealy
+  Controle sequencial
+
+ Processadores e Computadores:
+  Unidade de controle
+  Pipeline
+  Banco de registradores
+  Temporizadores internos
+
+
+
 
