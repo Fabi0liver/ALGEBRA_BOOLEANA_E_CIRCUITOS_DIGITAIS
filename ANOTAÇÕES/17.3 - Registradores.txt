@@ -258,7 +258,35 @@ Registradores e Memória:
 
 
 
+Aplicações dos Circuitos Registradores:
+ 
+ Aplicações em Sistemas Digitais:
+  Armazenamento temporário de dados
+  Transferência de informações
+  Controle de fluxo de dados
+  Sincronização de sistemas
 
+ Aplicações em Processadores:
+  Registradores internos da CPU
+  Banco de registradores
+  Registradores de dados
+  Registradores de endereço
+  Registrador de instrução
+  Contador de programa
+  Acumuladores
+
+ Aplicações em Comunicação Digital:
+  Conversão serial/paralela
+  Transmissão de dados
+  Buffers digitais
+  Interfaces de comunicação
+
+ Aplicações em Sistemas Digitais:
+  Contadores
+  Máquinas de estados
+  Controladores digitais
+  Temporizadores
+  Sistemas embarcados
 
 
 
