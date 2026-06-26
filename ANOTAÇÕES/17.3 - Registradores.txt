@@ -213,6 +213,34 @@ Registradores Avançados:
 
 
 
+Operações Especiais com Registradores:
+
+ Rotação de Bits:
+  Rotação à Direita:
+   Movimento circular dos bits
+   Reentrada do bit deslocado
+  Rotação à Esquerda:
+   Movimento circular dos bits
+   Realimentação do bit deslocado
+
+ Operações de Carga:
+  Carga serial
+  Carga paralela
+  Carga síncrona
+  Carga assíncrona
+
+ Conversores Baseados em Registradores:
+  Conversor Série-Paralelo:
+   Funcionamento
+   Uso de registradores de deslocamento
+   Número de ciclos necessários
+  Conversor Paralelo-Série:
+   Funcionamento
+   Carga inicial
+   Deslocamento sequencial
+
+
+
 
 
 
