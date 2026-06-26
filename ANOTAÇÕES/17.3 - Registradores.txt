@@ -183,6 +183,36 @@ Controle dos Registradores:
 
 
 
+Registradores Avançados:
+
+ Registrador Bidirecional:
+  Conceito
+  Deslocamento esquerda/direita
+  Controle de direção
+  Estrutura interna
+  Aplicações
+
+ Registrador Universal:
+  Conceito de registrador universal
+  Múltiplos modos de operação
+  Modos:
+   Entrada serial
+   Saída serial
+   Entrada paralela
+   Saída paralela
+   Deslocamento esquerda
+   Deslocamento direita
+   Armazenamento
+
+ Implementação Interna dos Registradores:
+  Uso de multiplexadores
+  Seleção de caminhos de dados
+  Lógica combinacional de controle
+  Portas lógicas no controle
+  Barramentos internos
+
+
+
 
 
 
