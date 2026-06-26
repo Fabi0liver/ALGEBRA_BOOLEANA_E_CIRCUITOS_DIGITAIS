@@ -1,0 +1,54 @@
+                                                      Registradores
+
+
+
+Conceitos Fundamentais
+Informação Paralela: Transmissão ou apresentação de todos os bits simultaneamente.
+
+Informação Série: Transmissão ou apresentação de bits sequencialmente, um após o outro, através de um único canal.
+
+Registradores
+Funções Básicas:
+
+Armazenamento de dados.
+
+Movimentação de dados.
+
+Componentes: Uso de Flip-Flops (sensíveis a borda de sinal de clock) ou Latches (sensíveis a nível de sinal).
+
+Sincronismo: Utilização de um sinal de clock comum para todos os Flip-Flops de um registrador, garantindo operação síncrona.
+
+Configurações de Entrada e Saída:
+
+Entrada Serial / Saída Serial (com deslocamento à direita ou à esquerda).
+
+Entrada Serial / Saída Paralela (Conversor Série-Paralelo).
+
+Entrada Paralela / Saída Serial (Conversor Paralelo-Série).
+
+Entrada Paralela / Saída Paralela.
+
+Recursos Adicionais:
+
+Entradas de Preset e Clear para controle de estado.
+
+Operações de Rotação (bit saindo de uma extremidade e reentrando na outra).
+
+Memória
+Definição Lógica: Estrutura formada pela combinação de múltiplos registradores.
+
+Organização:
+
+Células ou posições de memória.
+
+Armazenamento baseado em bytes (ou múltiplas palavras, dependendo da arquitetura).
+
+Endereçamento:
+
+Identificação única de cada registrador ou posição de memória.
+
+Uso de valores binários (representados em hexadecimal para facilitar a leitura).
+
+Cálculo da capacidade de endereçamento (relação entre número de bits do endereço e quantidade de posições, baseada em potências de 2).
+
+Hierarquia e Escala: Evolução dos múltiplos (Kilo, Mega, Giga, Tera) aplicada a sistemas binários (potências de 2 elevado a 10).
