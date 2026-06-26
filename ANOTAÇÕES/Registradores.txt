@@ -1,4 +1,4 @@
-                                                      Registradores
+Registradores
 
 
 
@@ -52,3 +52,77 @@ Uso de valores binários (representados em hexadecimal para facilitar a leitura)
 Cálculo da capacidade de endereçamento (relação entre número de bits do endereço e quantidade de posições, baseada em potências de 2).
 
 Hierarquia e Escala: Evolução dos múltiplos (Kilo, Mega, Giga, Tera) aplicada a sistemas binários (potências de 2 elevado a 10).
+
+
+
+
+
+
+Aqui está a lista estruturada com os tópicos e subtópicos abordados nos vídeos para facilitar os seus estudos:Introdução aos Sinais e Transmissão de DadosInformação Paralela (Apresentação/Transmissão simultânea de múltiplos bits)Informação em Série / Serial (Apresentação/Transmissão sequencial de bits, um após o outro)Fundamentos de Armazenamento DigitalPortas Lógicas (A base dos elementos de memória)LatchesLatch SRLatch DCaracterísticas (Sensibilidade ao nível do sinal de controle)Flip-FlopsFlip-Flop DFlip-Flop JKCaracterísticas (Sensibilidade à borda de transição do sinal - subida ou descida)Sincronismo por sinal de clock do sistema (Mestre-Escravo)RegistradoresDefinição e funções básicas:Armazenamento de dadosMovimentação de dadosBarramentos de dados (Largura de palavra: 4 bits, 8 bits/1 Byte, 16 bits, 32 bits, 64 bits)Métodos de Entrada, Saída e Movimentação em Registradores:Entrada Serial / Saída Serial (com deslocamento à direita)Entrada Serial / Saída Serial (com deslocamento à esquerda)Entrada Paralela / Saída SerialEntrada Serial / Saída Paralela (Conversor Série-Paralelo)Entrada Paralela / Saída ParalelaRotação à Direita (Reinjeção do bit menos significativo na extremidade oposta)Rotação à Esquerda (Reinjeção do bit mais significativo na extremidade oposta)Estrutura Interna e Controle de Registradores:Entradas de controle assíncronas (Preset e Clear)Linha comum de clock síncronoMemória Computacional e OrganizaçãoCélula/Posição de Memória (Agrupamento e combinação de múltiplos registradores)Endereçamento de Memória:Diferenciação de células através de endereços únicosRepresentação em sistema HexadecimalRelação entre quantidade de bits de endereço e espaço endereçável ($2^n$)Dimensionamento e Capacidade de Memória:Organização em matrizes (ex: posições $\times$ bits por palavra)Unidades de medida computacional baseadas no sistema binário ($2^{10} = 1024$)Múltiplos binários (Kilo, Mega, Giga, Tera)
+
+
+
+Aqui está uma lista de tópicos e subtópicos completa e estruturada com base nas explicações dos vídeos fornecidos, consolidando os conceitos de forma lógica e didática para facilitar seus estudos:Conceitos Básicos de Transmissão de InformaçãoInformação Paralela (Transmissão simultânea de todos os bits)Informação em Série / Serial (Transmissão sequencial de bits, um após o outro, por um único canal)Fundamentos dos RegistradoresDefinição e Funções BásicasArmazenamento de dados (Dispositivo de memória elementar)Movimentação de dados (Deslocamento de bits)Elementos de Construção (Latches e Flip-Flops)Diferença de sensibilidade (Latch por nível vs. Flip-Flop por borda)Predominância do uso de Flip-Flops do tipo D (Mestre-Escravo)Possibilidade de implementação com Flip-Flops JK ou SRSinais de Controle Comuns e CompartilhadosClock (Sinal de relógio/sincronismo em comum para operação síncrona)Clear / Reset (Limpeza assíncrona/zeramento dos dados)Preset / Set (Carga inicial assíncrona dos dados)Classificação dos Registradores quanto à Entrada e SaídaEntrada Serial e Saída Serial (SISO - Serial-In, Serial-Out)Entrada Serial e Saída Paralela (SIPO - Serial-In, Parallel-Out)Entrada Paralela e Saída Serial (PISO - Parallel-In, Serial-Out)Entrada Paralela e Saída Paralela (PIPO - Parallel-In, Parallel-Out)Registradores de Deslocamento (Shift Registers) e Operações AvançadasCapacidade de Armazenamento (Definida pelo número total de bits/flip-flops)Capacidade e Direção do Deslocamento (Shift)Deslocamento à DireitaDeslocamento à EsquerdaRegistradores de Deslocamento Bidirecionais / DirecionaisSinais de controle adicionais (Load, Shift, Direção Esquerda/Direita)Implementação e lógica de chaveamento com portas lógicas (AND, OR, NOT)Operações de Rotação de Dados (Circulação de bits)Rotação à DireitaRotação à EsquerdaConversores de DadosConversor Série-ParaleloAnálise de ciclos de clock para preenchimento completoConversor Paralelo-SérieLógica de controle para carga (Load) e posterior deslocamentoAplicação e Organização em Sistemas de MemóriaConceito de Palavra de Memória (Agrupamento de bits, ex: bytes de 8 bits)Adaptação para diferentes Arquiteturas (Sistemas de 4, 16, 32 e 64 bits)Células de Memória e Combinação de Múltiplos RegistradoresEndereçamento de MemóriaDiferenciação de registradores por endereços únicosRepresentação em formato Binário e HexadecimalRelação matemática entre quantidade de bits de endereço e posições de memória ($2^n$)Múltiplos de Memória no Sistema Binário (Quilo/Kibi, Mega/Mebi, Giga/Gibi baseados em $2^{10} = 1024$)
+
+
+Com base nos vídeos disponibilizados, os tópicos e subtópicos explicados sobre registradores são os seguintes:
+
+### **1. Fundamentos e Definições**
+*   **Definição de registradores:** associação de dois ou mais flip-flops controlados por um clock comum.
+*   **Funções básicas:**
+    *   Armazenamento de dados (memória).
+    *   Movimentação/deslocamento de dados.
+*   **Capacidade de armazenamento:** número total de bits (definido pelo número de flip-flops).
+*   **Informação paralela vs. Informação serial:**
+    *   Transmissão simultânea de todos os bits.
+    *   Transmissão sequencial (bit a bit) em um único fio.
+
+### **2. Componentes e Sinais de Controle**
+*   **Elementos de armazenamento:**
+    *   Flip-flops tipo D (mais comum).
+    *   Flip-flops tipo JK.
+    *   Flip-flops tipo SR.
+    *   Flip-flops Mestre-Escravo.
+*   **Sinais de controle e sincronismo:**
+    *   Clock (relógio).
+    *   Clear e Preset (entradas assíncronas).
+    *   Reset.
+    *   Enable (habilitação).
+    *   Load (carga).
+    *   Shift/Hold (deslocar ou manter).
+    *   Direção (Direita/Esquerda).
+    *   Output Enable (habilitação de saída).
+*   **Sensibilidade ao sinal de clock:**
+    *   Borda de subida.
+    *   Borda de descida.
+
+### **3. Classificação quanto à Entrada e Saída (I/O)**
+*   **SISO (Serial-In, Serial-Out):** entrada e saída serial.
+*   **SIPO (Serial-In, Parallel-Out):** entrada serial e saída paralela.
+*   **PISO (Parallel-In, Serial-Out):** entrada paralela e saída serial.
+*   **PIPO (Parallel-In, Parallel-Out):** entrada e saída paralela.
+
+### **4. Operações de Deslocamento e Rotação**
+*   **Registradores de deslocamento (Shift Registers):**
+    *   Deslocamento à direita.
+    *   Deslocamento à esquerda.
+    *   Deslocamento bidirecional.
+*   **Registradores de rotação:**
+    *   Rotação à direita.
+    *   Rotação à esquerda.
+*   **Comportamento temporal:** ciclos de relógio necessários para deslocamento total.
+
+### **5. Métodos de Carga de Dados**
+*   **Carga Paralela Síncrona:** controlada pelo clock e sinal de load.
+*   **Carga Paralela Assíncrona:** utiliza as entradas Preset e Clear dos flip-flops, independente do clock.
+
+### **6. Registrador Universal**
+*   **Características:** bidirecionalidade e flexibilidade de I/O (série/paralelo).
+*   **Implementação lógica:**
+    *   Uso de multiplexadores (MUX) para seleção de modo e direção.
+    *   Sinais de controle para seleção de entrada serial vs. paralela.
+    *   Lógica combinatória para controle de deslocamento esquerda/direita.
+
+### **7. Conversores de Dados**
+*   **Conversor Série-Paralelo:** funcionamento como registrador de deslocamento com saídas simultâneas.
+*   **Conversor Paralelo-Série:** funcionamento com carga inicial paralela seguida de deslocamento serial.
