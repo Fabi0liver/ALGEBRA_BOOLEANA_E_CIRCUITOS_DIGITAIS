@@ -241,6 +241,27 @@ Operações Especiais com Registradores:
 
 
 
+Registradores e Memória:
+
+ Relação entre Registradores e Memória:
+  Registrador como unidade de armazenamento
+  Banco de registradores
+  Organização de palavras
+  Endereçamento de registradores
+
+ Banco de Registradores:
+  Conjunto de registradores
+  Seleção de registradores
+  Entrada de dados
+  Saída de dados
+  Controle de leitura e escrita
+
+
+
+
+
+
+
 
 
 
