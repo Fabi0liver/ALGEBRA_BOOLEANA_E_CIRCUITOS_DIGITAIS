@@ -160,6 +160,29 @@ Registradores de Deslocamento (Shift Registers):
 
 
 
+Controle dos Registradores:
+
+ Sinais de Controle:
+  Clock
+  Reset
+  Clear
+  Preset
+  Enable
+  Load
+  Shift
+  Hold
+  Direção de deslocamento
+  Controle de saída
+
+ Operações Controladas:
+  Carregamento de dados
+  Limpeza do registrador
+  Manutenção do valor armazenado
+  Deslocamento controlado
+  Seleção de operação
+
+
+
 
 
 
