@@ -103,6 +103,21 @@ Estrutura dos Registradores:
 
 
 
+Operações Básicas dos Registradores:
+ 
+ Armazenamento:
+  Escrita de dados
+  Retenção de dados
+  Leitura de dados
+  Manutenção de estado
+
+ Movimentação:
+  Transferência de dados
+  Deslocamento de bits
+  Entrada e saída de informações
+
+
+
 
 
 
