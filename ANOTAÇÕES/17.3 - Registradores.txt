@@ -291,5 +291,26 @@ Aplicações dos Circuitos Registradores:
 
 
 
+Conclusão e Revisão:
+
+ Visão Geral Final
+
+ Flip-flop armazena um bit
+
+ Registrador armazena vários bits
+
+ Registradores permitem movimentar dados
+
+ Clock controla o momento das operações
+
+ Entradas e saídas definem o modo de transferência
+
+ Registradores formam a base do armazenamento e processamento digital
+
+ Registradores são elementos fundamentais na construção de CPUs, memórias e sistemas digitais modernos
+
+
+
+
 
 
