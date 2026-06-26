@@ -118,6 +118,48 @@ Operações Básicas dos Registradores:
 
 
 
+Registradores de Deslocamento (Shift Registers):
+
+ Conceito de Registrador de Deslocamento:
+  Definição de shift register
+  Funcionamento baseado em deslocamento de bits
+  Sequenciamento de dados
+  Relação com clock
+
+ Direção do Deslocamento:
+  Deslocamento à Direita:
+   Entrada de bit pela esquerda
+   Saída pelo bit menos significativo
+   Movimento dos dados para direita
+  Deslocamento à Esquerda:
+   Entrada de bit pela direita
+   Saída pelo bit mais significativo
+   Movimento dos dados para esquerda
+
+ Tipos de Registradores de Deslocamento:
+  SISO:
+   Serial Input / Serial Output
+   Entrada serial
+   Saída serial
+   Transferência bit a bit
+  SIPO:
+   Serial Input / Parallel Output
+   Entrada serial
+   Saída paralela
+   Conversão série-paralelo
+  PISO:
+   Parallel Input / Serial Output
+   Entrada paralela
+   Saída serial
+   Conversão paralelo-série
+  PIPO:
+   Parallel Input / Parallel Output
+   Entrada paralela
+   Saída paralela
+   Armazenamento paralelo
+
+
+
 
 
 
