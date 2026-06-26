@@ -73,3 +73,36 @@ Fundamentos Necessários Antes dos Registradores:
    Borda de subida
    Borda de descida
    Entradas assíncronas
+
+
+
+Estrutura dos Registradores:
+
+ Definição de registrador
+
+ Construção com flip-flops
+
+ Relação entre número de flip-flops e quantidade de bits:
+  Registrador de 1 bit
+  Registrador de múltiplos bits:
+   Registrador de 4 bits
+   Registrador de 8 bits
+   Registrador de 16 bits
+   Registrador de 32 bits
+   Registrador de 64 bits
+
+ Estrutura Interna dos Registradores:
+  Flip-flops conectados em conjunto
+  Linha comum de clock
+  Entradas individuais
+  Saídas individuais
+  Barramento de dados
+  Largura do registrador
+  Palavra armazenada
+  Transferência de dados interna
+
+
+
+
+
+
