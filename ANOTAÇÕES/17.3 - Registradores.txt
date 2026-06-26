@@ -1,0 +1,75 @@
+                                        Registradores
+
+
+Visão Geral dos Registradores:
+
+ Conceito de registrador em sistemas digitais
+
+ Papel dos registradores no armazenamento temporário de dados
+
+ Relação entre registradores e circuitos sequenciais
+
+ Registradores como agrupamento de elementos de memória
+
+ Diferença entre armazenamento de bit e armazenamento de palavra
+
+ Registradores de N bits
+
+ Organização interna de registradores
+
+ Capacidade de armazenamento de registradores
+
+
+
+Fundamentos Necessários Antes dos Registradores:
+
+ Fundamentos da Informação Digital:
+  Informação binária
+  Bits e palavras digitais
+  Representação de dados em grupos de bits
+  Informação serial
+  Informação paralela
+  Comunicação serial x paralela
+
+ Fundamentos de Lógica Digital:
+  Portas lógicas básicas:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+  Circuitos combinacionais
+  Circuitos sequenciais
+  Diferença entre circuitos combinacionais e sequenciais
+  Conceito de estado e memória
+
+ Elementos de Memória:
+  Latches:
+   Conceito de latch
+   Latch como elemento básico de armazenamento
+   Sensibilidade ao nível do sinal
+  Tipos de Latches:
+   Latch SR
+   Latch D
+   Entradas de controle
+   Estados permitidos e proibidos
+  Flip-Flops:
+   Conceito de flip-flop
+   Diferença entre latch e flip-flop
+   Sensibilidade à borda do clock
+  Tipos de Flip-Flops:
+   Flip-Flop SR
+   Flip-Flop D
+   Flip-Flop JK
+   Flip-Flop T
+  Características dos Flip-Flops:
+   Entrada
+   Saída
+   Estado atual
+   Próximo estado
+   Clock
+   Borda de subida
+   Borda de descida
+   Entradas assíncronas
