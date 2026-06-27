@@ -93,3 +93,36 @@ Fundamentos Necessários Antes dos Contadores:
 
 
 
+Fundamentos dos Contadores Digitais:
+
+ Conceito de Contador:
+  Definição de Contador Digital
+  Funcionamento por Sequência de Estados
+  Contagem por Pulsos de Clock
+  Relação entre Número de Flip-Flops e Quantidade de Estados
+
+ Sequência Binária:
+  Contagem Binária Natural
+  Incremento de Valores Binários
+  Decremento de Valores Binários
+  Transições entre Estados
+
+ Estados de Contagem:
+  Estado Atual
+  Próximo Estado
+  Tabela de Estados
+  Diagrama de Estados
+  Sequência Completa de Contagem
+  Estados Válidos
+  Estados Inválidos
+
+ Capacidade de Contagem:
+  Número de Estados Possíveis
+  Relação:
+   n Flip-Flops
+   2ⁿ Estados
+  Comprimento da Sequência
+  Módulo de Contagem
+
+
+
