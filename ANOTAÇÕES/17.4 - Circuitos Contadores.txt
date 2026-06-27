@@ -175,3 +175,53 @@ Contadores Assíncronos (Ripple Counters):
 
 
 
+Contadores Síncronos:
+
+ Conceito de Contador Síncrono:
+  Definição
+  Funcionamento Paralelo
+  Clock Comum entre Flip-Flops
+  Atualização Simultânea dos Estados
+
+ Estrutura dos Contadores Síncronos:
+  Flip-Flops em Paralelo
+  Lógica Combinacional de Controle
+  Entradas de Excitação
+  Rede de Realimentação
+
+ Projeto de Contadores Síncronos:
+  Definição da Sequência
+  Diagrama de Estados
+  Tabela de Transição
+  Tabela de Excitação
+  Simplificação das Entradas
+  Mapas de Karnaugh
+  Implementação Lógica
+
+ Contadores Síncronos por Tipo de Flip-Flop:
+  Com Flip-Flop D:
+   Próximo Estado Direto
+   Entradas D
+  Com Flip-Flop T:
+   Controle de Inversão
+   Condição Toggle
+   Sequência Binária
+  Com Flip-Flop JK:
+   Tabela de Excitação JK
+   Condições J e K
+   Estados de Transição
+  
+ Contadores Síncronos Especiais:
+  Sequências Personalizadas
+  Estados Arbitrários
+  Tratamento de Estados Inválidos
+  Autocorreção de Estados
+
+ Vantagens dos Contadores Síncronos:
+  Maior Velocidade
+  Menor Atraso
+  Melhor Controle Temporal
+  Aplicações em Sistemas Rápidos
+
+
+
