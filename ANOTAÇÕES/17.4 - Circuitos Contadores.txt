@@ -245,3 +245,43 @@ Direção da Contagem:
 
 
 
+Contadores Especiais:
+
+ Contador Módulo N:
+  Conceito de Módulo
+  Número de Estados
+  Projeto de Contadores Mod-N
+  Contadores com Sequência Limitada
+
+ Contador de Década (BCD):
+  Conceito de BCD
+  Contagem Decimal em Binário
+  Mod-10
+  Reinicialização Automática
+  Aplicações em Displays
+
+ Contador em Anel (Ring Counter):
+  Estrutura Circular
+  Deslocamento de Bits
+  Realimentação Direta
+  Sequência One-Hot
+  Número de Estados
+
+ Contador Johnson:
+  Realimentação Invertida
+  Sequência Johnson
+  Número de Estados
+  Comparação com Contador em Anel
+
+ Contadores Programáveis:
+  Entrada de Configuração
+  Controle de Módulo
+  Sequências Ajustáveis
+
+ Contadores Pré-carregáveis:
+  Entrada Paralela
+  Carregamento Inicial
+  Valor Inicial de Contagem
+
+
+
