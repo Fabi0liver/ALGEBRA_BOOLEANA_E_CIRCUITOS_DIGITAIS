@@ -225,3 +225,23 @@ Contadores Síncronos:
 
 
 
+Direção da Contagem:
+
+ Contador Crescente (Up Counter):
+  Incremento Binário
+  Sequência Crescente
+  Aplicações
+
+ Contador Decrescente (Down Counter):
+  Decremento Binário
+  Sequência Regressiva
+  Aplicações
+
+ Contador Bidirecional (Up/Down):
+  Contagem Crescente e Decrescente
+  Entrada de Controle
+  Seleção de Direção
+  Circuitos de Comutação
+
+
+
