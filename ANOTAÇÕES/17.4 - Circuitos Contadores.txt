@@ -301,6 +301,35 @@ Divisores de Frequência com Contadores:
 
 
 
+Aplicações dos Contadores Digitais:
+ 
+ Sistemas de Temporização:
+  Relógios Digitais
+  Cronômetros
+  Temporizadores
+  Controle de Intervalos
+
+ Sistemas de Controle:
+  Sequenciamento de Operações
+  Controle de Processos
+  Automação Digital
+
+ Sistemas de Computadores:
+  Unidade de Controle
+  Geração de Endereços
+  Contadores de Programa (PC)
+  Controle de Instruções
+
+ Comunicação Digital:
+  Divisão de Frequência
+  Sincronização
+  Geração de Pulsos
+
+ Eletrônica Digital Prática:
+  Displays Digitais
+  Contadores de Eventos
+  Medidores Digitais
+  Instrumentação
 
 
 
