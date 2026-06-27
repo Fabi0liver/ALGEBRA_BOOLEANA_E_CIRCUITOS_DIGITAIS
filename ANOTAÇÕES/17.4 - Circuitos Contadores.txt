@@ -285,3 +285,22 @@ Contadores Especiais:
 
 
 
+Divisores de Frequência com Contadores:
+ 
+ Conceito de Divisão de Frequência
+
+ Relação Clock e Saída
+
+ Divisão por 2
+
+ Divisão por 4
+
+ Divisão por 8
+
+ Divisores em Cascata
+
+
+
+
+
+
