@@ -126,3 +126,52 @@ Fundamentos dos Contadores Digitais:
 
 
 
+Contadores Assíncronos (Ripple Counters):
+
+ Conceito de Contador Assíncrono:
+  Definição
+  Estrutura Básica
+  Funcionamento em Cascata
+  Propagação do Clock entre Flip-Flops
+
+ Arquitetura do Contador Assíncrono:
+  Primeiro Flip-Flop como Entrada de Clock
+  Saída de um Flip-Flop como Clock do Próximo
+  Cadeia de Flip-Flops
+  Configuração Ripple
+
+ Contador Assíncrono Crescente:
+  Contagem Ascendente
+  Implementação com Flip-Flop T
+  Implementação com Flip-Flop JK
+  Sequência Binária Crescente
+  Contador de 2 Bits
+  Contador de 3 Bits
+  Contador de 4 Bits
+
+ Contador Assíncrono Decrescente:
+  Contagem Regressiva
+  Inversão da Sequência
+  Uso de Saídas Complementares
+  Configuração Decrescente
+
+ Contadores Assíncronos Truncados:
+  Conceito de Contagem Limitada
+  Contador Módulo N
+  Redução da Quantidade de Estados
+  Detecção de Estados
+  Exemplos:
+   Contador Mod-3
+   Contador Mod-5
+   Contador Mod-6
+   Contador de Década Mod-10
+
+ Limitações dos Contadores Assíncronos:
+  Atraso de Propagação
+  Efeito Ripple
+  Problemas de Temporização
+  Glitches
+  Limitação de Velocidade
+
+
+
