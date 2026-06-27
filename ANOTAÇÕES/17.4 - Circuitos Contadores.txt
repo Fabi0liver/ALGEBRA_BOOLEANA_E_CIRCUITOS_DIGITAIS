@@ -26,3 +26,70 @@ Introdução aos Contadores Digitais:
  Diferença entre Contadores e Registradores
 
  Contadores como Sistemas de Memória Sequencial
+
+
+
+Fundamentos Necessários Antes dos Contadores:
+
+ Conceitos de Circuitos Sequenciais:
+  Definição de Circuitos Sequenciais
+  Diferença entre Circuitos Combinacionais e Sequenciais
+  Dependência do Estado Anterior
+  Conceito de Estado Interno
+  Máquina de Estados Finitos (FSM)
+  Relação entre:
+   Entrada
+   Estado Atual
+   Próximo Estado
+   Saída
+
+ Elementos de Memória:
+  Conceito de Elemento de Memória
+  Armazenamento de Bits
+  Realimentação (Feedback)
+  Estados Binários
+  Transição de Estados
+
+ Flip-Flops Aplicados aos Contadores:
+  Conceito de Flip-Flop
+  Funcionamento Básico
+  Entradas e Saídas:
+   Clock
+   Q
+   Q'
+   Set
+   Reset
+
+ Tipos de Flip-Flops Utilizados em Contadores:
+  Flip-Flop SR
+  Flip-Flop JK
+  Flip-Flop D
+  Flip-Flop T
+
+ Características Importantes:
+  Borda de subida
+  Borda de descida
+  Tempo de propagação
+  Estado de transição
+
+ Conceitos de Clock:
+  Sinal de Clock
+  Pulso de Clock
+  Frequência
+  Período
+  Sincronização
+  Temporização (Timing)
+  Diagramas de Tempo
+
+ Sistemas de Numeração para Contadores:
+  Sistema Binário
+  Sistema Decimal
+  Sistema Hexadecimal
+  Conversão entre bases
+  Representação de números binários
+  Bits:
+   MSB (Most Significant Bit)
+   LSB (Least Significant Bit)
+
+
+
