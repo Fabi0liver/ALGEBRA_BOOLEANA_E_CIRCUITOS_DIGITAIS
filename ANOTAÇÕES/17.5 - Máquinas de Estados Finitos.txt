@@ -158,3 +158,28 @@ Modelos de Máquinas de Estado:
   Sensibilidade às entradas
   Conversão entre modelos
 
+
+
+Funcionamento das FSMs:
+
+ Processo de Operação:
+  Estado inicial
+  Leitura das entradas
+  Avaliação da transição
+  Atualização do estado
+  Geração da saída
+
+ Transições de Estado:
+  Conceito de transição
+  Condições de mudança de estado
+  Transições condicionais
+  Transições automáticas
+  Estados de espera
+  Estados de operação
+
+ Controle Temporal:
+  FSMs síncronas
+  FSMs assíncronas
+  Atualização pelo clock
+  Atrasos e sincronização
+
