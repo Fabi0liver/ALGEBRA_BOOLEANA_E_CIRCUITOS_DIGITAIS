@@ -254,3 +254,25 @@ Síntese de FSMs:
   Condições Don't Care
   Recuperação de estados
 
+
+
+Minimização de Máquinas de Estados:
+
+ Fundamentos da Minimização:
+  Objetivo da redução de estados
+  Redução de hardware
+  Redução de flip-flops
+  Simplificação do circuito
+
+ Técnicas de Minimização:
+  Análise visual
+  Estados equivalentes
+  Tabela de implicação
+  Particionamento sucessivo
+  Agrupamento de estados
+
+ Equivalência de Estados:
+  Mesmo comportamento de saída
+  Mesmas transições futuras
+  Estados indistinguíveis
+
