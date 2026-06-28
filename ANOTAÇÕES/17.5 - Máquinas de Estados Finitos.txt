@@ -362,3 +362,28 @@ Relação das FSMs com Outros Componentes Digitais:
 
  FSMs em sistemas embarcados
 
+
+
+Conclusão e Revisão Geral:
+
+ Revisão dos Conceitos Principais:
+  Conceito de FSM
+  Estados e transições
+  Entradas e saídas
+  Moore e Mealy
+  Clock e sincronização
+  Diagramas e tabelas
+  Projeto e implementação
+  Minimização de estados
+
+ Visão Geral do Funcionamento:
+  Entrada altera o comportamento
+  Estado guarda informações anteriores
+  Transição define o próximo passo
+  Saída representa a resposta do sistema
+ 
+ Importância das FSMs:
+  Organização de sistemas sequenciais
+  Criação de comportamentos complexos
+  Controle lógico com memória
+  Base para sistemas digitais modernos
