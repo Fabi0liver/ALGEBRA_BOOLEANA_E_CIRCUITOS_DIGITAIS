@@ -111,3 +111,27 @@ Fundamentos das Máquinas de Estados Finitos:
   Função de saída
   Relação entre entrada, estado e saída
   Representação formal de uma máquina de estados
+
+
+
+Arquitetura das Máquinas de Estado:
+
+ Modelo Geral de uma FSM:
+  Bloco de lógica combinacional
+  Bloco de armazenamento de estado
+  Caminho das entradas
+  Caminho das saídas
+  Realimentação do estado
+
+ Modelo de Huffman:
+  Estado atual
+  Próximo estado
+  Função de transição
+  Função de saída
+  Registro de estado
+  Sincronização pelo clock
+
+
+
+
+
