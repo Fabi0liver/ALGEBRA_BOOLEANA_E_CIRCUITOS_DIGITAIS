@@ -316,3 +316,33 @@ Problemas e Considerações no Projeto de FSMs:
 
  Reset da máquina
 
+
+
+Aplicações das Máquinas de Estados Finitos:
+
+ Sistemas Digitais:
+  Controladores digitais
+  Sequenciadores
+  Unidade de controle de processadores
+  Controle de operações da ULA
+  Controle de memória
+
+ Automação:
+  Controladores industriais
+  Robôs
+  Sistemas embarcados
+  Máquinas automáticas
+
+ Comunicação e Processamento:
+  Protocolos de comunicação
+  Controle de transmissão de dados
+  Codificadores e decodificadores
+  Processamento de sinais
+
+ Sistemas do Cotidiano:
+  Semáforos
+  Elevadores
+  Máquinas de venda automática
+  Sistemas de senha
+  Controle de acesso
+
