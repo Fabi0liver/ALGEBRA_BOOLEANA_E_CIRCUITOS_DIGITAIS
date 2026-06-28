@@ -183,3 +183,33 @@ Funcionamento das FSMs:
   Atualização pelo clock
   Atrasos e sincronização
 
+
+
+Ferramentas de Representação das FSMs:
+
+ Diagrama de Estados:
+  Conceito do diagrama
+  Estados representados por círculos
+  Transições representadas por setas
+  Entradas nas transições
+  Saídas nos estados ou transições
+  Estado inicial
+  Reset da máquina
+
+ Tabela de Transição de Estados:
+  Estado atual
+  Entrada
+  Próximo estado
+  Saída
+  Tabela Moore
+
+ Tabela de Excitação:
+  Relação entre estados e flip-flops
+  Entradas necessárias dos flip-flops
+  Projeto da lógica interna
+
+ Codificação de Estados:
+  Representação binária dos estados
+  Número de bits necessários
+  Relação entre estados e registradores
+
