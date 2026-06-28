@@ -213,3 +213,21 @@ Ferramentas de Representação das FSMs:
   Número de bits necessários
   Relação entre estados e registradores
 
+
+
+Projeto de uma Máquina de Estados Finita:
+
+ Processo Completo de Projeto:
+  Definição do problema
+  Especificação do comportamento
+  Identificação das entradas
+  Identificação das saídas
+  Definição dos estados
+  Construção do diagrama de estados
+  Criação da tabela de transição
+  Codificação dos estados
+  Escolha dos flip-flops
+  Derivação das funções lógicas
+  Simplificação das funções
+  Implementação do circuito
+
