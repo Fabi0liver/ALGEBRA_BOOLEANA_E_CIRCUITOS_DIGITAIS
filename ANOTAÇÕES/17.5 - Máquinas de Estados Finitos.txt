@@ -1,0 +1,21 @@
+                                   Máquinas de Estados Finitos (FSM)
+
+
+
+Introdução às Máquinas de Estados Finitos (FSM):
+
+ Conceito de Máquina de Estados Finitos (Finite State Machine — FSM)
+
+ Papel das FSMs dentro dos circuitos sequenciais
+
+ Relação entre memória, estado e comportamento sequencial
+
+ Diferença entre circuitos combinacionais e circuitos sequenciais
+
+ Sistemas com memória e sistemas sem memória
+
+ Histórico das entradas e influência no comportamento futuro
+
+ Conceito de comportamento baseado em sequência
+
+ Aplicações gerais das FSMs em sistemas digitais
