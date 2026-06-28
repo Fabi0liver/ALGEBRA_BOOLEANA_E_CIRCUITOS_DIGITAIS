@@ -276,3 +276,43 @@ Minimização de Máquinas de Estados:
   Mesmas transições futuras
   Estados indistinguíveis
 
+
+
+Tipos Especiais de Máquinas de Estado:
+
+ Máquinas de controle
+
+ Controladores sequenciais
+
+ Detectores de sequência
+
+ Geradores de sequência
+
+ Contadores como FSMs
+
+ Divisores de frequência como FSMs
+
+ Controladores baseados em estados
+
+
+
+Problemas e Considerações no Projeto de FSMs:
+
+ Complexidade do número de estados
+
+ Explosão de estados
+
+ Escolha da codificação
+
+ Temporização
+
+ Atrasos de propagação
+
+ Glitches
+
+ Sincronização de entradas
+
+ Metastabilidade
+
+ Reset da máquina
+
