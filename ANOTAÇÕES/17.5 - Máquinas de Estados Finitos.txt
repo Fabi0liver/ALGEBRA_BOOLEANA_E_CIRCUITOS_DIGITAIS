@@ -53,3 +53,61 @@ Fundamentos Necessários Antes das FSMs:
   Elementos de memória
   Realimentação (feedback)
   Estado atual e próximo estado
+
+
+
+Elementos de Memória em Circuitos Sequenciais
+
+ Latches:
+  Conceito de latch
+  Latch SR
+  Latch com habilitação (Enable)
+  Comportamento de armazenamento
+
+ Flip-Flops:
+  Conceito de flip-flop
+  Flip-Flop como elemento de armazenamento de estado
+  Tipos de flip-flops:
+   Flip-Flop SR
+   Flip-Flop D
+   Flip-Flop JK
+   Flip-Flop T
+
+ Temporização e Clock:
+  Conceito de clock
+  Sinal periódico
+  Frequência
+  Período
+  Sincronismo
+  Borda de subida
+  Borda de descida
+  Disparo por nível
+  Disparo por borda
+
+
+
+Fundamentos das Máquinas de Estados Finitos:
+
+ Conceito de Estado:
+  Definição de estado
+  Representação de uma situação do sistema
+  Estado atual
+  Próximo estado
+  Variáveis de estado
+  Armazenamento do estado
+
+ Componentes de uma FSM:
+  Conjunto de estados
+  Entradas
+  Saídas
+  Transições
+  Função de próximo estado
+  Função de saída
+  Elementos de memória
+  Clock
+
+ Representação Matemática das FSMs:
+  Função de transição
+  Função de saída
+  Relação entre entrada, estado e saída
+  Representação formal de uma máquina de estados
