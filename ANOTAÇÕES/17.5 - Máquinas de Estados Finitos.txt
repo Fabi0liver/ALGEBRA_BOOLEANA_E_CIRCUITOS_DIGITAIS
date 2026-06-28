@@ -133,5 +133,28 @@ Arquitetura das Máquinas de Estado:
 
 
 
+Modelos de Máquinas de Estado:
 
+ Máquina de Moore:
+  Conceito da Máquina de Moore
+  Saída dependente apenas do estado atual
+  Representação dos estados
+  Diagrama de estados Moore
+  Características das saídas
+  Vantagens e limitações
+
+ Máquina de Mealy:
+  Conceito da Máquina de Mealy
+  Saída dependente do estado atual e das entradas
+  Representação das transições
+  Diagrama de estados Mealy
+  Características das saídas
+  Vantagens e limitações
+
+ Comparação entre Moore e Mealy:
+  Diferença estrutural
+  Diferença no comportamento da saída
+  Tempo de resposta
+  Sensibilidade às entradas
+  Conversão entre modelos
 
