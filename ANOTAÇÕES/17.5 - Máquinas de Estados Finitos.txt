@@ -231,3 +231,26 @@ Projeto de uma Máquina de Estados Finita:
   Simplificação das funções
   Implementação do circuito
 
+
+
+Síntese de FSMs:
+
+ Derivação das Funções Lógicas:
+  Função do próximo estado
+  Função de saída
+  Equações booleanas
+  Mapas de Karnaugh para FSM
+  Simplificação lógica
+
+ Implementação com Flip-Flops:
+  Escolha do tipo de flip-flop
+  Entrada dos flip-flops
+  Registro de estado
+  Circuito final da FSM
+
+ Estados Não Utilizados:
+  Estados inválidos
+  Estados impossíveis
+  Condições Don't Care
+  Recuperação de estados
+
