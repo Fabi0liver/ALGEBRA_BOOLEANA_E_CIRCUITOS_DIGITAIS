@@ -19,3 +19,37 @@ Introdução às Máquinas de Estados Finitos (FSM):
  Conceito de comportamento baseado em sequência
 
  Aplicações gerais das FSMs em sistemas digitais
+
+
+
+Fundamentos Necessários Antes das FSMs:
+
+ Fundamentos de Lógica Digital:
+  Sistemas de numeração binária
+  Variáveis lógicas
+  Álgebra booleana
+  Portas lógicas básicas:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+
+ Circuitos Combinacionais:
+  Conceito de circuito combinacional
+  Relação entrada → saída
+  Tabelas verdade
+  Expressões booleanas
+  Simplificação lógica
+  Mapas de Karnaugh
+  Blocos combinacionais básicos
+
+ Circuitos Sequenciais:
+  Conceito de circuito sequencial
+  Dependência do estado atual
+  Dependência do histórico de entradas
+  Elementos de memória
+  Realimentação (feedback)
+  Estado atual e próximo estado
