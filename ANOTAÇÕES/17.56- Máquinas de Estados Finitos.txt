@@ -1,0 +1,389 @@
+                                   Máquinas de Estados Finitos (FSM)
+
+
+
+Introdução às Máquinas de Estados Finitos (FSM):
+
+ Conceito de Máquina de Estados Finitos (Finite State Machine — FSM)
+
+ Papel das FSMs dentro dos circuitos sequenciais
+
+ Relação entre memória, estado e comportamento sequencial
+
+ Diferença entre circuitos combinacionais e circuitos sequenciais
+
+ Sistemas com memória e sistemas sem memória
+
+ Histórico das entradas e influência no comportamento futuro
+
+ Conceito de comportamento baseado em sequência
+
+ Aplicações gerais das FSMs em sistemas digitais
+
+
+
+Fundamentos Necessários Antes das FSMs:
+
+ Fundamentos de Lógica Digital:
+  Sistemas de numeração binária
+  Variáveis lógicas
+  Álgebra booleana
+  Portas lógicas básicas:
+   AND
+   OR
+   NOT
+   NAND
+   NOR
+   XOR
+   XNOR
+
+ Circuitos Combinacionais:
+  Conceito de circuito combinacional
+  Relação entrada → saída
+  Tabelas verdade
+  Expressões booleanas
+  Simplificação lógica
+  Mapas de Karnaugh
+  Blocos combinacionais básicos
+
+ Circuitos Sequenciais:
+  Conceito de circuito sequencial
+  Dependência do estado atual
+  Dependência do histórico de entradas
+  Elementos de memória
+  Realimentação (feedback)
+  Estado atual e próximo estado
+
+
+
+Elementos de Memória em Circuitos Sequenciais
+
+ Latches:
+  Conceito de latch
+  Latch SR
+  Latch com habilitação (Enable)
+  Comportamento de armazenamento
+
+ Flip-Flops:
+  Conceito de flip-flop
+  Flip-Flop como elemento de armazenamento de estado
+  Tipos de flip-flops:
+   Flip-Flop SR
+   Flip-Flop D
+   Flip-Flop JK
+   Flip-Flop T
+
+ Temporização e Clock:
+  Conceito de clock
+  Sinal periódico
+  Frequência
+  Período
+  Sincronismo
+  Borda de subida
+  Borda de descida
+  Disparo por nível
+  Disparo por borda
+
+
+
+Fundamentos das Máquinas de Estados Finitos:
+
+ Conceito de Estado:
+  Definição de estado
+  Representação de uma situação do sistema
+  Estado atual
+  Próximo estado
+  Variáveis de estado
+  Armazenamento do estado
+
+ Componentes de uma FSM:
+  Conjunto de estados
+  Entradas
+  Saídas
+  Transições
+  Função de próximo estado
+  Função de saída
+  Elementos de memória
+  Clock
+
+ Representação Matemática das FSMs:
+  Função de transição
+  Função de saída
+  Relação entre entrada, estado e saída
+  Representação formal de uma máquina de estados
+
+
+
+Arquitetura das Máquinas de Estado:
+
+ Modelo Geral de uma FSM:
+  Bloco de lógica combinacional
+  Bloco de armazenamento de estado
+  Caminho das entradas
+  Caminho das saídas
+  Realimentação do estado
+
+ Modelo de Huffman:
+  Estado atual
+  Próximo estado
+  Função de transição
+  Função de saída
+  Registro de estado
+  Sincronização pelo clock
+
+
+
+Modelos de Máquinas de Estado:
+
+ Máquina de Moore:
+  Conceito da Máquina de Moore
+  Saída dependente apenas do estado atual
+  Representação dos estados
+  Diagrama de estados Moore
+  Características das saídas
+  Vantagens e limitações
+
+ Máquina de Mealy:
+  Conceito da Máquina de Mealy
+  Saída dependente do estado atual e das entradas
+  Representação das transições
+  Diagrama de estados Mealy
+  Características das saídas
+  Vantagens e limitações
+
+ Comparação entre Moore e Mealy:
+  Diferença estrutural
+  Diferença no comportamento da saída
+  Tempo de resposta
+  Sensibilidade às entradas
+  Conversão entre modelos
+
+
+
+Funcionamento das FSMs:
+
+ Processo de Operação:
+  Estado inicial
+  Leitura das entradas
+  Avaliação da transição
+  Atualização do estado
+  Geração da saída
+
+ Transições de Estado:
+  Conceito de transição
+  Condições de mudança de estado
+  Transições condicionais
+  Transições automáticas
+  Estados de espera
+  Estados de operação
+
+ Controle Temporal:
+  FSMs síncronas
+  FSMs assíncronas
+  Atualização pelo clock
+  Atrasos e sincronização
+
+
+
+Ferramentas de Representação das FSMs:
+
+ Diagrama de Estados:
+  Conceito do diagrama
+  Estados representados por círculos
+  Transições representadas por setas
+  Entradas nas transições
+  Saídas nos estados ou transições
+  Estado inicial
+  Reset da máquina
+
+ Tabela de Transição de Estados:
+  Estado atual
+  Entrada
+  Próximo estado
+  Saída
+  Tabela Moore
+
+ Tabela de Excitação:
+  Relação entre estados e flip-flops
+  Entradas necessárias dos flip-flops
+  Projeto da lógica interna
+
+ Codificação de Estados:
+  Representação binária dos estados
+  Número de bits necessários
+  Relação entre estados e registradores
+
+
+
+Projeto de uma Máquina de Estados Finita:
+
+ Processo Completo de Projeto:
+  Definição do problema
+  Especificação do comportamento
+  Identificação das entradas
+  Identificação das saídas
+  Definição dos estados
+  Construção do diagrama de estados
+  Criação da tabela de transição
+  Codificação dos estados
+  Escolha dos flip-flops
+  Derivação das funções lógicas
+  Simplificação das funções
+  Implementação do circuito
+
+
+
+Síntese de FSMs:
+
+ Derivação das Funções Lógicas:
+  Função do próximo estado
+  Função de saída
+  Equações booleanas
+  Mapas de Karnaugh para FSM
+  Simplificação lógica
+
+ Implementação com Flip-Flops:
+  Escolha do tipo de flip-flop
+  Entrada dos flip-flops
+  Registro de estado
+  Circuito final da FSM
+
+ Estados Não Utilizados:
+  Estados inválidos
+  Estados impossíveis
+  Condições Don't Care
+  Recuperação de estados
+
+
+
+Minimização de Máquinas de Estados:
+
+ Fundamentos da Minimização:
+  Objetivo da redução de estados
+  Redução de hardware
+  Redução de flip-flops
+  Simplificação do circuito
+
+ Técnicas de Minimização:
+  Análise visual
+  Estados equivalentes
+  Tabela de implicação
+  Particionamento sucessivo
+  Agrupamento de estados
+
+ Equivalência de Estados:
+  Mesmo comportamento de saída
+  Mesmas transições futuras
+  Estados indistinguíveis
+
+
+
+Tipos Especiais de Máquinas de Estado:
+
+ Máquinas de controle
+
+ Controladores sequenciais
+
+ Detectores de sequência
+
+ Geradores de sequência
+
+ Contadores como FSMs
+
+ Divisores de frequência como FSMs
+
+ Controladores baseados em estados
+
+
+
+Problemas e Considerações no Projeto de FSMs:
+
+ Complexidade do número de estados
+
+ Explosão de estados
+
+ Escolha da codificação
+
+ Temporização
+
+ Atrasos de propagação
+
+ Glitches
+
+ Sincronização de entradas
+
+ Metastabilidade
+
+ Reset da máquina
+
+
+
+Aplicações das Máquinas de Estados Finitos:
+
+ Sistemas Digitais:
+  Controladores digitais
+  Sequenciadores
+  Unidade de controle de processadores
+  Controle de operações da ULA
+  Controle de memória
+
+ Automação:
+  Controladores industriais
+  Robôs
+  Sistemas embarcados
+  Máquinas automáticas
+
+ Comunicação e Processamento:
+  Protocolos de comunicação
+  Controle de transmissão de dados
+  Codificadores e decodificadores
+  Processamento de sinais
+
+ Sistemas do Cotidiano:
+  Semáforos
+  Elevadores
+  Máquinas de venda automática
+  Sistemas de senha
+  Controle de acesso
+
+
+
+Relação das FSMs com Outros Componentes Digitais:
+
+ FSMs e registradores
+
+ FSMs e contadores
+
+ FSMs e multiplexadores
+
+ FSMs e memória
+
+ FSMs em processadores
+
+ FSMs em sistemas embarcados
+
+
+
+Conclusão e Revisão Geral:
+
+ Revisão dos Conceitos Principais:
+  Conceito de FSM
+  Estados e transições
+  Entradas e saídas
+  Moore e Mealy
+  Clock e sincronização
+  Diagramas e tabelas
+  Projeto e implementação
+  Minimização de estados
+
+ Visão Geral do Funcionamento:
+  Entrada altera o comportamento
+  Estado guarda informações anteriores
+  Transição define o próximo passo
+  Saída representa a resposta do sistema
+ 
+ Importância das FSMs:
+  Organização de sistemas sequenciais
+  Criação de comportamentos complexos
+  Controle lógico com memória
+  Base para sistemas digitais modernos
